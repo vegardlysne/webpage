@@ -1,0 +1,11 @@
+---
+title: ""
+subtitle: ""
+summary: ""
+---
+Here is a list of my notes from courses and conferences I've attended. My preferred tool for writing notes is RMarkdown. 
+
+## Conferences
+
+- [**RStudio::conf2019**](/contributions/courses/rstudioconf2019.html), Austin, Texas, January 2019 
+    

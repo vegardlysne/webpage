@@ -1,0 +1,48 @@
+---
+title: Media appearances
+author: ''
+date: 
+slug: media
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-08-29T11:30:52+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+#### {#top}
+
+This is an overview of my appearances in norwegian media, sorted by year.  
+
+Go to year: [2015](#y2015), [2016](#y2016), [2017](#y2017), [2018](#y2018), [2019](#y2019)
+
+## 2019 {#y2019}
+[Back to the top](#top)
+
+Media appearances in 2019...
+
+## 2018 {#y2018}
+[Back to the top](#top)
+
+Media appearances in 2018...
+
+## 2017 {#y2017}
+[Back to the top](#top)
+
+Media appearances in 2017...
+
+## 2016 {#y2016}
+[Back to the top](#top)
+
+Media appearances in 2016...
+
+## 2015 {#y2015}
+[Back to the top](#top)
+
+Media appearances in 2015...

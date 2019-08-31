@@ -1,0 +1,44 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Blog"
+  url = "/post/"
+  weight = 10
+  
+[[main]]
+  name = "My contributions"
+  url = "/contributions/"
+  weight = 20
+  identifier = "contributions"
+  
+[[main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 100
+  parent = "contributions"
+  
+[[main]]
+  name = "Master thesis"
+  url = "/files/MSc_Thesis_Lysne_2014.pdf"
+  weight = 300
+  parent = "contributions"
+
+[[main]]
+  name = "Media appearances"
+  url = "/media/"
+  weight = 200
+  parent = "contributions"
+  
+[[main]]
+  name = "Resources"
+  url = "/resources/"
+  weight = 90
+
+# Link to PDFs, such as CV. The files are in the static/files folder
+[[main]]
+  name = "CV"
+  url = "/files/cv.pdf"
+  weight = 70

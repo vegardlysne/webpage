@@ -1,0 +1,64 @@
+---
+title: 
+author: 
+date: 
+slug: publications
+categories: []
+tags: []
+---
+[Go to other publications](#Other)
+
+## Journal publications {#Journal}
+
+`2019` Strand E, **Lysne V**, Grinna ML, Bohov P, Svardal A, Nygård O, Berge RK, Bjørndal B. __*Short-Term Activation of Peroxisome Proliferator-Activated Receptors &alpha; and &gamma; Induces Tissue-Specific Effects on Lipid Metabolism and Fatty Acid Composition in Male Wistar Rats.*__ PPAR res. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31308847)
+
+`2019` Ulven SM, Christensen JJ, Nygård O, Svardal A, Leder L, Ottestad I, **Lysne V**, Laupsa-Borge J, Ueland PM, Midttun Ø, Meyer K, McCann A, Andersen LF, Holven KB. __*Using metabolic profiling and gene expression analyses to explore molecular effects of replacing saturated fat with polyunsaturated fat-a randomized controlled dietary intervention study.*__ Am J Clin Nutr. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31051508)
+
+`2019` Dhar I, **Lysne V**, Svingen GFT, Ueland PM, Gregory JF, Bønaa KH, Nygård OK. __*Elevated plasma cystathionine is associated with increased risk of mortality among patients with suspected or established coronary heart disease.*__ Am J Clin Nutr. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31005968)
+
+`2019` Puaschitz NG, Assmus J, Strand E, Karlsson T, Vinknes KJ, **Lysne V**, Drevon CA, Tell GS, Dierkes J, Nygård O. __*Adherence to the Healthy Nordic Food Index and the incidence of acute myocardial infarction and mortality among patients with stable angina pectoris.*__ J Hum Nutr Diet. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30091209)
+
+`2018` Dhar I, Svingen GFT, Ueland PM, **Lysne V**, Svenningsson MM, Tell GS, Nygård OK. __*Plasma Cystathionine and Risk of Incident Stroke in Patients With Suspected Stable Angina Pectoris.*__ J Am Heart Assoc. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30371177)
+
+`2018` Bjørndal B, Bruheim I, Lysne V, Ramsvik MS, Ueland PM, Nordrehaug JE, Nygård OK, Berge RK. __*Plasma choline, homocysteine and vitamin status in healthy adults supplemented with krill oil: a pilot study.*__ Scand J Clin Lab Invest. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30261756)
+
+`2018` Dhar I, Lysne V, Seifert R, Svingen GFT, Ueland PM, Nygård OK. __*Plasma methionine and risk of acute myocardial infarction: Effect modification by established risk factors.*__ Atherosclerosis. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29621698)
+
+`2018` Strauss P, Marti HP, Beisland C, Scherer A, **Lysne V**, Leh S, Flatberg A, Koch E, Beisvag V, Landolt L, Skogstrand T, Eikrem ØS. __*Expanding the Utilization of Formalin-Fixed, Paraffin-Embedded Archives: Feasibility of miR-Seq for Disease Exploration and Biomarker Development from Biopsies with Clear Cell Renal Cell Carcinoma.*__ Int J Mol Sci. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29534467)
+
+`2018` Strand E, Rebnord EW, Flygel MR, **Lysne V**, Svingen GFT, Tell GS, Løland KH, Berge RK, Svardal A, Nygård O, Pedersen ER. __*Serum Carnitine Metabolites and Incident Type 2 Diabetes Mellitus in Patients With Suspected Stable Angina Pectoris.*__ J Clin Endocrinol Metab. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29325058)
+
+`2017` DeRatt BN, Ralat MA, **Lysne V**, Tayyari F, Dhar I, Edison AS, Garrett TJ, Midttun Ø, Ueland PM, Nygård OK, Gregory JF 3rd. __*Metabolomic Evaluation of the Consequences of Plasma Cystathionine Elevation in Adults with Stable Angina Pectoris.*__ J Nutr. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28794210)
+
+`2016` Hannibal L, **Lysne V**, Bjørke-Monsen AL, Behringer S, Grünert SC, Spiekerkoetter U, Jacobsen DW, Blom HJ. __*Biomarkers and Algorithms for the Diagnosis of Vitamin B12 Deficiency.*__ Front Mol Biosci. [PMID: 27446930](https://www.ncbi.nlm.nih.gov/pubmed/) 
+Similar articles
+
+`2016` **Lysne V**, Strand E, Svingen GF, Bjørndal B, Pedersen ER, Midttun Ø, Olsen T, Ueland PM, Berge RK, Nygård O. __*Peroxisome Proliferator-Activated Receptor Activation is Associated with Altered Plasma One-Carbon Metabolites and B-Vitamin Status in Rats.*__ Nutrients. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26742069)
+
+`2015` **Lysne V**, Bjørndal B, Vik R, Nordrehaug JE, Skorve J, Nygård O, Berge RK. __*A Protein Extract from Chicken Reduces Plasma Homocysteine in Rats.*__ Nutrients. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26053618)
+
+`2015` Øyen J, Svingen GF, Gjesdal CG, Tell GS, Ueland PM, **Lysne V**, Apalset EM, Meyer K, Vollset SE, Nygård OK. __*Plasma dimethylglycine, nicotine exposure and risk of low bone mineral density and hip fracture: the Hordaland Health Study.*__ Osteoporos Int. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25616506)
+
+[Back to the top of journal publications](#Journal)
+
+## Other publications {#Other}
+
+`2019` Matre ÅO, **Lysne, V**. __*B12-tilskudd uten B12-mangel.*__ Norsk Tidsskrift for Ernæring 2019, 3. 
+
+`2019` **Lysne V**. 12. __*Internasjonale konferanse om enkarbonmetabolisme.*__ B-vitaminer og homocystein. Norsk Tidsskrift for Ernæring, 2019(3).
+
+`2018` **Lysne V**, Marienborg I, Olsen T. __*FASEB-konferanse om folat.*__ vitamin B12 og enkarbonmetabolisme. Norsk Tidsskrift for Ernæring, 2018(3).
+
+`2018` **Lysne V**, Olsen T. __*Feilkilder i ernæringsepidemiologi.*__ Norsk Tidsskrift for Ernæring, 2018(2). 
+
+`2017` **Lysne V**. __*Glimt fra den 11. internasjonale konferansen om homocystein og enkarbonmetabolisme i Århus.*__ Norsk tidsskrift for Ernæring, 2017(3).
+
+`2017` **Lysne V**, Olsen T. __*Konfidensintervaller – hva kan de fortelle deg?*__ Norsk Tidsskrift for Ernæring, 2017(1)
+
+`2016` **Lysne V**, Olsen T. __*P-verdier. Veiledende eller villedende? En simulert studie.*__ Norsk Tidsskrift for Ernæring, 2016(4).
+
+`2016` Christensen JJ, **Lysne V**. __*Støtter lørdagsgodt.*__ Den Norske Tannlegeforenings Tidende, 2016(5). 
+
+`2015` Olsen T, **Lysne V**. __*Ta faget tilbake.*__ Norsk Tidsskrift for Ernæring, 2015(3).
+
+`2015` Kverneland M, Christensen JJ, **Lysne V**. __*Lavkarbodietter har kommet for å bli, men hører hjemme i klinikken.*__ Norsk Tidsskrift for Ernæring, 2015(2).
