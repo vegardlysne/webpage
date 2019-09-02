@@ -1,9 +1,10 @@
 ---
-title: 
+title: Publications
 author: 
 date: 
+summary: ''
 slug: publications
-categories: []
+categories: 
 tags: []
 ---
 [Go to other publications](#Other)

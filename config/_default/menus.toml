@@ -4,9 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "About me"
+  url = "#about"
+  weight = 1
+
+[[main]]
   name = "Blog"
-  url = "/post/"
+  url = "/blog/"
   weight = 10
+
+[[main]]
+  name = "CV"
+  url = "/cv/CV.pdf"
+  weight = 15
   
 [[main]]
   name = "My contributions"
@@ -14,31 +24,87 @@
   weight = 20
   identifier = "contributions"
   
-[[main]]
-  name = "Publications"
-  url = "/publications/"
-  weight = 100
-  parent = "contributions"
+    [[main]]
+      name = "Journal publications"
+      url = "/contributions/publications"
+      weight = 100
+      parent = "contributions"
+      
+    [[main]]
+      name = "Presentations at conferences"
+      url = "/contributions/conferences/"
+      weight = 120
+      parent = "contributions"
+      
+    [[main]]
+      name = "Articles and chronicles"
+      url = "/contributions/articles/"
+      weight = 130
+      parent = "contributions"
+      
+    [[main]]
+      name = "My notes from courses and conferences"
+      url = "/contributions/courses/"
+      weight = 140
+      parent = "contributions"
+      
+    [[main]]
+      name = "Teaching"
+      url = "/contributions/teaching/"
+      weight = 150
+      parent = "contributions"
+      
+    [[main]]
+      name = "Media appearances"
+      url = "/contributions/media/"
+      weight = 200
+      parent = "contributions"
+    
+    [[main]]
+      name = "Master thesis"
+      url = "/files/MSc_Thesis_Lysne_2014.pdf"
+      weight = 300
+      parent = "contributions"
   
 [[main]]
-  name = "Master thesis"
-  url = "/files/MSc_Thesis_Lysne_2014.pdf"
-  weight = 300
-  parent = "contributions"
-
-[[main]]
-  name = "Media appearances"
-  url = "/media/"
-  weight = 200
-  parent = "contributions"
-  
-[[main]]
-  name = "Resources"
-  url = "/resources/"
+  name = "Collections"
+  url = "/collections/"
   weight = 90
+  identifier = "collections"
+  
+    [[main]]
+      name = "R programming resources"
+      weight = 10
+      url = "/collections/r"
+      parent = "collections"
+      
+    [[main]]
+      name = "List of blogs and web pages"
+      weight = 20
+      url = "/collections/blogs/"
+      parent = "collections"
+      
+    [[main]]
+      name = "List of awesome talks"
+      weight = 20
+      url = "/collections/talks/"
+      parent = "collections"
 
-# Link to PDFs, such as CV. The files are in the static/files folder
 [[main]]
-  name = "CV"
-  url = "/files/cv.pdf"
-  weight = 70
+  name = "Misc"
+  url = "/misc/"
+  weight = 100
+  identifier = "misc"
+  
+    [[main]]
+      name = "Volleyball"
+      url = "/misc/volleyball"
+      weight = 200
+      parent = "misc"
+    
+
+# Example: Link to PDFs, such as CV. The files are in the static/files folder
+#[[main]]
+#  name = "CV"
+#  url = "/files/cv.pdf"
+#  weight = 70
