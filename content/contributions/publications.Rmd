@@ -2,9 +2,9 @@
 title: Publications
 author: 
 date: 
-summary: ''
+summary: 'A list of my publications'
 slug: publications
-categories: 
+categories: []
 tags: []
 ---
 [Go to other publications](#Other)

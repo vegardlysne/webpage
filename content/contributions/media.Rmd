@@ -1,12 +1,12 @@
 ---
-title: Media appearances
+title: Media
 author: ''
 date: 
 slug: media
 categories: []
 tags: []
 subtitle: ''
-summary: ''
+summary: 'A list of my media appearances (norwegian media)'
 authors: []
 lastmod: '2019-08-29T11:30:52+02:00'
 featured: no
@@ -17,8 +17,6 @@ image:
 projects: []
 ---
 #### {#top}
-
-This is an overview of my appearances in norwegian media, sorted by year.  
 
 Go to year: [2015](#y2015), [2016](#y2016), [2017](#y2017), [2018](#y2018), [2019](#y2019)
 
