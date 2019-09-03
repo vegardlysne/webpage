@@ -30,17 +30,17 @@
       weight = 100
       parent = "contributions"
       
-    [[main]]
-      name = "Presentations at conferences"
-      url = "/contributions/presentations/"
-      weight = 120
-      parent = "contributions"
+ #   [[main]]
+ #     name = "Presentations at conferences"
+ #     url = "/contributions/presentations/"
+ #     weight = 120
+ #     parent = "contributions"
       
-    [[main]]
-      name = "Articles and chronicles"
-      url = "/contributions/articles/"
-      weight = 130
-      parent = "contributions"
+ #   [[main]]
+ #     name = "Articles and chronicles"
+ #     url = "/contributions/articles/"
+ #     weight = 130
+ #     parent = "contributions"
       
     [[main]]
       name = "My notes from courses and conferences"
@@ -48,11 +48,11 @@
       weight = 140
       parent = "contributions"
       
-    [[main]]
-      name = "Teaching"
-      url = "/contributions/teaching/"
-      weight = 150
-      parent = "contributions"
+#    [[main]]
+#      name = "Teaching"
+#      url = "/contributions/teaching/"
+#      weight = 150
+#      parent = "contributions"
       
     [[main]]
       name = "Media appearances"
@@ -72,11 +72,11 @@
   weight = 90
   identifier = "collections"
   
-    [[main]]
-      name = "R programming resources"
-      weight = 10
-      url = "/collections/r"
-      parent = "collections"
+ #   [[main]]
+ #     name = "R programming resources"
+ #     weight = 10
+ #     url = "/collections/r"
+ #     parent = "collections"
       
     [[main]]
       name = "List of blogs and web pages"
@@ -84,27 +84,26 @@
       url = "/collections/blogs/"
       parent = "collections"
       
-    [[main]]
-      name = "List of awesome talks"
-      weight = 20
-      url = "/collections/talks/"
-      parent = "collections"
+ #   [[main]]
+ #     name = "List of awesome talks"
+ #     weight = 30
+ #     url = "/collections/talks/"
+ #     parent = "collections"
+ #     
+ #   [[main]]
+ #     name = "Recommended papers"
+ #     weight = 40
+ #     url = "/collections/papers/"
+ #     parent = "collections"  
 
-[[main]]
-  name = "Misc"
-  url = "/misc/"
-  weight = 100
-  identifier = "misc"
-  
-    [[main]]
-      name = "Volleyball"
-      url = "/misc/volleyball"
-      weight = 200
-      parent = "misc"
-    
-
-# Example: Link to PDFs, such as CV. The files are in the static/files folder
 #[[main]]
-#  name = "CV"
-#  url = "/files/cv.pdf"
-#  weight = 70
+#  name = "Misc"
+#  url = "/misc/"
+#  weight = 100
+#  identifier = "misc"
+#  
+#    [[main]]
+#      name = "Volleyball"
+#      url = "/misc/volleyball"
+#      weight = 200
+#      parent = "misc"

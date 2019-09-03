@@ -1,0 +1,21 @@
+---
+title: Recommended papers
+author: Vegard
+date: '2019-09-03'
+slug: recommended-papers
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-09-03T12:46:28+02:00'
+featured: no
+draft: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+---
+A list of scientific papers I find useful. 
+
+To come...

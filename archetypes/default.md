@@ -18,9 +18,3 @@ image:
   focal_point: ""
   preview_only: false
 ---
-#### {#top}
-
-
-
-
-[Back to top](#top)
