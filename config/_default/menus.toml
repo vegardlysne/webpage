@@ -25,7 +25,7 @@
   identifier = "contributions"
   
     [[main]]
-      name = "Journal publications"
+      name = "Publications"
       url = "/contributions/publications"
       weight = 100
       parent = "contributions"
