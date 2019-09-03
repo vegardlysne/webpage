@@ -44,18 +44,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/contributions/presentations/</link>
-      <pubDate>Tue, 03 Sep 2019 12:20:32 +0200</pubDate>
-      <guid>/contributions/presentations/</guid>
-      <description>
-
-
-&lt;p&gt;On this page you will find my posters and presentations from conferences I’ve attended.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>R programming resources</title>
       <link>/collections/r/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
@@ -82,15 +70,15 @@
     </item>
     
     <item>
-      <title>Test</title>
-      <link>/contributions/test/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/contributions/test/</guid>
+      <title>Recommended papers</title>
+      <link>/collections/recommended-papers/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/collections/recommended-papers/</guid>
       <description>
 
 
-&lt;p&gt;dette er en test&lt;/p&gt;
-&lt;p&gt;dddddd&lt;/p&gt;
+&lt;p&gt;A list of scientific papers I find useful.&lt;/p&gt;
+&lt;p&gt;To come…&lt;/p&gt;
 </description>
     </item>
     
@@ -107,7 +95,7 @@
     </item>
     
     <item>
-      <title>Media</title>
+      <title>Media appearances</title>
       <link>/contributions/media/</link>
       <pubDate>Thu, 29 Aug 2019 11:30:52 +0200</pubDate>
       <guid>/contributions/media/</guid>
@@ -116,6 +104,7 @@
 
 &lt;div id=&#34;top&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;&lt;/h4&gt;
+&lt;p&gt;This is an overview of my appearances in norwegian media, sorted by year.&lt;/p&gt;
 &lt;p&gt;Go to year: &lt;a href=&#34;#y2015&#34;&gt;2015&lt;/a&gt;, &lt;a href=&#34;#y2016&#34;&gt;2016&lt;/a&gt;, &lt;a href=&#34;#y2017&#34;&gt;2017&lt;/a&gt;, &lt;a href=&#34;#y2018&#34;&gt;2018&lt;/a&gt;, &lt;a href=&#34;#y2019&#34;&gt;2019&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;y2019&#34; class=&#34;section level2&#34;&gt;
@@ -165,15 +154,20 @@
     </item>
     
     <item>
-      <title>Courses</title>
+      <title></title>
       <link>/contributions/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/contributions/courses/</guid>
       <description>
 
 
-&lt;p&gt;These are my notes from courses and conferences I have attended.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;/contributions/courses/notes/rstudioconf2019.html&#34;&gt;RStudio::conf2019&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is a list of my notes from courses and conferences I’ve attended. My preferred tool for writing notes is RMarkdown.&lt;/p&gt;
+&lt;div id=&#34;conferences&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Conferences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/contributions/courses/rstudioconf2019.html&#34;&gt;&lt;strong&gt;RStudio::conf2019&lt;/strong&gt;&lt;/a&gt;, Austin, Texas, January 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -198,8 +192,7 @@
 &lt;p&gt;&lt;code&gt;2018&lt;/code&gt; Strauss P, Marti HP, Beisland C, Scherer A, &lt;strong&gt;Lysne V&lt;/strong&gt;, Leh S, Flatberg A, Koch E, Beisvag V, Landolt L, Skogstrand T, Eikrem ØS. &lt;strong&gt;&lt;em&gt;Expanding the Utilization of Formalin-Fixed, Paraffin-Embedded Archives: Feasibility of miR-Seq for Disease Exploration and Biomarker Development from Biopsies with Clear Cell Renal Cell Carcinoma.&lt;/em&gt;&lt;/strong&gt; Int J Mol Sci. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/29534467&#34;&gt;PubMed&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;2018&lt;/code&gt; Strand E, Rebnord EW, Flygel MR, &lt;strong&gt;Lysne V&lt;/strong&gt;, Svingen GFT, Tell GS, Løland KH, Berge RK, Svardal A, Nygård O, Pedersen ER. &lt;strong&gt;&lt;em&gt;Serum Carnitine Metabolites and Incident Type 2 Diabetes Mellitus in Patients With Suspected Stable Angina Pectoris.&lt;/em&gt;&lt;/strong&gt; J Clin Endocrinol Metab. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/29325058&#34;&gt;PubMed&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;2017&lt;/code&gt; DeRatt BN, Ralat MA, &lt;strong&gt;Lysne V&lt;/strong&gt;, Tayyari F, Dhar I, Edison AS, Garrett TJ, Midttun Ø, Ueland PM, Nygård OK, Gregory JF 3rd. &lt;strong&gt;&lt;em&gt;Metabolomic Evaluation of the Consequences of Plasma Cystathionine Elevation in Adults with Stable Angina Pectoris.&lt;/em&gt;&lt;/strong&gt; J Nutr. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/28794210&#34;&gt;PubMed&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;2016&lt;/code&gt; Hannibal L, &lt;strong&gt;Lysne V&lt;/strong&gt;, Bjørke-Monsen AL, Behringer S, Grünert SC, Spiekerkoetter U, Jacobsen DW, Blom HJ. &lt;strong&gt;&lt;em&gt;Biomarkers and Algorithms for the Diagnosis of Vitamin B12 Deficiency.&lt;/em&gt;&lt;/strong&gt; Front Mol Biosci. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/&#34;&gt;PMID: 27446930&lt;/a&gt;
-Similar articles&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;2016&lt;/code&gt; Hannibal L, &lt;strong&gt;Lysne V&lt;/strong&gt;, Bjørke-Monsen AL, Behringer S, Grünert SC, Spiekerkoetter U, Jacobsen DW, Blom HJ. &lt;strong&gt;&lt;em&gt;Biomarkers and Algorithms for the Diagnosis of Vitamin B12 Deficiency.&lt;/em&gt;&lt;/strong&gt; Front Mol Biosci. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/&#34;&gt;PMID: 27446930&lt;/a&gt; Similar articles&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;2016&lt;/code&gt; &lt;strong&gt;Lysne V&lt;/strong&gt;, Strand E, Svingen GF, Bjørndal B, Pedersen ER, Midttun Ø, Olsen T, Ueland PM, Berge RK, Nygård O. &lt;strong&gt;&lt;em&gt;Peroxisome Proliferator-Activated Receptor Activation is Associated with Altered Plasma One-Carbon Metabolites and B-Vitamin Status in Rats.&lt;/em&gt;&lt;/strong&gt; Nutrients. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/26742069&#34;&gt;PubMed&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;2015&lt;/code&gt; &lt;strong&gt;Lysne V&lt;/strong&gt;, Bjørndal B, Vik R, Nordrehaug JE, Skorve J, Nygård O, Berge RK. &lt;strong&gt;&lt;em&gt;A Protein Extract from Chicken Reduces Plasma Homocysteine in Rats.&lt;/em&gt;&lt;/strong&gt; Nutrients. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/26053618&#34;&gt;PubMed&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;2015&lt;/code&gt; Øyen J, Svingen GF, Gjesdal CG, Tell GS, Ueland PM, &lt;strong&gt;Lysne V&lt;/strong&gt;, Apalset EM, Meyer K, Vollset SE, Nygård OK. &lt;strong&gt;&lt;em&gt;Plasma dimethylglycine, nicotine exposure and risk of low bone mineral density and hip fracture: the Hordaland Health Study.&lt;/em&gt;&lt;/strong&gt; Osteoporos Int. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/25616506&#34;&gt;PubMed&lt;/a&gt;&lt;/p&gt;
