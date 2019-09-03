@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volleyball | Vegard Lysne</title>
+    <link>/misc/volleyball/</link>
+      <atom:link href="/misc/volleyball/index.xml" rel="self" type="application/rss+xml" />
+    <description>Volleyball</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vegard Lysne 2019</copyright><lastBuildDate>Thu, 29 Aug 2019 19:03:38 +0200</lastBuildDate>
+    <image>
+      <url>/img/Vegard.png</url>
+      <title>Volleyball</title>
+      <link>/misc/volleyball/</link>
+    </image>
+    
+    <item>
+      <title>Datavolley Basics</title>
+      <link>/misc/volleyball/datavolley-basics/</link>
+      <pubDate>Thu, 29 Aug 2019 19:01:31 +0200</pubDate>
+      <guid>/misc/volleyball/datavolley-basics/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

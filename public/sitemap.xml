@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/collections/</loc>
+    <lastmod>2019-09-03T12:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/blogs/</loc>
+    <lastmod>2019-09-03T12:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-03T12:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contributions/presentations/</loc>
+    <lastmod>2019-09-03T12:20:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contributions/</loc>
+    <lastmod>2019-09-03T12:20:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/r/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/blogs/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contributions/test/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-08-29T19:06:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/misc/volleyball/</loc>
+    <lastmod>2019-08-29T19:03:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/misc/volleyball/datavolley-basics/</loc>
+    <lastmod>2019-08-29T19:01:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contributions/media/</loc>
+    <lastmod>2019-08-29T11:30:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vegard/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/misc/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/contributions/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/contributions/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

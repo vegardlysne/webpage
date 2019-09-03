@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogposts | Vegard Lysne</title>
+    <link>/misc/</link>
+      <atom:link href="/misc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blogposts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vegard Lysne 2019</copyright>
+    <image>
+      <url>/img/Vegard.png</url>
+      <title>Blogposts</title>
+      <link>/misc/</link>
+    </image>
+    
+    <item>
+      <title>Volleyball</title>
+      <link>/misc/volleyball/</link>
+      <pubDate>Thu, 29 Aug 2019 19:03:38 +0200</pubDate>
+      <guid>/misc/volleyball/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
