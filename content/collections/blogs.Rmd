@@ -1,0 +1,33 @@
+---
+title: 
+author: vegard
+date: 
+slug: blogs
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: ''
+featured: no
+draft: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+---
+These are blogs and web sites I highly recommend.
+
+# Statistics and research methods
+
+#### [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+The personal blog of statistics professor Andrew Gelman He writes about statistical methods and interpretations, and frequently publish posts commenting on examples from the literature. 
+
+#### [Datamethods](https://discourse.datamethods.org/)
+Datamethods is a statistical discussion forum maintained by statistics professor Frank Harrell.
+
+#### [Credibly curious](www.njtierney.com)
+I first met Nicholas Tierney at the RStudio::conf2018, where he presented his R-packages for handling missing data. He is one of the guys behind [R-miss-tastic](https://rmisstastic.netlify.com/), a resource website for missing data.
+
+#### [The logic of science](www.thelogicofscience.com)
+The logic of science is a blog focusing on critical thinking, scientific methods and logical fallacies. 
