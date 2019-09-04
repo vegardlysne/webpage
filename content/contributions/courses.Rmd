@@ -2,8 +2,9 @@
 title: ""
 subtitle: ""
 summary: ""
+date: 2019-09-04
 ---
-Here is a list of my notes from courses and conferences I've attended. My preferred tool for writing notes is RMarkdown. 
+Here is a list of my notes from courses and conferences I've attended. My preferred tool for writing notes is RMarkdown, which allows for many different output formats. 
 
 ## Conferences
 

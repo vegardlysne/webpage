@@ -5,12 +5,30 @@
     <link>/contributions/</link>
       <atom:link href="/contributions/index.xml" rel="self" type="application/rss+xml" />
     <description>Vegard Lysne</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vegard Lysne 2019</copyright><lastBuildDate>Thu, 29 Aug 2019 11:30:52 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vegard Lysne 2019</copyright><lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/Vegard.png</url>
       <title>Vegard Lysne</title>
       <link>/contributions/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/contributions/courses/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/contributions/courses/</guid>
+      <description>
+
+
+&lt;p&gt;Here is a list of my notes from courses and conferences I’ve attended. My preferred tool for writing notes is RMarkdown, which allows for many different output formats.&lt;/p&gt;
+&lt;div id=&#34;conferences&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Conferences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/contributions/courses/rstudioconf2019.html&#34;&gt;&lt;strong&gt;RStudio::conf2019&lt;/strong&gt;&lt;/a&gt;, Austin, Texas, January 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Media appearances</title>
@@ -49,24 +67,6 @@
 &lt;h2&gt;2015&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to the top&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Media appearances in 2015…&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/contributions/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/contributions/courses/</guid>
-      <description>
-
-
-&lt;p&gt;Here is a list of my notes from courses and conferences I’ve attended. My preferred tool for writing notes is RMarkdown.&lt;/p&gt;
-&lt;div id=&#34;conferences&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Conferences&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/contributions/courses/rstudioconf2019.html&#34;&gt;&lt;strong&gt;RStudio::conf2019&lt;/strong&gt;&lt;/a&gt;, Austin, Texas, January 2019&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;
 </description>
     </item>
