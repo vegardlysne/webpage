@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: ""
+title: "Blog posts"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2019-08-29T19:06:16+02:00
-lastmod: 2019-08-29T19:06:16+02:00
+date: 2019-09-04
+lastmod: 2019-09-04
 featured: false
 draft: false
 
@@ -20,8 +20,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-# All blogposts by date
 
 Click to sort the posts by [category](/categories/) or [topic](/tags/).
 

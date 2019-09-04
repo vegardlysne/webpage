@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/contributions/media/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
@@ -50,11 +55,6 @@
   <url>
     <loc>/collections/recommended-papers/</loc>
     <lastmod>2019-09-03T12:46:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2019-08-29T19:06:16+02:00</lastmod>
   </url>
   
   <url>
