@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome"
-  content = "The site is currently under construction, and more content will be added"
+  content = "The site is currently under construction, and more content will be added. My contact information is found below."
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
   
