@@ -36,11 +36,11 @@
  #     weight = 120
  #     parent = "contributions"
       
- #   [[main]]
- #     name = "Articles and chronicles"
- #     url = "/contributions/articles/"
- #     weight = 130
- #     parent = "contributions"
+    [[main]]
+      name = "Articles and chronicles"
+      url = "/contributions/articles/"
+      weight = 130
+      parent = "contributions"
       
     [[main]]
       name = "My notes from courses and conferences"

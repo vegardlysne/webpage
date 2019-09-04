@@ -17,21 +17,50 @@ image:
 projects: []
 ---
 
-This is an overview of my appearances in norwegian media, sorted by year.  
+This is an overview of my appearances in norwegian media, sorted by year. 
+## 2019
+- [Så mye sukker skjuler det seg i maten og drikken din](https://www.nettavisen.no/livsstil/sa-mye-sukker-skjuler-det-seg-i-maten-og-drikken-din/3423637124.html), Nettavisen
+- [Veganer måtte endre kostholdet for å få tilbake mensen](https://www.nettavisen.no/livsstil/veganer-matte-endre-kostholdet-for-a-fa-tilbake-mensen/3423624288.html), Nettavisen
+- [Slik leser man innholdsfortegnelse, og dette bør du se etter](https://www.aftenposten.no/sport/sprek/i/jdO4ae/Slik-leser-man-innholdsfortegnelse_-og-dette-bor-du-se-etter), Aftenposten Sprek
+- [Stor test av mellombarer: – To av disse er like usunne som godteri](https://www.adressa.no/100Sport/sprek/Stor-test-av-mellombarer--To-av-disse-er-like-usunne-som-godteri-267242b.html), Aftenposten Sprek
+- [Tror du kanskje du kan ha jernmangel?](https://www.kk.no/helse/tror-du-kanskje-du-kan-ha-jernmangel/70743439), KK
 
-Go to year: [2015](#y2015), [2016](#y2016), [2017](#y2017), [2018](#y2018), [2019](#y2019)
+## 2018
+- [Ernæringsforsker kritiserer lavkarbo-studie](https://www.dn.no/helse/rikshospitalet/helsedirektoratet/lchf/ernaringsforsker-kritiserer-lavkarbo-studie/2-1-479457), Dagens Næringsliv
+- [Mineralet sink (Zn)](https://www.lommelegen.no/ernæring/kosthold/artikkel/mineralet-sink-zn/70237097), Lommelegen
+- [Omega-3-tilskudd forebygger ikke     hjertesykdom](https://www.lommelegen.no/hjerte-og-kar/artikkel/omega-3-ti lskudd-forebygger-ikke-hjertesykdom/70168284), Lommelegen
+- [Lavkalori eller lavkarbo? Nå har forskerne avgjort     slankekampen](https://www.dagbladet.no/mat/lavkalori-eller-lavkarbo-na-ha r-forskerne-avgjort-slankekampen/69566455), Dagbladet
+- [Dette bør du vite om     keto-dietten](https://www.kk.no/helse/dette-bor-du-vite-om-keto-dietten/69854226), KK
+- [Lavkarbo kan forkorte livet: Så mye karbohydrater skal du     ha](https://www.kk.no/helse/lavkarbo-kan-forkorte-livet-sa-mye-karbohydrater-skal-du-ha/70146850), KK
+- [Slik får du vektnedgangen til å     vare](https://www.kk.no/helse/slik-far-du-vektnedgangen-til-a-vare/69970860), KK
+- [Dette enkle trikset kan hjelpe deg ned i     vekt](https://www.kk.no/helse/dette-enkle-trikset-kan-hjelpe-deg-ned-i-vekt/69541630), KK
+- [B12-mangel: Mangler du dette vitaminet kan det få alvorlige     konsekvenser](https://www.kk.no/helse/mangler-du-dette-vitaminet-kan-det-fa-alvorlige-konsekvenser/70329844), KK
+- [Mye sukker, salt og rødt kjøtt kan øke risikoen for     kreft](https://www.kk.no/helse/mye-sukker-salt-og-rodt-kjott-kan-oke-risikoen-for-kreft/69375719), KK
+- [4 grunner til at du føler deg mer sliten i     høst](https://www.kk.no/helse/4-grunner-til-at-du-foler-deg-mer-sliten-i- host/70307650), KK
+- [Koffein kan styrke hjertet](https://www.kk.no/helse/koffein-kan-styrke-hjertet/69990108), KK
+- [I fjor drakk vi 12 millioner liter mindre melk](https://www.rbnett.no/nyheter/2018/02/01/I-fjor-drakk-vi-12-millioner-liter-mindre-melk-16010284.ece), rbnett.no
 
-## 2019 {#y2019}
+## 2017
+- [Hvordan bli kvitt søtsuget (radio)](https://radio.nrk.no/serie/distriktsprogram-hordaland/DKHO02000217/03-01-2017#t=43m24s), NRK radio
+- [Faste kan endre fettet i kroppen](https://forskning.no/slanking-helse-ny/faste-kan-endre-fettet-i-kroppen/314904), forskning.no
+- [Selskapets påstander om melk fikk nettet til å koke: – Dette er skremselspropaganda](https://www.bt.no/sprek/i/Xg6AGb/selskapets-paastander-om-melk-fikk-nettet-til-aa-koke-dette-er-skrems), Bergens Tidende
+- [Dette kan skje med kroppen din når du spiser for mye sukker](https://www.kk.no/helse/dette-kan-skje-med-kroppen-din-nar-du-spiser-for-mye-sukker/68952691), KK
+- [Såkalt «jålesalt» er hverken bedre eller verre for helsa enn vanlig bordsalt](https://www.kk.no/helse/sakalt-jalesalt-er-hverken-bedre-eller-verre-for-helsa-enn-vanlig-bordsalt/67735666), KK
+- [Dette skjer med kroppen når du faster](https://www.kk.no/helse/dette-skjer-med-kroppen-nar-du-faster/67978018), KK
+- [Fettlever er vanligere enn du tror](https://www.kk.no/helse/fettlever-er-vanligere-enn-du-tror/68221854), KK
+- [Maten som kan hjelpe mot forkjølelse](https://www.klikk.no/helse/doktoronline/forkjolelse/mat-mot-forkjolelse-2500894), Klikk
+- [Ernæringstest av sjokoladepålegg](https://www.abcnyheter.no/livet/mat-og-drikke/2017/08/15/195324567/ernaeringstest-av-sjokoladepalegg), ABC nyheter
+    
+## 2016
+- [Fettet vi aldri blir ferdig med](https://tidsskriftet.no/2016/07/fra-andre-tidsskrifter/fettet-vi-aldri-blir-ferdig-med), Tidsskrift for den norske legeforeningen
+- [Hodepine og øresus kan være tegn på jernmangel](https://www.kk.no/helse/hodepine-og-oresus-kan-vaere-tegn-pa-jernmangel/67746148), KK
 
-
-## 2018 {#y2018}
-
-
-## 2017 {#y2017}
-
-
-## 2016 {#y2016}
-
-
-## 2015 {#y2015}
-
+## 2015
+- [Ernæringseksperter reagerer på kostholdutsagn: - Jeg trodde Nordstrand var lege, hvordan kan hun stå inne for slike påstander?](https://www.side2.no/helse/ernaeringseksperter-reagerer-pa-kostholdutsagn---jeg-trodde-nordstrand-var-lege-hvordan-kan-hun-sta-inne-for-slike-pastander-4534876), Side2
+- [Derfor legger noen mennesker aldri på seg](https://www.side2.no/helse/derfor-legger-noen-mennesker-aldri-pa-seg-4558737), Side2
+- [Fisken som er proppfull av protein](https://www.kk.no/livstil/fisken-som-er-proppfull-av-protein/67794068), KK
+    
+## 2014
+- [Mange påstår at karbohydrater og sukker er mat for kreften](https://www.side2.no/helse/mange-pastar-at-karbohydrater-og-sukker-er-mat-for-kreften-4472875), Side2
+- [Er fastedagene ved 5:2 dietten bra for deg?](https://www.klikk.no/helse/kosthold/slank/er-fastedagene-ved-52-dietten-bra-for-deg-2525945), Klikk
+    
