@@ -35,7 +35,7 @@ height = ""
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "My Phd Defence"
+  title = "Phd Defence information"
   content = "My trial lecture and public defence will be held Friday 4th of October, in the auditorium of Armauer Hansens hus, Haukeland University hospital."
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
