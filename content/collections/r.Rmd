@@ -4,7 +4,8 @@
 title: "R programming resources"
 subtitle: ""
 summary: ""
-lastmod: "2019-09-03"
+date: 2019-09-04
+lastmod: 2019-09-04
 authors: []
 tags: []
 categories: []
@@ -12,6 +13,6 @@ featured: false
 draft: false
 ---
 
-This is a list of resources I've found useful when getting familiar with the R-language. Some are absolutely essential! Some of my own blog posts will also be related to R-programming, and you will find a list of these at the [bottom]{#bottom} of this page as they appear. 
+This is a list of resources I've found useful when getting familiar with the R-language. Some are absolutely essential! Some of my own blog posts will also be related to R-programming, and you will find a list of these at the bottom of this page as they appear. 
 
 Content to come...

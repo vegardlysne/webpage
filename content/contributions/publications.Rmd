@@ -1,7 +1,8 @@
 ---
 title: Publications
 author: 
-date: 
+date: 2019-09-04
+lastmod: 2019-09-04
 summary: ''
 slug: publications
 categories: 
