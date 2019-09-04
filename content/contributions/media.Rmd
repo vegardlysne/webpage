@@ -18,6 +18,7 @@ projects: []
 ---
 
 This is an overview of my appearances in norwegian media, sorted by year. 
+
 ## 2019
 - [Så mye sukker skjuler det seg i maten og drikken din](https://www.nettavisen.no/livsstil/sa-mye-sukker-skjuler-det-seg-i-maten-og-drikken-din/3423637124.html), Nettavisen
 - [Veganer måtte endre kostholdet for å få tilbake mensen](https://www.nettavisen.no/livsstil/veganer-matte-endre-kostholdet-for-a-fa-tilbake-mensen/3423624288.html), Nettavisen
