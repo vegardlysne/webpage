@@ -1,0 +1,31 @@
+---
+title: Welcome to my new homepage
+author: Vegard
+date: 2019-09-05
+slug: welcome
+categories: []
+tags: []
+subtitle: ''
+summary: 'A few words about why I chose to create this page, and what to expect going forward'
+authors: []
+lastmod: 2019-09-05
+featured: no
+draft: no
+share: false
+---
+
+It was time for me to make a personal homepage, and a few hours exploring [blogdown](https://bookdown.org/yihui/blogdown/) and the [Hugo Academic theme](https://themes.gohugo.io/academic/) later, here we are! At the time of writing this post, the page is still under construction, and more things will be added as we go. But it's a start!
+
+A few years ago, during my time as a student, I started the webpage [Frisk og Funksjonell](www.friskogfunksjonell.no). There I, together with some fellow students and colleagues, published blog articles (in Norwegian) on different topics related to nutrition, health and science. That page will of course remain, as it serves it's purpose as a useful resource when these topics needs refreshing. Some of my older articles will probably also appear in english here at some point.
+
+# Purpose
+
+## Overview of my academic contributions
+The main purpose of this page is to to maintain an updated overview of my academic work, including [my publications](/contributions/publications), conference presentations, my notes from courses and conferences, teaching material, [my media appearances](/contributions/media) etc. You will also find an updated [cv](/cv/cv.pdf), and of course my [contact information](/#about). 
+
+## Resource collections
+In addition, I plan to create and maintain lists of resources I find useful, such as [blogs/webpages](/collections/blogs/), talks and papers. 
+
+## Blog
+
+I also plan to maintain a blog, with more or less regular posts on different topics, both in the form of articles, updates or short comments. Suggestions are very welcome!
