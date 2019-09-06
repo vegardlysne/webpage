@@ -178,8 +178,9 @@ tribble(
 ```
 
 # References 
+Upon request
 
-```{r}
+```{r eval = F}
 tribble(
   ~ Name, ~ Contact, ~ Position, 
   "Jutta Dierkes", "Email: jutta.dierkes@uib.no, Tel: (+47) 95448279", "Professor, Centre for Nutrition, University of Bergen",
