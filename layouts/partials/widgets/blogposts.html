@@ -78,11 +78,11 @@
       {{ if eq $st.Params.design.view 1 }}
         {{ partial "li_list" . }}
       {{ else if eq $st.Params.design.view 3 }}
-        {{ partial "blog_li_card" . }}
+        {{ partial "posts_li_card" . }}
       {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
         {{ partial "li_citation" . }}
       {{ else if eq $st.Params.design.view 5 }}
-        {{ partial "blog_li_detailed" . }}
+        {{ partial "li_detailed" . }}
       {{ else }}
         {{ partial "li_compact" . }}
       {{ end }}
