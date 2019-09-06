@@ -10,7 +10,7 @@ summary: 'A few words about why I chose to create this page, and what to expect 
 authors: []
 lastmod: 2019-09-05
 featured: no
-draft: no
+draft: yes
 share: false
 ---
 
