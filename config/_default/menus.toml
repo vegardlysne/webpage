@@ -65,6 +65,12 @@
       url = "/files/MSc_Thesis_Lysne_2014.pdf"
       weight = 300
       parent = "contributions"
+      
+    [[main]]
+      name = "PhD thesis"
+      url = "/files/PhD_Thesis_Lysne_2019.pdf"
+      weight = 400
+      parent = "contributions"
   
 [[main]]
   name = "Collections"
