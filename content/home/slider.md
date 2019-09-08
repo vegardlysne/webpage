@@ -15,12 +15,7 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-[[item]]
-  title = "Welcome"
-  content = "The site is currently under construction, and more content will be added. My contact information is found below."
-  align = "center"  # Choose `center`, `left`, or `right`.
-  overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
-  
+
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
@@ -29,15 +24,19 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  # cta_label = "Get Academic"
-  # cta_url = "https://sourcethemes.com/academic/"
+  # cta_label = "Download my thesis"
+  # cta_url = "/files/PhD_Thesis_Lysne_2019.pdf"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Phd Defence information"
-  content = "My trial lecture and public defence will be held Friday 4th of October, in the auditorium of Armauer Hansens hus, Haukeland University hospital."
+  title = "Phd Defence"
+  content = "The trial lecture and public defence will be held Friday 4th of October, Armauer Hansens hus auditorium, Haukeland University hospital."
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
+  cta_label = "Download thesis"
+  cta_url = "/files/PhD_Thesis_Lysne_2019.pdf"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 
 +++
