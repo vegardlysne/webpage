@@ -1,0 +1,39 @@
+---
+title: New publication on the determinants of plasma retinol
+author: Vegard
+date: '2019-09-10'
+slug: new-paper-on-the-determinants-of-plasma-retinol
+categories: []
+tags: []
+subtitle: ''
+summary: 'Read our new paper where we explore potential predictors of serum retinol (vitamin A)'
+authors: []
+lastmod: '2019-09-10T10:31:15+02:00'
+featured: no
+draft: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I'm coauthor on this paper published yesterday, written by [Thomas Olsen](https://www.facebook.com/tho.ols1) as part of his PhD. 
+
+[Read the full text here](https://link.springer.com/article/10.1007/s00394-019-02086-2)
+
+# Abstract 
+
+> ## Purpose
+> We hypothesized that biomarkers and dietary factors related to cardiovascular disease risk were associated with serum retinol and evaluated these potential associations in patients with suspected coronary artery disease (CAD).
+> 
+> ## Methods
+> We used cross-sectional data from 4116 patients hospitalised for suspected CAD. Dietary data were obtained from a subgroup of 1962 patients using a food frequency questionnaire. Potential biomarkers and dietary factors were explored using linear regression modelling adjusted for age and sex. Regression coefficients and corresponding confidence intervals (CI) are given as  % change in serum retinol per unit change in the predictors. Analyses were performed in the total population and in strata of serum retinol tertiles.
+>
+> ## Results
+> In age- and sex-adjusted models, serum creatinine (standardized β: 0.38, 95% CI [0.35, 0.42]), plasma total cysteine (0.26, [0.23, 0.29]), serum uric acid (0.30, [0.26, 0.33]) and plasma neopterin (0.22, [0.18, 0.25]) were positively associated, whereas plasma serine (−.0.15, [−.0.18, −.0.12]) and serum C-reactive protein (−.0.15, [−.0.18, −.0.12]) were inversely associated with serum retinol. When we included the significant biomarkers in a multivariate model, the model explained 33% of the variability (R^2^=.0.33) in serum retinol. The results were similar in the lower and upper tertiles of serum retinol. Weak or no associations were observed for dietary factors.
+>
+> ## Conclusions
+> In patients with suspected CAD, concentrations of creatinine, cysteine and uric acid were positively associated with serum retinol. Future studies should assess whether retinol concentrations are influenced by metabolic alterations in patients at risk of cardiovascular disease.
+
+[Read the full text here](https://link.springer.com/article/10.1007/s00394-019-02086-2)

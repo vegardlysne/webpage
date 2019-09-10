@@ -14,7 +14,7 @@ email: ""
 interests:
 - Clinical nutrition
 - Nutritional epidemiology
-- Statistics
+- Statistics and research methods
 - R programming
 name: Vegard Lysne
 
@@ -51,13 +51,13 @@ social:
   icon_pack: fab
   link: https://www.facebook.com/vegard.lysne
   
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1272434/vegard-lysne/
+# - icon: publons
+#   icon_pack: ai
+#   link: https://publons.com/researcher/1272434/vegard-lysne/
   
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/VegardLysne
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/VegardLysne
   
 - icon: github
   icon_pack: fab
