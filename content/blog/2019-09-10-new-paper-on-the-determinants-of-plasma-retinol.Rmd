@@ -1,14 +1,14 @@
 ---
 title: New publication on the determinants of plasma retinol
 author: Vegard
-date: '2019-09-10'
+date: 2019-09-10
 slug: new-paper-on-the-determinants-of-plasma-retinol
 categories: []
 tags: []
 subtitle: ''
-summary: 'Read our new paper where we explore potential predictors of serum retinol (vitamin A)'
+summary: 'Read our new paper where we explore potential determinants of serum retinol (vitamin A)'
 authors: []
-lastmod: '2019-09-10T10:31:15+02:00'
+lastmod: 
 featured: no
 draft: no
 image:
@@ -18,7 +18,7 @@ image:
 projects: []
 ---
 
-I'm coauthor on this paper published yesterday, written by [Thomas Olsen](https://www.facebook.com/tho.ols1) as part of his PhD. 
+I'm a co-author on this paper published yesterday, written by [Thomas Olsen](https://www.facebook.com/tho.ols1) as part of his PhD. 
 
 [Read the full text here](https://link.springer.com/article/10.1007/s00394-019-02086-2)
 
