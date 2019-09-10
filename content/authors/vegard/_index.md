@@ -5,7 +5,7 @@ bio: Clinical Dietitian and PhD candidate. See more about [Vegard](#About).
 education:
   courses:
   - course: MSc in Clinical Nutrition
-    institution: University of Berger
+    institution: University of Bergen
     year: 2014
   - course: BSc in Human Nutrition
     institution: University of Bergen
