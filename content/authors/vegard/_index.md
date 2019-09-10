@@ -65,6 +65,8 @@ social:
 superuser: true
 ---
 
-I'm a clinical dietitian from Norway, currently finishing my PhD at the [University of Bergen](www.uib.no). In my project I have used animal and human data to explore the effects of PPAR&alpha;-activation and dietary macronutrient composition on one-carbon metabolism and B-vitamin status. My main academic interests are the methodology and statistical methods used in nutritional epidemiology. My main research tools are R and RStudio, where I do all my statistical analyses and most of my writing. I'm a member of the editorial board at [The Norwegian Journal of Nutrition](www.ntfe.no). 
+I'm a clinical dietitian from Norway, currently finishing my PhD at the [University of Bergen](www.uib.no). I'm also a member of the editorial board at [The Norwegian Journal of Nutrition](www.ntfe.no). 
 
-Beside work I'm a big sports fan. My main sport is volleyball, where I'm currently coaching the mens recruit team and perform scouting and statistical analyses for the mens first team at [TIF Viking](http://www.tifviking.no/volleyball/), using [Data Volley 4 professional](https://www.dataproject.com/Products/EU/en/Volleyball/DataVolley4). My musical preference is hard rock and related genres. 
+In my PhD project I have used animal and human data to explore the effects of PPAR&alpha;-activation and dietary macronutrient composition on one-carbon metabolism and B-vitamin status. My main research interests are the methodology and statistical methods used in nutritional epidemiology, and my main research tools are [R and RStudio](www.rstudio.com), where I do all my statistical analyses and most of my writing. 
+
+Beside work I'm a big sports fan. My main sport is volleyball, where I'm currently coaching the mens recruit team and perform scouting and statistical analyses for the mens first team at [TIF Viking](http://www.tifviking.no/volleyball/), using [Data Volley 4](https://www.dataproject.com/Products/EU/en/Volleyball/DataVolley4). My musical preference is hard rock and related genres. 
