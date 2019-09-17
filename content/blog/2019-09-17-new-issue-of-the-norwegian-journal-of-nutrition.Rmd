@@ -1,13 +1,13 @@
 ---
-title: New issue of the Norwegian Journal of Nutrition
+title: "New issue of the Norwegian Journal of Nutrition, 2019(3)"
 author: Vegard
 date: 2019-09-17
-slug: new-issue-of-the-norwegian-journal-of-nutrition
+slug: "ntfe-2019-3"
 categories:
   - updates
 tags:
 subtitle: ''
-summary: ''
+summary: 'Today the third issue of the year in the Norwegian Journal of Nutrition was published. '
 authors: []
 lastmod: '2019-09-17T22:31:22+02:00'
 featured: no
