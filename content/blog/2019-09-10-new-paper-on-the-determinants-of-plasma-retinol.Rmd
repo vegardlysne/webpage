@@ -3,8 +3,9 @@ title: New publication on the determinants of plasma retinol
 author: Vegard
 date: 2019-09-10
 slug: new-paper-on-the-determinants-of-plasma-retinol
-categories: []
-tags: []
+categories:
+  - updates
+tags:
 subtitle: ''
 summary: 'Read our new paper where we explore potential determinants of serum retinol (vitamin A)'
 authors: []

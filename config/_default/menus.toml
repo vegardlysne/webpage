@@ -87,7 +87,7 @@
     [[main]]
       name = "List of blogs and web pages"
       weight = 20
-      url = "/collections/blogs/"
+      url = "/collections/blogs"
       parent = "collections"
       
  #   [[main]]
