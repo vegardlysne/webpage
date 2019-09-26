@@ -7,7 +7,7 @@ output:
     toc: true
     toc_depth: 2
     toc_float: true
-    theme: simplex
+    theme: darkly
 ---
 
 ```{r eval=F, echo=F}
@@ -23,7 +23,7 @@ pgs_github <- c("gt", "pagedown")
 
 These are my personal notes from RStudio::conf2019. Links to the slides are pointing to the presenters personal sites, and the video links are pointing to [RStudio.com](https://resources.rstudio.com/rstudio-conf-2019). 
 
-Resturn to [home](/).
+Return to [home](/).
 
 # Keynotes
 

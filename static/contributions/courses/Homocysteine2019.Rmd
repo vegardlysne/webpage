@@ -1,0 +1,190 @@
+---
+title: "Homocysteine conference 2019"
+author: "Vegard Lysne"
+output: 
+  html_document:
+    theme: darkly
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+These are my personal notes from the 12th International Conference on One-carbon metabolism, B Vitamins and Homocysteine, arranged in Tarragona, Spain, June 9-13.
+
+Return to [home](/).
+
+# Take-homes
+
+- Folate supplementation is effective in reducing NTD, but likely just in a genetically susceptible subset of the population (Amanda MacFarlane)
+- RCTs of tHcy lowering were not powered to detect an expected risk decrease of 10% (Paul Jacques)
+- There is no such thing as a hepatic B12 store maintaining B12 function for years (Ebba Nexø)
+- 
+
+# Sunday
+
+## Honorary lectures
+
+### Methionine Synthase - the beating heart in a complex system
+#### Anne Molloy
+
+- Methyltransferases has higher affinity for SAH compared to SAM
+- Impossible to develop an animal model of B12-deficiency related neuropathy, so far. 
+- Without MS, folate is diverted to mTHF, which has no known way to go (The methyl folate trap)
+    - High methionin partly ameliorates the folate trap, due to SAM-inhibition of MTHFR
+
+---
+
+### Epigenetics and DNA methylation in health and disease
+#### Manel Esteller
+
+- Genome - Epigenome - Transcriptome - Epitranskriptome - Proteome
+- As we age we lose methylation, increasing the expression of many genes
+- DNA methylation is a good marker of biological age
+
+---
+
+### Metabolomics implicates amino acid metabolism as a key node in cardiometabolic disease pathogenesis
+#### Chris Newgard
+
+- Metabolomic flux analysis ("fluxomics") - stable isotope tracers
+- BCAA and insulin resistance ([Newgard 2009](https://www.ncbi.nlm.nih.gov/pubmed/19356713))
+- What are the cellular and metabolic mechanisms?
+    - WHen BCCA is high, glycine is depleted by driving the pyruvate-alanine cycle. BCAA restriction improves insulin sensitivity and restore glycine in zucker rats ([White 2016](https://www.ncbi.nlm.nih.gov/pubmed/27408778)) 
+- Is manipulation of BCAA metabolism a viable target for treatment?
+    - Inhibition of *BCKDH* or overexpression of *PPM1K* reduces hepaatic triglyceride accumulation ([White2018](https://www.ncbi.nlm.nih.gov/pubmed/29779826)) 
+- Review paper: *Branched-chain amino acids in disease* ([White 2019](https://www.ncbi.nlm.nih.gov/pubmed/30733403) )
+
+# Monday
+
+## Plenary session 1: A Multidiciplinary approach to understanding one-carbon metabolism from the nucleus to the clinic
+
+### Folate-dependent molecular mechanisms and metabolic disorders
+#### Sergey Krupenko
+
+- Formaldehyde detoxification in human cells generates formate, which is a meaningful source of one-carbon units ([Burgos-Barragan 2017](https://www.ncbi.nlm.nih.gov/pubmed/28813411))
+- Folate might regulate histone demethylation, with a mechanism similar to *DMGDH* and *SARDH* ([Luka 2011](https://www.ncbi.nlm.nih.gov/pubmed/21510664),[Luka 2014](https://www.ncbi.nlm.nih.gov/pubmed/24715612), [Garcia 2016](https://www.ncbi.nlm.nih.gov/pubmed/26880641))
+- Cytosolic THF accumulates in absence of mitochondrially produced formate ([Zheng 2018](https://www.ncbi.nlm.nih.gov/pubmed/30500537))
+- *ALDH1L1* catalyzed 10-formylTHF to THF conversion. This enzyme is hypermethylated and silenced during cancer.
+- 40% of NADPH is produced in one-carbon metabolism, including from *ALDH1L1* ([Fan 2014](https://www.ncbi.nlm.nih.gov/pubmed/24805240))
+
+
+### The role of perturbed B-vitamin status in the development of pathogeneic mechanisms: evidence from animal studies
+#### Amanda MacFarlane
+
+**Criticism of animal studies**
+
+- Failure to predict human responses
+    - Folate-deficient mice do not develop NTD ([Heid 1992](https://www.ncbi.nlm.nih.gov/pubmed/1552363)). Folate-sensitive NTD are underpinned by gene-diet interactions, where susceptible individuals develop NTD when folate deficient. Mouse data supports that folate supplementatuin is effective in the subset of susceptible individuals.
+    - Animal models refine our understanding of the underlying mechanisms. For instance through knockout-models. 
+- Don't reflect nutrient-disease relationships
+    - Folate deficiency increases colon cancer in SHMT^-/-^ mice, but not in wild-type (MacFarlane [2008](https://www.ncbi.nlm.nih.gov/pubmed/18644786), [2009](https://www.ncbi.nlm.nih.gov/pubmed/19033438))
+- Not reproducible duet to different study design
+    - Different strains respond differently. Studies often includes male animals only etc. 
+    - Different tissues might respond in different, often opposite, ways. Depending on which tissue is studied, the observations may differ. 
+    - Control diet and supplementation dose differ vastly
+    - Inconsistent reporting and often lack of transparency
+
+### The role of B-vitamins in health and disease: the snakes and ladders of evidence from human observational studies and trials
+#### Paul Jacques
+
+- RCTs and observational studies often do noe address the same research question
+
+**Nutritional interventions vs observational studies**
+
+- Inherent differences
+    - random assignment
+- Incidental differences
+    - Secondary vs primary prevention
+        - Different subjects in secondary (high risk) vs primary (low risk) prevention
+        - Interventions are expected to yield an effect in the short term, prevention in the long-term
+        - Drugs yield large effect sizes for the individual, vs small effects in primary prevention
+        - Background exposure, common in primary prevention - everybody eat
+    - Modeling
+        - High vs low (observational studies). The difference from low to high may be large and important.
+        - High vs average (intervention). The differences between average and high exposure may be less pronounced, making it difficult to find differences when recruiting from the general population with average intakes.
+        
+**Homocysteine and CVD**
+
+- Observational studies
+    - 25% lower tHcy associated with reduced risk ([Homocysteine studies collaboration](https://www.ncbi.nlm.nih.gov/pubmed/12387654))
+    - Stroke mortality rate dramatically decreased after folate fortification ([Yang 2006](https://www.ncbi.nlm.nih.gov/pubmed/16534029)). Similar data for CVD mortality were not published.
+- RCT
+    - All but one (CSSPP) performed in sick populations (secondary prevention)
+    - Based on the observational studies, we should expect a maximum of 10% decrease in risk with 25% reduction in tHcy. None of the performed studies have sufficient power to identify this effect size. ([Bostom 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2682551/))
+    - Folate supplementation decreases risk among patients without previous CVD or with low plasma folate levels ([Li 2009](https://www.ncbi.nlm.nih.gov/pubmed/27528407))
+
+### The multidiciplinary making of the *MTHFR* story: Past, present and future
+#### Joshua Miller
+
+- Discovery of *MTHFR* ([Donaldson 1962](https://www.ncbi.nlm.nih.gov/pubmed/13887175))
+- Meta-analyses of *MTHFR* C677T and disease risk (bilde)
+- Internet mythology
+    - Folic acid is toxic/doesn't work for individuals with the MTHFR mutations
+- MTHFR cannot be seen in isolation
+    - Folic acid is converted to DHF, but folic acid also inhibits *DHFR*, reducing conversion to THF
+    - DHF inhibits *MTHFR*, can accumulating DHF reduce *MTHFR* activity?
+    - *MTHFR* should be seen in context of folic acid supplementation, choline/betaine/B12 status etc
+
+
+## Plenary session 2: Pre-natalfunction/dysfunction of folate and one-carbon metabolism
+
+### One-carbon metabolism: Linking nutritional biochemistry to epigenetic programming of life-time development
+#### Kevin Sinclair
+- Paternal low-protein diet led to global hypomethylation in offspring of BL/6 mice (Watkins [2014](https://www.ncbi.nlm.nih.gov/pubmed/24658019), [2018](https://www.ncbi.nlm.nih.gov/pubmed/30150380))
+
+# Tuesday
+
+## Plenary session 4
+### Transsulfuration and further downstream catabolism of H~2~S
+#### Victor Kozich
+
+- H~2~S can be endogenously synthesized, produced by the gut microbiota and ingested.
+    - 5 enzymyes produce H~2~S, including CBS and CGL
+- H~2~S is catablized in mitochondria, by condensing with glutathione. The end product is sulfate. 
+
+# Wednesday
+## Plenary session 7
+
+### Revisiting treatment and prevention of vitamin B12 deficiency
+#### Ebba Nexo
+
+- Guesstimate of 3 mg total B12 content
+- Bariatric surgery and B12 status, data published ([Kornerup 2019](https://www.ncbi.nlm.nih.gov/pubmed/29506877))
+- There are no such thing as a liver store maintaining B12 status for a long time. Depletion starts once absorption decreases. 
+- Severely impaired B12 status should be normalized in a 2-step procedure, first normalizing with high doses and then maintain with lower dose.
+- Rat studies show that OH- and CN-B12 differ. OH-B12 is better converted to AdoCbl, CN-B12 mainly accumulates in kidney.
+    - Plasma B12 should not be taken too seriously
+- Mahalle 2019, unpublished data. Indian people supplemented with OH or CN-B12, 2x2.8 µg/day. Plasma B12 increases much more after CN-B12, but the biomarkers are similarly affected. 
+- Increased plasma B12 does not imply superiority of CN-B12
+
+### Achieving optimal folate status for health
+#### Helene McNulty
+
+- Folic acid is fully oxidized and in monoglutamate form, while food folate are reduced and in polyglutamate form. Hence, folic acid are more bioavailable.
+- The potential to optimise folate status with natural folates are very limited
+
+# Thursday
+## Plenary session 9
+### Homocysteine: From disease biomarker to disease prevention
+#### David Smith
+
+- Tyranny of dogma, 
+    - Cholesterol was prioritized - Homocysteine is dead
+    - Kilmer McCully lost his job at Harvard
+- Tyranny of systematic reviews and meta-analysis, combining different studies
+- Basic errors like ignoring changes in placebo group, nutrient status, sub grups and intereactions
+- Homocysteine in 2019 - associated with the risk of everything
+- HOPE-2 reported a beneficial effect of B-vitamins on stroke, but it was hidden in the supplement because the finding was hard to explain...
+- Subgroup analyses founded in biology is important ([Spence and Stampfer 2011](https://www.ncbi.nlm.nih.gov/pubmed/22187282))
+- tHcy is dose-response associated with cerebral small vessel disease and dementia ([Nam 2019](https://www.ncbi.nlm.nih.gov/pubmed/30602466), [Beydoun 2014](https://www.ncbi.nlm.nih.gov/pubmed/24962204) and [Smith 2018](https://www.ncbi.nlm.nih.gov/pubmed/29480200))
+- All studies on B-vitamins should stratify for omega-3-status
+
+### Choline supplementation does not promote atherosclerosis in CETP-expressing male ApoE-knockout mice
+#### Heidi Collins
+- Mice does not have CETP
+- In mice modified to express CETP, choline did not increase atherosclerosis, despite a dose-response increse in TMAO. 
+
+### Micronutrients, anaemia and cognitive functions: findings from the TUDA study
+#### Eamon Laird
+- Anaemia and cognitive impairment doesn't differ between gender, but increases with age
+- Older adults with anaemia is more likely to have cognitive impairment

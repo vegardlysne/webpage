@@ -12,7 +12,7 @@ tags: []
 
 ## Journal publications {#Journal}
 
-1. `2019` Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. <br> **Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease**. Eur J Nutr. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31502058) [Full text](https://link.springer.com/article/10.1007/s00394-019-02086-2)
+1. `2019` Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. <br> **Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease**. Eur J Nutr. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31502058)[Full text](https://link.springer.com/article/10.1007/s00394-019-02086-2)
 
 1. `2019` Strand E, **Lysne V**, Grinna ML, Bohov P, Svardal A, Nygård O, Berge RK, Bjørndal B. <br> **Short-Term Activation of Peroxisome Proliferator-Activated Receptors &alpha; and &gamma; Induces Tissue-Specific Effects on Lipid Metabolism and Fatty Acid Composition in Male Wistar Rats.** PPAR res. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31308847), [Full text](https://www.hindawi.com/journals/ppar/2019/8047627/)
 
