@@ -43,7 +43,7 @@
       parent = "contributions"
       
     [[main]]
-      name = "My notes from courses and conferences"
+      name = "Course and conference notes"
       url = "/contributions/courses/"
       weight = 140
       parent = "contributions"
@@ -78,11 +78,11 @@
   weight = 90
   identifier = "collections"
   
- #   [[main]]
- #     name = "R programming resources"
- #     weight = 10
- #     url = "/collections/r"
- #     parent = "collections"
+    [[main]]
+      name = "R programming resources"
+      weight = 10
+      url = "/collections/r"
+      parent = "collections"
       
     [[main]]
       name = "List of blogs and web pages"

@@ -1,21 +1,29 @@
 ---
-title: "Recommended blogs and webpages"
+title: "Recommended talks"
 author: vegard
 date: 2019-09-04
 lastmod: 2019-09-04
-slug: blogs
+slug: talks
 categories: []
 tags: []
-subtitle: ''
-summary: ''
 authors: []
 featured: no
 draft: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+output:
+  blogdown::html_page:
+    toc: true
+    
 ---
-This is a list of talks I find useful.
+List of presenters featured
 
-Content to come...
+\tableofcontents
+
+
+
+# Research / statistics / causality
+
+# Judea Pearl
+```{r echo = F}
+blogdown::shortcode("youtube", "nWaM6XmQEmU")
+```
+
