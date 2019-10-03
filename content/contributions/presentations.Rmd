@@ -1,0 +1,16 @@
+---
+title: presentations
+author: Vegard
+date: '2019-10-02'
+slug: presentations
+lastmod: '2019-10-02T23:19:32+02:00'
+draft: no
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+# October 2019 - Phd defence
+Trial lecture: [Nutritional challenges related to  B-vitamins](/contributions/presentations/PhD_triallecture_04102019.pdf)
+Defence lecture: [Biomarkers of One-carbon metabolism and B-vitamin status](/contributions/presentations/PhD_defence_04102019.pdf)
+

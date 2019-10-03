@@ -30,11 +30,11 @@
       weight = 100
       parent = "contributions"
       
- #   [[main]]
- #     name = "Presentations at conferences"
- #     url = "/contributions/presentations/"
- #     weight = 120
- #     parent = "contributions"
+    [[main]]
+      name = "Presentations"
+      url = "/contributions/presentations/"
+      weight = 120
+      parent = "contributions"
       
     [[main]]
       name = "Articles and chronicles"

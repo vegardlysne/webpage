@@ -8,22 +8,11 @@ categories: []
 tags: []
 authors: []
 featured: no
-draft: no
+draft: yes
 output:
   blogdown::html_page:
     toc: true
     
 ---
-List of presenters featured
 
-\tableofcontents
-
-
-
-# Research / statistics / causality
-
-# Judea Pearl
-```{r echo = F}
-blogdown::shortcode("youtube", "nWaM6XmQEmU")
-```
-
+To come.
