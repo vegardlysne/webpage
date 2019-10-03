@@ -41,11 +41,11 @@ height = ""
   
 [[item]]
   title = "Phd Trial lecture"
-  content = "My trial lecture on the topic of 'Nutritional challenges related to B-vitamins' takes  place Friday October 4, 09:15, Armauer Hansens hus auditorium, Haukeland University hospital. [Download slides](/contributions/presentations/PhD_triallecture_04102019.pdf)"
+  content = "'Nutritional challenges related to B-vitamins'. Friday October 4, 09:15, Armauer Hansens hus auditorium, Haukeland University hospital."
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
-  cta_label = "Download thesis"
-  cta_url = "/files/PhD_Thesis_Lysne_2019.pdf"
+  cta_label = "Download slides"
+  cta_url = "/contributions/presentations/PhD_triallecture_04102019.pdf"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
