@@ -31,7 +31,7 @@ height = ""
 
 [[item]]
   title = "Phd Defence"
-  content = "The public defence of my PhD takes place Friday October 4, 11:15, at Armauer Hansens hus auditorium, Haukeland University hospital. [Download slides](/contributions/presentations/PhD_defence_04102019.pdf)"
+  content = "The public defence of my PhD takes place Friday October 4, 11:15, at Armauer Hansens hus auditorium, Haukeland University hospital."
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
   cta_label = "Download thesis"
