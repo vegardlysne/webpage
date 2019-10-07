@@ -9,7 +9,7 @@ title = "Vegard Lysne"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://vegardlysne.no/"
+baseurl = "https://www.vegardlysne.no/"
 avatar = ""
 
 
