@@ -1,5 +1,5 @@
 ---
-title: PhD defence
+title: "My Phd defence, october 4, 2019"
 author: Vegard
 date: '2019-10-07'
 slug: phd-defence
@@ -23,7 +23,7 @@ projects: []
 
 Friday last week, october 4^th^, I defended my PhD thesis, and can finally call myself doctor! In my project, we used targeted metabolomics to investigate the effect of PPAR&alpha;-activation and dietary composition on biomarkers of one-carbon metabolism and B-vitamin status. The project included two studies in rats, and one cohort study in patients with established cardiovascular disease. 
 
-The evaluation committee consisted of **Eva Greibe**, Aarhus University hospital, Denmark, **Pedro Marques-Vidal**, University of Lausanne, Switzerland, and **Gülen Aslan Lied**, University of Bergen, Norway.
+The evaluation committee consisted of **Eva Greibe**, Aarhus University hospital, Denmark, **Pedro Marques-Vidal**, University of Lausanne, Switzerland, and **Gülen Arslan Lied**, University of Bergen, Norway.
 
 ![From left: Professor Pedro Marques-Vidal, PhD Eva Greibe, Vegard Lysne, professor Gülen Aslan Lied](/img/Vegard disputas.jpg)
 
