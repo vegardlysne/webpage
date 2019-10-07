@@ -1,11 +1,11 @@
 ---
 name: Vegard
 surname: Lysne
-position: "Clinical Dietitian"
+position: "Clinical Dietitian, PhD"
 phone: +47 41 66 82 18
 email: "vegard.lysne@gmail.com"
 profilepic: ../img/Vegard.png
-www: www.uib.no/en/persons/vegard.lysne
+www: www.vegardlysne.no
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
    vitae::awesomecv
@@ -18,7 +18,7 @@ library(tibble)
 ```
 
 # Professional summary
-I'm a Clinical dietitian, and recently submitted my PhD in clinical nutrition (approved August 2019). Using targeted metabolomics, my PhD project explores the regulation of one-carbon metabolism and B-vitamin status. The project includes experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language.  
+In my PhD project I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language.  
 
 # Education
 ```{r}
@@ -34,6 +34,7 @@ tribble(
 ```{r}
 tribble(
   ~ Position, ~ Year, ~ Institution, 
+  "Researcher", "2019-", "Department of Clinical Science, University of Bergen, Bergen, Norway",
   "Research assistant", "2014-2015 ", "Department of Heart Disease, Haukeland University Hospital, Bergen, Norway" 
 ) %>% 
   detailed_entries(what = Institution, when = Year, with = Position)
@@ -89,7 +90,6 @@ tribble(
 1.	Olsen T, **Lysne V**. Ta faget tilbake. Norsk Tidsskrift for Ernæring, 2015(3).
 1.	Kverneland M, Christensen JJ, **Lysne V**. Lavkarbodietter har kommet for å bli, men hører hjemme i klinikken. Norsk Tidsskrift for Ernæring, 2015(2).
 
-\newpage
 # Conference attendance
 ```{r}
 tribble(
