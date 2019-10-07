@@ -5,7 +5,9 @@ date: '2019-10-07'
 slug: phd-defence
 categories:
   - updates
-tags: []
+tags: 
+  - B-vitamins
+  - One-carbon metabolism
 subtitle: ''
 summary: 'A brief update on my PhD defence'
 authors: []
