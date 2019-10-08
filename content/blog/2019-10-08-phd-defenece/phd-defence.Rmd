@@ -14,11 +14,13 @@ authors: []
 lastmod: '2019-10-07T13:37:47+02:00'
 featured: no
 draft: no
-image_preview: 'Vegard disputas.jpg'
+image: 
+  placement: 2
+  preview_only: false
 projects: []
 ---
 
-Friday last week, october 4^th^, I defended my PhD thesis, and can finally call myself doctor! In my project, we used targeted metabolomics to investigate the effect of PPAR&alpha;-activation and dietary composition on biomarkers of one-carbon metabolism and B-vitamin status. The project included two studies in rats, and one cohort study in patients with established cardiovascular disease. 
+Friday last week, October 4, I defended my PhD thesis, and can finally call myself doctor! In my project, we used targeted metabolomics to investigate the effect of PPAR&alpha;-activation and dietary composition on biomarkers of one-carbon metabolism and B-vitamin status. The project included two studies in rats, and one cohort study in patients with established cardiovascular disease. 
 
 The evaluation committee consisted of **Eva Greibe**, Aarhus University hospital, Denmark, **Pedro Marques-Vidal**, University of Lausanne, Switzerland, and **Gülen Arslan Lied**, University of Bergen, Norway.
 
