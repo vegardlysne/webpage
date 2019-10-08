@@ -10,7 +10,24 @@ output:
     toc: true
 ---
 
+This is a list of my presentations at conferences and meetings. 
+
+# October 2019 - [FENS](http://www.fens2019.org/), Dublin, Ireland
+- Poster: [Dietary composition is associated with one-carbon metabolites and B-vitamin status in patients with stable angina - a cross-sectional study](/contributions/posters/FENS2019.pdf)
+
 # October 2019 - Phd defence
 - Trial lecture: [Nutritional challenges related to  B-vitamins](/contributions/presentations/PhD_triallecture_04102019.pdf)
 - Defence lecture: [Biomarkers of One-carbon metabolism and B-vitamin status](/contributions/presentations/PhD_defence_04102019.pdf)
 
+# June 2019 - 12^th^ International Conference on One Carbon Metabolism, B vitamins and Homocysteine, Tarragona, Spain
+- Poster: [Dietary composition is associated with one-carbon metabolites and B-vitamin status in patients with stable angina](/contributions/posters/Homocysteine2019.pdf)
+
+# August 2018 - FASEB meeting on Folic Acid, Vitamin B12 and One-carbon metabolism, Halifax, Canada
+- Poster: [The Effect of Dietary Fat Intake on Plasma Concetnration of One-Carbon Metabolites and Markers of B-vitamin Status](/contributions/posters/FASEB2018.pdf)
+
+# May 2017 - 11^th^ International Conference on Homocysteine  & One-carbon metabolism, Aarhus, Denmark
+- Poster: [Exploring dimethylglycine, Methylmalonic Acid and Nicotinamide ad Predictors of Acute Myocardial Infarction and Mortality](/contributions/posters/Homocysteine2017.pdf)
+
+# August 2016 - FASEB meeting on Folic Acid, Vitamin B12 and One-carbon metabolism, Colorado, USA
+- Presentation: [PPAR&alpha; activation influences plasma one-carbon metabolites and B-vitamin status in rats](/contributions/presentations/FASEB2016.pdf)
+- Poster: [PPAR&alpha; activation influences plasma one-carbon metabolites and B-vitamin status in rats](/contributions/posters/FASEB2016.pdf)
