@@ -10,7 +10,6 @@
   {{ range $paginator.Pages }}
   <div>
     <a href="{{ .RelPermalink }}">{{ .Title | markdownify }} </a>
-    <span>({{len $paginator.Pages}} posts)</span>
   </div>
   {{ end }}
 
