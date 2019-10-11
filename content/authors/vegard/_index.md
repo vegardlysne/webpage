@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Clinical Dietitian and PhD candidate. See more about [Vegard](#About).
+bio: Clinical Dietitian and Researcher. See more about [Vegard](#About).
 education:
   courses:
   - course: PhD, Clinical Nutrition.

@@ -18,7 +18,7 @@ library(tibble)
 ```
 
 # Professional summary
-In my PhD project I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language.  
+I'm a clinical dietitian, currently employed as a researcher at Centre for Nutrition, University of Bergen. In my PhD project I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language. In 2019 I was leader of the organizing comittee for the annual conference of the Norwegian Association of Clinical Dietitians. 
 
 # Education
 ```{r}
@@ -59,6 +59,7 @@ tribble(
   brief_entries(what = Course, when = Year)
 ```
 
+\newpage
 # Publications in international peer-reviewed scientific journals
 
 1. Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease. Eur J Nutr, 2019.
@@ -79,8 +80,8 @@ tribble(
 
 # Other publications
 
-1. Matre ÅO, **Lysne V**. B12-tilskudd uten B12-mangel. Norsk Tidsskrift for Ernæring, 2019(3) (_in press_). 
-1. **Lysne V**. 12. Internasjonale konferanse om enkarbonmetabolisme, B-vitaminer og homocystein. Norsk Tidsskrift for Ernæring, 2019(3) (_in press_).
+1. Matre ÅO, **Lysne V**. B12-tilskudd uten B12-mangel. Norsk Tidsskrift for Ernæring, 2019(3). 
+1. **Lysne V**. 12. Internasjonale konferanse om enkarbonmetabolisme, B-vitaminer og homocystein. Norsk Tidsskrift for Ernæring, 2019(3).
 1.	**Lysne V**, Marienborg I, Olsen T. FASEB-konferanse om folat, vitamin B12 og enkarbonmetabolisme. Norsk Tidsskrift for Ernæring, 2018(3).
 1.	**Lysne V**, Olsen T. Feilkilder i ernæringsepidemiologi. Norsk Tidsskrift for Ernæring, 2018(2). 
 1.	**Lysne V**. Glimt fra den 11. internasjonale konferansen om homocystein og enkarbonmetabolisme i Århus. Norsk tidsskrift for Ernæring, 2017(3).
@@ -106,12 +107,12 @@ tribble(
    2019, "RStudio::conf2019, Austin, TX, USA", "",
    2018, "RStudio::conf, San Diego, CA, USA", "",
    2014, "Nordic Congress for Dietitians, Bergen, Norway", "",
-   2019, "The conference of the Norwegian Associations of Clinical Dietitians (KEFF), Bergen, Norway", "",
-   2018, "The conference of the Norwegian Associations of Clinical Dietitians (KEFF), Kristiansand, Norway", "",
-   2017, "The conference of the Norwegian Associations of Clinical Dietitians (KEFF), Oslo, Norway", "Oral presentation",
-   2015, "The conference of the Norwegian Associations of Clinical Dietitians (KEFF), Oslo, Norway", "",
-   2013, "The conference of the Norwegian Associations of Clinical Dietitians (KEFF), Oslo, Norway", "",
-   2012, "The conference of the Norwegian Associations of Clinical Dietitians (KEFF), Oslo, Norway", "",
+   2019, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Bergen, Norway", "",
+   2018, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Kristiansand, Norway", "",
+   2017, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "Oral presentation",
+   2015, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
+   2013, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
+   2012, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
 ) %>% 
   arrange(desc(Year)) %>% 
   brief_entries(when = Year, what = Conference, with = Presentation)
@@ -150,17 +151,17 @@ tribble(
   brief_entries(when = Year, what = Student, with = Degree)
 ```
 
+\newpage
 # Organizations and comittees
 ```{r}
 tribble(
    ~ Year, ~ Role, 
-   "2019", "Leader of Organizing comittee of the annual conference of The Norwegian Association of Dietitians",
+   "2019", "Leader of the Organizing comittee of the annual conference of The Norwegian Association of Dietitians",
    "2018-", "Member of the editorial board, Norwegian Journal of Nutrition (NTFE)",
    "2015-2018", "Member of the academic policy board, The Norwegian Association of Dietitians affilliated with The Norwegian Association of Researchers") %>% 
   brief_entries(what = Role, when = Year)
 ```
 
-\newpage
 # Skills and languages
 
 ```{r}
@@ -178,13 +179,11 @@ tribble(
 ```
 
 # References 
-Upon request
-
-```{r eval = F}
+```{r}
 tribble(
   ~ Name, ~ Contact, ~ Position, 
   "Jutta Dierkes", "Email: jutta.dierkes@uib.no, Tel: (+47) 95448279", "Professor, Centre for Nutrition, University of Bergen",
-  "Per Magne Ueland", "Email: per.ueland@ikb.uib.no, Tel: (+47) 55973147", "Bevital A/S") %>% 
+  "Ottar Nygård", "Email: per.ueland@ikb.uib.no, Tel: (+47) 55973147", "Professor, the heart department, Haukeland University Hospital") %>% 
   detailed_entries(with = Name, why = Contact, what = Position)
 ```
 
