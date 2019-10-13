@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 1 # Order that this section will appear.
 
 # Slide interval.
@@ -30,22 +30,12 @@ height = ""
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Phd Defence"
-  content = "The public defence of my PhD takes place Friday October 4, 11:15, at Armauer Hansens hus auditorium, Haukeland University hospital."
+  title = "FENS - European Nutrition Conference"
+  content = "I'm attending [FENS](http://www.fens2019.org/) 15-18 October"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
-  cta_label = "Download thesis"
-  cta_url = "/files/PhD_Thesis_Lysne_2019.pdf"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-  
-[[item]]
-  title = "Phd Trial lecture"
-  content = "'Nutritional challenges related to B-vitamins'. Friday October 4, 09:15, Armauer Hansens hus auditorium, Haukeland University hospital."
-  align = "center"  # Choose `center`, `left`, or `right`.
-  overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
-  cta_label = "Download slides"
-  cta_url = "/contributions/presentations/PhD_triallecture_04102019.pdf"
+  cta_label = "Conference notes"
+  cta_url = "/contributions/courses/FENS2019.html"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 

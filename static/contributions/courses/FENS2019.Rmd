@@ -1,0 +1,594 @@
+---
+title: "Homocysteine conference 2019"
+author: "Vegard Lysne"
+output: 
+  html_document:
+    theme: darkly
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+These are my personal notes from the 13^th^ European Nutrition Conference, arranged in Dublin, Ireland, 15-18 October 2019. 
+
+Return to [home](/).
+
+# Main take-home messages
+
+---
+
+# Tuesday
+
+## Plenary session 1
+1030-1115 Auditorium level 3
+
+### Drivers across the lifecycle of malnutrition in an obese world - European perspectives
+#### Joäo Breda, WHO
+
+##### Abstract
+>
+
+##### Notes
+
+---
+
+## Session 1A
+1145-1230 Wicklow meeting room 1 (level 2)
+
+### The associations between genetics, salt taste perception and salt intake in young adults
+#### Leta Pilic
+##### Abstract
+> Hypertension is a major cause of cardiovascular disease and overall mortality. High dietary salt intake is one of the key risk factors for hypertension and in 2017, it was one of the three leading dietary risk factors for death and disability adjusted life years globally. Despite the efforts to change this behaviour, salt consumption still exceeds the recommendations. One of the main determinants of food intake, and potentially salt, is taste. Taste perception may be genetically determined, however research exploring the associations between genetics, salt taste perception and salt intake is scarce. This may be of special importance in younger adult populations where increased preference for salt is suggested. Therefore, the aim of this study was to explore the associations between genetics, salt taste perception (taste threshold and preference) and salt intake in young adults.
+>
+> This study was approved by the St Mary’s University Ethics Sub-Committee. Forty-two participants (18-35 years, 67% female and 33% male) completed the study. Salt taste thresholds were identified using the British Standards Institution sensory analysis method (BS ISO 3972:2011) and preference for salty taste by asking participants how salty they usually prefer to eat their food using a Likert scale. Salt intake, expressed as mg sodium/1000 kcal, was measured using a five-step multiple pass 24-hour recall for one day of the week and one weekend day. Participants were genotyped for two genetic variants in the SCNN1B and TRPV1 genes, which code for ion channels expressed in taste cells. Multiple regression analysis was performed including SCNN1B and TRPV1 variants, salt taste threshold and preference as predictor variables and sodium intake (mg/1000 kcal) as the dependent variable. Statistical significance was set at p<0.05.
+>
+> Participants were normal weight (Body Mass Index 23.8±3.7 kg/m2), predominantly Caucasian with salt intake 7.5±2.7g per day, reflecting current intakes in the UK. Regression model including genetics, thresholds and preference for salty taste explained 54% of the variance (p=0.028). In this model, TRPV1 variant rs8065080 [β=422, confidence interval (50, 794), p=0.030] and salt preference [β=618, confidence interval (258, 978), p=0.004] were indicated as predictors of sodium intake. These findings suggest that genetics and preference for salty taste may be drivers of salt intake in younger populations. If replicated, this information may in the future be used in designing more personalised approaches in changing this behaviour.
+
+##### Notes
+
+### Central blood pressure in adults screened for a genetic polymorphism in folate metabolism
+#### M Rooney
+##### Abstract
+> As the primary risk factor for cardiovascular disease (CVD), hypertension is the leading cause of preventable, premature mortality globally. Hypertension, or elevated blood pressure (BP), has a number of well-established risk factors, including genetics. A common C677T polymorphism in the gene encoding the folate metabolising enzyme methylenetetrahydrofolate reductase (MTHFR) affects 10-12% of UK and Irish populations and has been linked with 24-87% increased risk of hypertension globally. Evidence from randomised controlled trials (RCTs) conducted at this Centre has shown BP to be highly responsive (by 5-13 mmHg) to supplementation with riboflavin (MTHFR co-factor), an effect confined to homozygous individuals (TT genotype). To date, our trials have focused on peripheral BP; however, additional measures of vascular health such as central pressure are reported to be more closely correlated with CVD risk. Investigation of central BP, augmentation index (AIx) and pulse pressure amplification (PPA) may thus offer further insight into the role of this gene-nutrient interaction in blood pressure. The present study aims to investigate BP, and measures of vascular health in healthy adults stratified by MTHFR 677 genotype. Apparently healthy adults aged 18-60 years were recruited from workplaces across Northern Ireland and screened for MTHFR genotype via buccal swab. Clinic BP, anthropometry and blood sample were measured in TT individuals (n 209) and age and sex-matched CC (n 98) and CT (n 102) controls. AIx and central BP were assessed using SphygmoCor® (AtCor Medical, Australia). Preliminary results demonstrate higher BP in individuals with the MTHFR 677TT genotype compared to non-TT controls (systolic BP 134.7 ± 13.8 mmHg vs 129.7 ± 12.4 mmHg, P<0.001; diastolic BP 81.6 ± 9.5 mmHg vs 79.7 mmHg ± 8.9 mmHg, P=0.023, respectively). The MTHFR 677TT genotype group had significantly higher central systolic BP (119.4 ± 11.8 vs 116.7 ± 10.9 mmHg, P=0.018), central pulse pressure (P=0.006) and central mean pressure (P=0.011) compared to the non-TT group. No significant differences for central diastolic BP, pulse pressure amplification, pulse pressure ratio and augmentation index were observed. This study confirms the phenotype of elevated BP in individuals with the C677T polymorphism in the gene encoding MTHFR. For the first time, this study reports that individuals with the MTHFR 677TT genotype have higher central systolic BP, central mean pressure and pulse pressure. Further investigations through RCTs investigating the effect of the MTHFR cofactor, riboflavin, on central blood pressure in these genetically at-risk adults are warranted. 
+
+##### Notes
+
+### Intakes and status of riboflavin in a representative sample of Irish adults aged 18-90 years screened for MTHFR C677T polymorphism
+#### Emma O'Sullivan
+##### Abstract
+> Meta-analyses of epidemiological data report that adults who carry a common polymorphism, the MTHFR 677C→T, in the gene encoding the folate-metabolising enzyme methylenetetrahydrofolate reductase (MTHFR) have a 40% increased risk of CVD and an 87% increased risk of hypertension.  Riboflavin (vitamin B2), in its co-enzymatic form flavin adenine nucleotide (FAD), is required as a co-factor by MTHFR and previous trials in hypertensive patients have shown a blood pressure lowering response to riboflavin supplementation that is specific to individuals homozygous for this polymorphism (TT genotype). Low folate status is commonly reported in adults with the TT genotype however the effect of this genetic variant on riboflavin status has not previously been investigated. The aim of this study, therefore, was to investigate dietary intake and biomarker status of riboflavin by MTHFR genotype in Irish adults using data from the National Adult Nutrition Survey (2008-2010) (www.iuna.net).
+>
+> A 4-day semi-weighed food record was used to collect food and beverage intake data from a representative sample of 1500 Irish adults (18–90 years). Dietary intake data were analysed using WISP© based on UK food composition tables (modified to include recipes of composite dishes, nutritional supplements, fortified foods and generic Irish foods that were commonly consumed). Usual intakes were calculated via the NCI-method using SAS© Enterprise Guide. Blood samples (n=1126) were collected by venepuncture by a trained professional and were processed and analysed using standard operating procedures. Biomarker status of riboflavin was determined by erthyrocyte gluthathione reductase activation coefficient (EGRac), a functional assay that measures the activity of the enzyme glutathione reductase before and after in vitro activation with its prosthetic group FAD; a lower value indicates better status. 
+>
+> It was found that 12% of the population had the TT genotype. As expected, there was no significant difference in riboflavin intake across the genotype (CC, CT or TT) groups. Similarly, no significant genotype differences in riboflavin status (EGRac) were observed (1.36 vs 1.37 vs 1.38 respectively). Overall, 61% of the total population had EGRac values >1.3, indicative of low/deficient status with no significant difference observed between the genotype groups (60%,61% and 61%, respectively). 
+>
+> These data suggest that riboflavin status is not influenced by the C677T polymorphism in MTHFR in this cohort of nationally representative Irish adults. Further research is needed to see the impact of riboflavin status on blood pressure across the genotype groups in this nationally representative cohort of Irish adults. 
+
+##### Notes
+
+---
+
+## Session 2B: Metabolic obesity
+1330-1500 Liffey A (level 1)
+
+##### Symposium abstract
+> A body mass index (BMI) of 30 or above is universally accepted as the definition of obesity, and as a measure of excess body fatness that increases the risk of cardiovascular diseases (CVD). However, BMI is only a weak proxy for the strong link between excess body fat and metabolic dysfunction that increases CVD risk.  This link can be attributed more specifically to the presence of excess visceral fat (visceral adipose tissue or VAT) in the abdominal cavity, and ectopic fat in key metabolic tissues such as the liver, pancreas and skeletal muscle. Excess VAT is a common finding in classic obesity (BMI>30), but also in non-obese individuals (BMI less than 30), who can be described as having an unhealthy form of metabolic ‘obesity’. In contrast, a relative lack of VAT, but excess of subcutaneous adipose tissue (SAT), that may protect against metabolic dysfunction and accumulation of ectopic fat, creates a form of obesity which in comparison to its classic and metabolic counterparts, is relatively benign or metabolically ‘healthy’. This symposium brings together three world leading experts in the field of human body composition, metabolic disease and nutrition to address the causes and consequences of metabolically healthy and unhealthy obesity, the various techniques for measuring metabolic ‘obesity’, and its dietary determinants and treatment.
+
+### Definition and clinical Impact of metabolically healthy and unhealthy Obesity
+#### Norbert Stefan
+##### Abstract
+> The prevalence of overweight and obese individuals has increased globally during the last few decades. An elevated fat mass in subjects with a BMI > 25 kg/m2 is thought to promote morbidity and mortality. However, the research into the causes and consequences of metabolically healthy obesity (MHO) has indicated that for a certain BMI, the risk of cardiometablic disease and death can vary substantially among subjects. In this respect, compared to metabolically healthy people in the normal weight range, subjects with MHO only have a moderately (~+25%) elevated risk of all-cause mortality and/or cardiovascular events. In contrast for a similar BMI, the same risk is substantially increased (~+150%) in subject with metabolically unhealthy obesity (MUHO). Among the mechanisms increasing this risk in subjects with MUHO nonalcoholic fatty liver disease (NAFLD) and dysregulated hepatokine release from NAFLD were identified. On the other spectrum of the BMI, a strongly elevated risk of all-cause mortality and/or cardiovascular events (~+180%) is being observed in about 20% of the subjects with a BMI <25 kg/m2. Here a lipodystrophy-like phenotype with a low amount of gluteofemoral or leg fat mass is the dominating parameter characterizing this phenotype. These findings may have several implications, not only for drug development, but also for clinical interventions. In particular the question of how much weight loss might be necessary to protect from cardiometabolic diseases in people with obesity; in effect, how much weight loss is necessary to move from a state of MUHO to MHO. Furthermore, risk stratification, also in subjects with normal weight, will help to accomplish the goal of providing personalized medicine to our patients.
+
+##### Notes
+
+### How can we measure or predict visceral fat - omics, big data and tea leaves
+#### E Louise Thomas
+##### Abstract
+> Most countries across the world are reporting an increasing epidemic of obesity and obesity related co-morbidity, with type II diabetes rising to over 20% of the adult population in some places. At the same time, we are seeing report of substantial numbers of children and adolescents with marked metabolic dysfunction, including type II diabetes. 
+>
+> The associating between these conditions and body composition has for a long time used BMI, as a surrogate for body adiposity. With the advent  of imaging methodologies, especially magnetic resonance imaging (MRI), it is now possible to determine the contribution of individual fat depots, such as visceral adipose tissue, liver, skeletal muscle and pancreatic fat content to the development and maintenance of these co-morbidities. Thus, accurate and reproducible measurements of individual fat depots can be obtained in minutes, allowing a more in-depth understanding of environmental and genetic factors associated with their deposition, retention and removal. Indeed, large scale studies, including the UK BioBank have now imaged >40,000 volunteers scanned so far, for the first time enabling studies of body composition and its impact on metabolic health to be investigated at a population level. 
+>
+> Despite this, and the increasing availability of MRI system across the globe, it is impractical and costly to undertake scanning of large numbers of volunteers and patients on a routine basis, even in some smaller cohorts. Thus, alternatives to MRI, that can give robust, accurate and reproducible estimates of these fat deports has been an ongoing challenge for the scientific community. In this talk, I will present the current advances in this area and discussed the new machine-learning approaches being utilised in order to provide novel tool for this work.
+
+##### Notes
+
+### Effects of overfeeding different diets on the human liver
+#### Hannele Yki-Järvinen
+##### Abstract
+> 
+
+##### Notes
+
+---
+
+## Session 1D: What advice does the public believe? – Challenges for researchers, policy makers and practitioners - safefood
+
+1500-1630 Liffey Hall 1
+##### Symposium abstract
+> The public are becoming increasingly aware of the link between diet and health. Nutrition information is available from numerous sources including the media, internet, health professionals, social influencers and peers. The accuracy and credibility of information varies considerably. Research findings are also reported in the media and not always in the context of existing knowledge. These multiple and often apparently conflicting messages creates confusion for the public and can potentially lead to negative health impacts. A recent survey carried out by the British Dietetic Association in the United Kingdom (UK) found that the public don’t know who to trust for diet and nutrition advice while 58% of people trust nutrition advice from their personal trainer and fitness instructor and in the 18-24 year-old age group, 41% trusting the advice of a healthy eating blogger. The level of risk associated with following non-evidence based nutrition advice varies. For example, an individual temporarily following a low-carbohydrate diet promoted by a celebrity is relatively low risk, however a cancer patient following a ketogenic diet promoted by a nutrition therapist is high risk and potentially very harmful to the patient. This session will focus on the challenges faced by health communicators (including researchers, policy makers and practitioners) in promoting evidence based advice in a world where so many nutrition messages exist.
+
+### The Nutrition Maelstrom for Cancer Patients
+#### Eileen O'Sullivan
+##### Abstract
+> This presentation will outline a cancer patients experience of the abundance of misleading nutritional advice and pseudoscience that is actively targeted at cancer patients by those without the requisite qualifications and expertise, zoning in on their vulnerability and heightened emotions. There have always been snake oil salespeople but what has changed is the incredible reach those who promote their services and products have, made possible by a number of modern innovations, e.g. internet, social media, leading to a more acceptable face of an integrative or functional ‘wellness industry’ and the interpretation that healthcare practice can be democratised by popular demand rather than evidenced based science. It can be challenging for patients to discern evidenced based nutritional information from pseudoscience and potentially dangerous cancer fad diets. This is all the more difficult for patients due to the lack of oncology dietitians that should ideally be embedded within the cancer patients’ clinical team. Nutritional support is crucially important in respect of both patients’ tolerability of treatment and outcomes, but cancer patients are getting little or no appropriate professional nutritional support and therefore may seek support from non reputable sources.  Cancer patients can also be influenced on nutritional decisions by well meaning but ill informed relatives and friends, all of which can be confusing and overwhelming for cancer patients.  
+
+##### Notes
+
+### Journalism and the proliferation of nutribabble
+#### Philip Boucher-Hayes
+##### Abstract
+> Journalist and presenter of many RTÉ television programmes on food, Philip Boucher-Hayes, takes a look at the role his own profession has played in the spread of fake food news, bad science and vested interests.
+
+##### Notes
+
+### Full disclosure - on food and nutrition
+#### Gabriel Scally
+##### Abstract
+> The opportunity to inform people about the provenance and content of what they are eating and drinking has never been better. Ready access to on-line scientific information and requirements to inform consumers of basic content and nutritional information in processed foodstuffs should be leading to greater consumer confidence. However, the growth of intensive agricultural methods and the widespread use of high volumes of industrially produced chemicals, including antibiotics and pesticides, creates a situation where it is increasingly difficult for the public to know exactly what they are putting in their bodies. Strategies to improve assurance to the public on food are needed and include better public information requirements and robust certification methods that will provide confidence to everyone that purchases food in an increasingly diverse marketplace
+
+##### Notes
+
+### What’s driving the nutritional problem in cancer?
+#### Robert O'Connor
+##### Abstract
+> This talk will aim to discuss some of the major factors contributing to a growing challenge in communicating accurate and empowering information about the role of nutrition and cancer, both to patients, their loved ones and the wider public. 
+>
+> There has been a major shift in how nutritional matters are communicated, and nowhere is this more evident than in the public discourse over diet and nutrition and their relationships to health, disease and especially cancer.
+>
+> There has been a huge explosion of information about diet and nutrition and monetisation of the sector has triggered a vast array of new streams of nutritional communication which bypass traditional means. Conepts such as "healthy" and "wellness" have become much more confusing to interpret and we are now starting to recognise the potential consequences for those impacted by cancer.
+>
+> We will expolore some of the underlying personal, societal and media trends contributing to the current situation and try to identify some evolutions and opportunities for the communication of accurate and helpful information to the public and patients.
+
+##### Notes
+
+---
+
+## The Nutrition Society Postgraduate Competition - UK
+
+1700-1830 Wicklow Hall 1 (level 2)
+
+### Low-carbohydrate diets: challenges for diabetes management and prevention?
+#### Chaitong Churuangsuk
+##### Abstract
+> Low-carbohydrate, high-fat diets (LCHF) have been promoted for type 2 diabetes (T2DM) management and prevention. In the context of weight management, a systematic review of published meta-analyses(1) demonstrated inconsistent findings regarding the effectiveness of LCHF and low-fat diets for weight loss, explained by differences in methodological quality. Definitions of LCHF varied 40g/d to <45%E carbohydrate(CHO). Interestingly, only two ‘high-quality’ meta-analyses (n=2/10) reported no weight loss difference, while ‘critically-low quality’ meta-analyses (n=5/10) reported LCHF superiority over low-fat diet for weight loss upto 4 kg difference. Meta-analyses favoring LCHF but low-quality also had higher citations, suggesting that public and scientific communities might be responding to findings generated through poor methodology. 
+> 
+> While weight is often the main outcome, negative impacts of LCHF on micronutrients has been neglected. Avoidance of wholegrains, fruits and starchy vegetables could reduce vitamins and minerals. A systematic review(2) of LCHF reported reductions in thiamine, folate, vitamin C, magnesium, calcium, iron, and iodine intakes, and increased subclinical iodine deficiency upto 70%. Extreme avoidance could have clinical consequences sush as severe thiamine deficiency, or increased risk of poor fetal outcomes in women of child-bearing age. 
+>
+> LCHF could have physiological benefit on HbA1c reduction by lowering postprandial glucose and may prevent T2DM, but large prospective studies showed increased T2DM risk in men, with no benefit on reduced risk in women(3,4). It is still unclear whether amount of CHO and LCHF pattern relate to HbA1c concentration without weight loss. A cross-sectional analysis of the National Diet and Nutrition Survey(under review) showed that lower CHO intake and LCHF pattern were associated with higher HbA1c (+0.16 mmol/mol, p=0.012, per 5%E decrease in CHO; +0.10 mmol/mol, p=0.001, per 2-point increase in LCHF adherence score). This indicates that lower CHO content per se could not lower HbA1c. Other mechanisms (e.g. oxidative stress, peripheral insulin resistance) could contribute to HbA1c elevation. 
+> 
+> LCHF is not superior to other weight-loss diets, potentially risking micronutrient deficiencies. In the context of T2DM prevention, solely lowering CHO intake does not reduce HbA1c, as multi-mechanisms may interplay. Long-term, high-quality RCTs of LCHF, either iso- or restricted-calorie, for T2DM management and prevention are needed, and micronutrients in foods/supplements should be considered. 
+
+##### Notes
+
+### Understanding the interplay between food structure, gut microbiota and appetite sensing
+#### Aygul Dagbasi
+##### Abstract
+> Undigested food products, mainly carbohydrates, reach the colon where they become available for bacterial fermentation. This process yields short chain fatty acids (SCFA) which stimulate the release of appetite supressing hormones glucagon-like peptide-1 (GLP-1) and peptide YY3-36 (PYY) 1. Targeted delivery of SCFAs to the colon has been shown to significantly increase the secretion of PYY and GLP-1 and reduce ad libitum and total daily energy intakes 2-3. This suggests that increased colonic SCFA production may be an effective target for weight loss strategies. 
+> 
+> Domestic and industrial processing have been shown to alter food structures, typically leading to more bioavailable and digestible products. This may result in lower amounts of undigested carbohydrates reaching the colon, thus reducing SCFA production and appetite suppression. Accordingly, a diet rich in minimally processed fresh foods with intact food structures has been shown to result in a greater appetite suppression measured by significantly increased levels of PYY and GLP-1 compared to an energy and macronutrient matched processed diet4. In addition, studies with healthy ileostomy patients have confirmed that more undigested carbohydrates reach the distal gut after the consumption of minimally processed foods5. However; these results may not truly represent the conditions of an intact gut and still little is known about the levels and forms of carbohydrates in the ileal digesta that feeds the colon. 
+> 
+> We aimed to use a nasoenteric tube to sample from the intact ileum of healthy volunteers. We provided participants with calorie and macronutrient matched diets differing in food structure (processed, whole/fresh, blended).Microscopy images of ileal samples suggested more intact carbohydrates reaching the distal ileum following the minimally processed diet compared to the other diets. Our preliminary results also indicated a trend towards lower levels of breath hydrogen, a marker of bacterial fermentation, in the processed diet group. Data analysis is ongoing. 
+> 
+> The current data suggests a potential link between food structures and appetite sensing. Better understanding of this link can aid the design of diets and food products to help weight management. 
+
+##### Notes
+
+### The effect of quantity and quality of dietary fat intake on whole body and subcutaneous white adipose tissue inflammation
+#### Rebecca Dewhurst-Trigg
+##### Abstract
+> Long-term overnutrition can lead to systemic metabolic and white adipose tissue (WAT) dysfunction through activation of inflammatory signalling pathways. The expansion of WAT in the obese phenotype contributes to a low-grade inflammatory state that underlies many obesity-associated cardiometabolic disorders such as cardiovascular diseases and type 2 diabetes (T2D). Dietary fatty acid (FA) composition may also modulate the inflammatory response. We will consider evidence which suggests that a high intake of saturated fatty acids (SFAs), compared to monounsaturated fatty acids (MUFAs), promotes a more pro-inflammatory WAT gene expression profile(1,2). Work to date is limited in humans and has primarily focused on individuals with, or at risk of, the metabolic syndrome(1-3) and T2D(1). We will extend on previous data by demonstrating how short-term high-fat overfeeding impacts markers of WAT inflammatory signalling in an apparently healthy population. Following 7-day high-fat overfeeding (+50% estimated energy requirments; 65%TE total fat; 32.5%TE SFA), data from our study in non-obese individuals showed that WAT total protein content and phosphorylation of proteins involved in the NF-κB inflammatory pathway were unchanged pre- to post-intervention. Yet, there were significant increases in fasting serum glucose and lipopolysaccharide-binding protein concentrations. These data suggest that even with systemic metabolic changes, WAT of healthy non-obese individuals remains a dynamic, metabolically flexible tissue able to cope with the demands of short-term high-fat overfeeding. The postprandial inflammatory response to dietary FAs is also important considering we spend most of the day in a non-fasted state(3). The preliminary findings from our ongoing study which is investigating whether acute consumption of high-fat meals rich in SFA or MUFA have differential effects on postprandial WAT inflammatory response in abdominally overweight adults will be discussed. This current work will improve our understanding of the interactions between dietary fat intake, systemic and WAT inflammation and dysfunction. This may have important implications for informing public health guidelines aimed at mitigating cardiometabolic disease risk. This work was supported by an Early Career Grant from the Society for Endocrinology, a British Nutrition Foundation Drummond Pump Priming Award and the NIHR Leicester Biomedical Research Centre. 
+
+##### Notes
+
+### Assessing diet in European populations using national dietary surveys
+#### Holly Rippin
+##### Abstract
+> The World Health Organisation (WHO) encourages countries to conduct national dietary surveys (NDS) to inform policies targeting malnutrition and noncommunicable diseases (1). Previous reviews have found inadequate nutrient intakes and survey provision across Europe (2), but have included limited nutrients or focused on specific European regions. Our research provides a review of NDS across the 53 WHO European Region Member States and de novo analysis of 12 countries’ NDS datasets. NDS reports were used to examine adult and child nutrient intakes against WHO recommended nutrient intakes (RNIs), with an exploration of trans fatty acid (TFA) intakes and socioeconomic inequalities. NDS data were also used to determine consumed portion sizes of popular energy-dense foods and compare these to on-pack serving sizes. 
+> 
+> Using NDS information gathered from key contacts, online and the literature we found that less than two thirds of WHO European countries conducted NDS since 1990, with only 22 countries reporting nutrient intake data since 2000. The main survey gaps lie in Central & Eastern Europe, where nutrition policies may therefore lack an appropriate evidence base. WHO RNI attainment was universally poor, particularly for macronutrients. Females of all ages had particularly low RNI attainment in all nutrients, especially in Central & Eastern Europe. 
+>
+> TFA elimination is a priority WHO target; yet we found that TFAs were one of the least reported nutrients across Europe. Although voluntary reduction programmes may reduce average TFA intakes, as shown in the Dutch and UK NDS, inequalities in TFA consumption may be hidden due to under-reporting and incomplete or outdated food composition databases. 
+>
+> Whilst increasing portion size is linked to overweight via increased energy intake, we found limited evidence of associations between portion size and BMI in French and UK NDS. UK consumed portion sizes were greater than on-pack serving sizes, suggesting that portion size guidance of energy-dense foods may need updating. 
+> 
+> This is the first review of NDS provision within the whole WHO European region, with reference to disadvantaged groups, obesity and nutrients of concern. Different age groups, dietary assessment methodologies, nutrient composition databases and under-reporting limit inter-country comparisons. Governments should continue efforts to harmonise NDS for use in policymaking, including beyond Western Europe. 
+
+##### Notes
+
+---
+
+# Wednesday
+
+## Plenary session
+### Personalized dietary obesity weight management determined by glucose metabolism and microbiota
+#### Arne Astrup
+##### Abstract
+> About 5 years ago we discovered that the individual weight loss on a high fibre diet depended on pre-treatment glucose metabolic status i.e. that obese individuals with higher fasting glucose level lost more weight than those with normal glucose levels. This instigated re-analysis of several randomized controlled dietary intervention trials (RTC) to cross-validate the findings. Analyses of more than 10 trials provided robust evidence to support that insulin sensitive obese individuals (type A) achieve optimal satiety and weight loss on a low-fat, high carbohydrate and high-protein diet, whereas obese type 2 diabetics (type C) need the opposite, i.e. a lower-carbohydrate, high-fat and high-protein diet. The hypothesis that can explain these findings mechanistically suggests that carbohydrate tolerance is essential for meal-induced satiety during ingestion of carbohydrate-rich meals, as glucose must enter into the CNS (and probably other tissue and organs) in order to suppress hunger and induce sufficient satiety and fullness to terminate the eating episode. With increasing insulin resistance the satiety effect of carbohydrates is attenuated and the risk of overconsumption of calories is increased, unless a high secretory insulin capacity is present. The intermediate phenotype, pre-diabetics (type B), characterized by increased fasting plasma glucose, is very sensitive to the type of carbohydrate, and we found these patients gain weight rapidly on a diet with low fibre and whole grain, and on high glycemic index (GI) diets, whereas weight loss and weight control can effectively be achieved on a low GI diet with high fibre and whole grain. This dietary sensitivity among type B obese individuals might be linked to the gut microbiota, but it remains to be shown. 
+> 
+> We found that the responsiveness to high-fibre diets also seems to depend on microbiota, e.g. the ratio of Prevotella to Bacteroides (P/B ratio), which suggests that the production of short-chain fatty acids such as butyrate, propionate and succinate by certain bacteria may stimulate satiety, potentially through an insulin sensitizing mechanism. The predictive power of P/B-ratio has been confirmed in 5 independent trials. Smaller prospective RCT’s are currently ongoing and major trials are being planned to disentangle the mechanistic interplay between diet, microbiota and appetite regulatory pathways involving peripheral tissues, gastrointestinal hormone and the brain, including the role of the glucostatic CNS sensing in appetite control. However, the use of pre-treatment fasting glucose level can be used clinically to optimize dietary management, whereas the use of microbiota biomarkers need more research.
+
+##### Notes
+
+---
+
+## Session 2A: The Nutrigenomics Journey- are we there yet? - NuGo- The Nutrigenomics Organisation
+1045-1215 Wicklow Hall 2B (level 2) (ALTERNATIVE 1)
+##### Symposium Abstract
+>Over the last 10 years there has been a rapid rise in the application of nutrigenomics techniques to Nutrition studies. It is therefore timely to examine the impact and map the way forward.  
+We welcome a broad range of speakers who have employed nutrigenomics tools in their research to discuss the past, present and future. 
+
+### The Nutrigenomics Journey- are we there yet?
+#### Sander Kersten
+##### Abstract
+> In the late 1990’s, a novel subdomain in nutritional sciences came to life called nutrigenomics. Nutrigenomics can be defined as the application of high throughput OMICS tools in nutrition research, including high throughput genotyping, transcriptomics, epigenomics, proteomics, and metabolomics. The emergence of nutrigenomics was largely technology-driven and benefitted from the characterization of the Human Genome. In the early days of nutrigenomics, many large national and international projects were initiated to explore the power of nutrigenomics and launch a new era in nutritional research. Significant expectations were raised that nutrigenomics would potentially revolutionize nutritional science, and have a lasting impact on human health. Today, about 20 years after the field erupted, the time has come to look back and reflect on what nutrigenomics has delivered. In my presentation, I will discuss to what extent nutrigenomics contributed to a more accurate prediction of the beneficial or adverse health effects of dietary components and whether nutrigenomics led to more personalized dietary recommendations on the basis of genotype. Furthermore, I will address whether nutrigenomics managed to provide genomic or metabolic signatures that allow the discrimination of healthy versus unhealthy individuals to enable early dietary intervention. In addition, I will reflect on the promise of nutrigenomics to improve our understanding of the molecular mechanism of action of dietary components. Finally, I will discuss what choices should be made to assure that nutrigenomics can continue to thrive over the next 20 years. 
+
+##### Notes
+
+### Nutritional Phenotyping- what does it mean
+#### Hannelore Daniel
+##### Abstract
+> We are all different! This applies not only to our physical appearance but also our metabolism and how we respond to the diet. Our metabolic phenotype is the expression of a (meta)genome x environment interaction and is closely linked to the individual health-disease trajectory. Differences between individuals are these days mainly explored via GWAS or MGWAS (meta-genome-wide association studies) that link genetic (host) and fecal microbial heterogeneity to disease susceptibility and risks. These studies have produced an enormous number of prestigious papers – but taken together they all explain as little as 10 to 15% of the variability found in human cohorts. Whereas genotyping/sequencing of the entire metagenome is easy to perform and becomes cheaper, proper phenotyping is most critical for any analysis of the metagenome-phenome relationship and this is tedious and demanding – and thus in most cases insufficient. Moreover, almost all intervention studies conducted in the life and/or biomedical sciences try to recruit their patient or volunteer cohorts as homogenous as possible to have the least variation in outcome and a normal distribution with little extremes. And, even extremes – called outliers – are frequently eliminated by statistical means for having more homogenous data. This means that the most interesting phenotypes are likely not found in scientific literature. So, we lack proper data on phenotypical variance. I shall present data from literature as well as from own studies on phenotypic differences in diet-responses (mainly acute challenge tests) that show how different but also how reproducible these metabolic responses are. Given these examples I argue that we need to define and standardize a set of phenotyping approaches for future human nutrition research and that we need new methods to describe and quantify the outcomes
+
+##### Notes
+
+### The causes and consequences of obesity
+#### Stephen O'Rahilly
+##### Abstract
+> concern for global public health. The rising incidence of these disorders is clearly attributable to changes in the environment that promote caloric consumption and decrease energy expenditure. However we need to understand why some individuals are susceptible to obesogenic influences while others remain resistant. Similarly, it would be helpful to have a better insight into the mechanises whereby some seriously obese people completely avoid the metabolic consequences of over-nutrition while others succumb to the disabling complications of metabolic derangement despite being only modestly obese. In this lecture I will describe how human genetics has helped to enhance our understanding of our susceptibility or resistance to obesity and its adverse metabolic consequences. The findings have broad-ranging implications for the management of individual patients, for drug development and for public health strategies.
+
+##### Abstract
+
+---
+
+## Session 2A:  The role of 'big data' in nutrition research - FENS 2019 Scientific Committee
+
+1045-1215 Auditorium (level 3) (ALTERNATIVE 2)
+##### Symposium Abstract
+> The expectation is high in some areas of research such as precision and personalized medicine that with a “Big Data” approach important research questions could be answered. Similar expectation can be assumed for precision and personalized nutrition. Further, in those nutritional research fields that address complex entities such as the microbiome/virom enormous amounts of data had to be collected and utilized. Finally, the for the elucidation of pathways it is often useful to combine data collection on different levels ranging from sequence genetic data to large molecules.
+>
+> The “big data” approach requires new technologies in terms of data generation, novel and complex statistical algorithms including artificial intelligence for data treatment and the interaction with other research fields such as system biology. 
+>
+> In this session, examples of using the “Big Data” approach will be presented.
+
+### From Stratified Medicine to Personalised Nutrition: Can Systems Biology Help Integrate the Data?
+#### J. Bernadette Moore
+##### Abstract
+> With advances in genomics came a key concept underpinning stratified medicine and personalised nutrition. In particular, that with a better understanding of individual characteristics, e.g. genotype, could come better tailoring of pharmaceutical and nutritional therapy. Whether applied to the disciplines of medicine or nutrition, the overlapping terms of ‘stratified’, ‘personalised’, and the most ambitious ‘precision’, refer to this aim of providing targeted therapies or nutritional advice for the optimisation of individual health outcomes. Subsequent developments in the ‘omics’ fields, particularly metabolomics and proteomics; in addition to wearable technologies for tracking parameters such as blood glucose, heart rate, physical activity and even food intake, have further driven this idea. Specifically, that in following over time a virtual cloud of data from any one individual, will come personal insights into their health and, importantly, better nutrition and lifestyle strategies for reducing their risk of disease. Alongside this and the decreasing costs of nucleic acid sequencing, has come a rapid rise in companies offering direct-to-consumer genetic, and more recently gut microbiome, testing in combination with offering personalised nutrition services. While pertinent ethical questions involve who can access such services and how commercial companies are storing, using and/or re-mining consumer data; key scientific questions include how disparate datasets are integrated and how accurate predictions currently are, or may be in the future. In this regard, lessons from systems biology, which aims both to integrate data from different levels of organization (e.g. genomic, proteomic and metabolomic) and predict the emergent behaviours of biological systems or organisms as a whole, are instructive. Using examples from the application of systems approaches to non-alcoholic fatty liver disease (NAFLD), this talk will review recent advances in predictive modelling of human metabolism. Closely associated with obesity and type 2 diabetes, NAFLD is now a major public health concern worldwide. The complex pathogenesis of these ‘lifestyle diseases’ is driven by multiple dietary, lifestyle and genetic factors, and involves crosstalk between several organs and the intestinal microbiome. They are therefore ideal both for the application of systems analyses and personalised nutrition interventions. Lessons learned to date are that while human metabolism can now be computationally simulated at genome scale, current approaches to data integration and dynamic, multi-scale modelling are still evolving. Nonetheless, available models are capable of offering mechanistic insights and informing stratified medicine and personalised nutrition strategies for improving health outcomes.
+ 
+##### Notes
+
+### Predicting personal metabolic responses to food integrating multi-omics and machine learning: The PREDICT Studies
+#### Sarah Berry
+##### Abstract
+> Developments in personalised approaches to nutrition are hindered by a lack of large-scale data integrating multiple dietary, lifestyle, physiological, genetic and metagenomic data. Understanding the role of the integrated multiple regulatory systems involved during the dynamic postprandial phase is key to unravelling inter-individual variations within a healthy phenotype and advancing precision nutrition.  In the largest and most detailed studies of metabolic responses to food, the Personalized Responses to Dietary Composition studies (PREDICT) assess the genetic, metagenomic, metabolomic and meal-context drivers of postprandial metabolic responses to predict individual responses to food using a machine learning algorithm.
+> 
+> The PREDICT 1 multi-center postprandial study of 1,000 individuals from the UK (unrelated, identical and non-identical twins) and 100 unrelated individuals from the US, assessed postprandial (0-6h) metabolic responses to sequential mixed-nutrient dietary challenges in a clinic setting. Glycemic and lipaemic responses to multiple duplicate isocaloric meals of different macronutrient content and self-selected meals (>100,000), were tested at home using a continuous glucose monitor (CGM) and dry blood spots. Baseline factors included metabolomics, genomics, gut metagenomics and body composition. Dietary data was collected using the Zoe app and dashboard combining weighed food records, photographs, bar coding and live nutritional support. Sleep and activity were monitored using wearable devices.  The ‘Big Data’ collected in PREDICT included 2 million glucose responses, 28,000 triacylglycerol (TG) measurements and 132,000 weighed meal logs.
+> 
+> Inter-individual variability in postprandial responses (glucose, insulin and TG) was high in the clinic setting, even between identical twins.  Genetic contributions, determined by classical twin methods, for glucose, insulin and TG responses was less than 50%, 30% and 20% respectively.  Identical twins shared 37% of their gut species, compared to 35% for unrelated individuals. Interim machine learning algorithm predicted 46% of the variation in glycemic responses based on meal content, meal context and participant’s baseline characteristics, excluding genetic and microbiome features. Only 29% of variation could be explained by the proportion of macronutrients in the meal.
+> 
+> The large and potentially modifiable variation in metabolic responses to identical meals in healthy people explains why ‘one size fits all’ nutritional guidelines are problematic. The ongoing PREDICT 1 and 2 studies, collecting more information on glucose and TG responses to thousands of meals, alongside environmental, genetic and microbiome variables, give excellent power to use machine learning to optimise and predict individual responses to foods and provide personalised nutrition advice.
+
+##### Notes
+
+### The virome as a new target of research, enhancing the complexity of microbiota health relationships
+#### Mohammad Tariq
+##### Abstract
+> The gut microbiota plays a central role in human health, supporting nutrition, immune function and resistance to environmental pathogens. Diet/nutrition has been shown to impact the gut microbiota by means of shifting the abundance of bacteria, to act as primary degrader of resistant starch. The microbiota has also been shown to influences insulin sensitivity in obese individuals. 
+>
+> The human gut microbiota comprises all kingdoms of life including viruses, often termed the ‘virome’. Viruses outnumber prokaryotes by on average 10:1 yet despite their numerical dominance we still know very little about the virome and its contribution to health and disease states. This is in part due to insufficient reference viral genomes leading to the term `’viral dark matter`’ to refer to the majority of unidentified gut viruses. 
+>
+> Despite these constraints recent studies suggest that the intestinal virome is dominated by bacteriophages (viruses that infect bacteria) and there is no ‘core’ gut virome amongst healthy individuals. In addition, changes in intestinal virome may be a cause of bacterial dysbiosis and chronic gastrointestinal inflammation that are a feature of inflammatory bowel disease, and type I diabetes. 
+>
+> New advances in ‘omic’ technologies have reduced the cost of DNA-based sequencing and increased data throughput. Current challenges with looking at the virome involve positively identifying viral genomes as they lack a universal viral marker, like 16S in bacteria. Genes associated with viruses are largely putative and thus many identifiable viral genomes are unclassified. Therefore supporting ‘omic’ data using culture-based technique to screen, identify and classify viruses is needed in order to resolve the ‘viral dark matter’ and evaluate its impact on the microbiota in health and disease. 
+> 
+> Currently we have an established protocol looking to isolate and characterise viral DNA in ME patients. One of the limitations of these protocol is that you omit RNA viruses. We aim to characterise the virome by simultaneously isolating both single stranded and double stranded DNA and RNA viruses. Bioinformatic pipelines for the identification and analysis of viral metagenomic data remains challenging. We aim to positively identify as many of the viral contigs using multiple publicly available viral databases and thus improve the capacity to characterise the gut virome.
+
+##### Notes
+
+---
+
+## Session 5A: Personalised Nutrition for Health - UCD Institute of Food and Health
+
+1330-1500 Wicklow Hall 2A (level 2)
+
+##### Symposium abstract
+> Personalised Nutrition or Precision Nutrition represents a new challenge for the nutrition community in a field where dietary fads come and go. The area is made further difficult not only by human complexity within a constantly changing environment, but also by the microbiome. This symposium seeks to address the hype versus hope, fact versus fallacy, that is anticipated from Personalised Nutrition research and to understand whether the Personalised Nutrition paradigm is relevant to all health/ age contexts. We anticipate a candid and provocative discussion in relation to the pros and cons of this field and to help to understand what can it deliver on, in a robust, reliable and reproducible way.
+
+### Precision nutrition for the prevention and management of cardiometabolic diseases: Hype or hope?
+#### Frank Hu
+##### Abstract
+> Recent advances in powerful tools such as genomics, metabolomics, and gut microbiome have offered new opportunities as well as challenges in the application of precision nutrition for the prevention and management of metabolic diseases such as type 2 diabetes (T2D).  The integration of such technologies into epidemiological studies referred to as ‘‘systems epidemiology’’, can enhance our understanding of biological mechanisms underlying diet and human health.  This approach can also enable us to achieve a better assessment of diet and nutritional status in free-living populations by identifying novel biomarkers of dietary intakes. Nutritional genomics has identified genetic variants that influence intakes and metabolism of specific nutrients and predict individuals’ variability in response to dietary interventions. Metabolomics has revealed metabolomic fingerprints of food and nutrient consumption and has uncovered new metabolic pathways that are potentially modified by diet. In addition, dietary interventions have been shown to alter abundance, composition, and activity of gut microbiota that are relevant for food metabolism and glycemic control. By integrating these technologies with big data analytics, precision nutrition has the potential to provide personalized nutrition guidance to achieve more effective T2D prevention and management.  Despite recent advances, major challenges still exist, including non-replication of study results, difficulty in the translation of research findings into practice, and high cost. Although commercial companies have promoted personalized nutrition assessment and genetic testing, there is little evidence on the benefits of these approaches for improving diet and preventing disease.  Therefore, it is essential to balance the investment in precision nutrition, which targets individual characteristics, with public health nutrition, which aims to improve the health of populations.
+
+##### Notes
+
+### Personalised nutrition for the metagenome: host versus microbiome
+#### Hannelore Daniel
+##### Abstract
+> Personalized Nutrition approaches in the past created recommendations or provided products based on a small set of individual input data such as average food and nutrient intake (including likes and dislikes), a few biomarkers measured in blood and selected gene variants. Only recently has the gut microbiome as a” new entity” become part of the input panel by the ease to profile the fecal microbiome. With a number of key publications that linked fecal microbiome patterns with phenotypic parameters such as glycemic responses to defined foods, a number of start-ups have taken on this to provide “more specified” diet recommendations. However, despite around 23.000 entries in PubMed with “gut microbiota” and fecal profiling in hundreds of cohorts/populations worldwide and covering almost all possible individual genetic and lifestyle parameters, only around 12% of human fecal microbiota diversity can currently be explained.  And, the contribution of the individual diet to fecal microbiota diversity and population densities of individual microbial species is in essence unknown. There can be no doubt that diets and individual ingredients affect the microbiota and its biochemical capacity to handle endogenous (during fasting and starvation) but also diet-derived constituents. The individual diversity of metabolic products derived from these processes of degrading/fermenting diet constituents is remarkable – yet their effect on the composition of the fecal microbiome seems generally overstated. Even with large quantities of fermentable fibers (that initially may even cause intestinal discomfort) fed for weeks to volunteers changed only around 0.9 % the microbiome composition.  And, when taking into account that alterations of the microbiome by harsh antibiotic treatment in humans did not at all alter insulin-sensitivity or postprandial responses – it remains currently a mystery how gut microbiota and metabolic health are mechanistically linked. Personalized Nutrition of the metagenome is in the current state thus nothing more than “feeding shadows”.  
+
+##### Notes
+
+### Potential of Precision Nutrition to improve Health – Insights from biomarker approaches
+#### Lorraine Brennan
+##### Abstract
+> Metabolic profiling has great potential for aiding the delivery of Precision/Personalised Nutrition. Use of the metabolomics to track what people are eating has the potential to deliver a more objective assessment of intake which can then be used to guide improvements in a personalised manner. In this context, the use of dietary biomarkers and biomarker signatures have great potential.  Dietary biomarkers have emerged as a complementary approach to the traditional methods and in recent years, metabolomics has developed as a key technology for the identification of new dietary biomarkers. Over the years a number of strategies have emerged for the discovery of dietary biomarkers including acute and medium-term interventions and cross-sectional/cohort study approaches. While each approach has advantages and disadvantages the key aspect is that the putative biomarkers are tested in different scenarios and demonstration of dose-response relationships is essential for validation. An overview of well-validated biomarkers will be presented.  In this talk, I will review recent achievements in this area and the role of metabolomics derived biomarkers to assess dietary intake and to classify individuals into dietary patterns. 
+> 
+> Furthermore, the use of metabolomics to define metabolic phenotypes which can then be used to deliver personalised nutrition has been explored. Work in our laboratory used a metabotyping approach to identify three distinct metabotypes in an Irish population. A framework was developed to deliver personalised dietary advice dependent on the metabotype characteristics. Importantly, there was good agreement between this approach and an individualised approach. Expansion of this work into a pan European population demonstrated that the approach could be used in a diverse population group and worked well in terms of delivery of personalised nutrition advice. Development of this approach further has the potential to deliver dietary advice based on the metabolic phenotype. 
+
+##### Notes
+
+---
+
+## Session 1D: Low calorie sweeteners in the human diet: Scientific evidence and recommendations about their use and benefits 
+
+1500-1630 Liffey hall 1 (level 1)
+
+##### Symposium abstract
+> The aim of a scientific symposium on low calorie sweeteners, their benefits and use in the human diet is to present latest and science-based evidence on a topic of high scientific and public health interest. 
+>  
+> Since 2015, when the last FENS European Nutrition Conference took place in Berlin, and the ISA-supported scientific symposium on that occasion, a wealth of new scientific research has been conducted and published in peer-reviewed scientific journals providing further evidence about the role of low calorie sweeteners in sugar reduction as well as in weight and diabetes management. Therefore, we believe that an ISA symposium at FENS 2019 with the participation of well renowned academic experts and researchers on this scientific area will be of high interest and relevance to the FENS audience. 
+
+### Recommendations about the use of low calorie sweeteners: where evidence meets policy. Report from a 2018 Expert Consensus Workshop
+#### Margaret Ashwell
+##### Abstract
+> A consensus workshop on low calorie sweeteners (LCS) was held in November 2018 where seventeen experts (the panel) discussed three themes identified as key to the science and policy of LCS: (1) weight management and glucose control; (2) consumption, safety and perception; (3) nutrition policy.  The aims were to identify the reliable facts on LCS, suggest research gaps and propose future actions. 
+> 
+> The panel agreed that the safety of LCS is demonstrated by a substantial body of evidence reviewed by regulatory experts and current levels of consumption, even for high users, are within agreed safety margins. However, better risk communication is needed. More emphasis is required on the role of LCS in helping people reduce their sugar and energy intake, which is a public health priority. Based on reviews of clinical evidence to date, the panel concluded that LCS can be beneficial for weight management when they are used to replace sugar in products consumed in the diet (without calorie substitution). The available evidence suggests no grounds for concerns about adverse effects of LCS on sweet preference, appetite or glucose control; indeed, LCS may improve diabetic control and dietary compliance.  Limited data does not provide adequate evidence that LCS affects gut health at doses relevant to human use.  
+> 
+> The panel identified research priorities, including collation of the totality of evidence on LCS and body weight control, monitoring and modelling of LCS intakes, impacts on sugar reduction and diet quality and developing effective communication strategies to foster informed choice. There is also a need to reconcile policy discrepancies between organisations and reduce regulatory hurdles that impede low energy product development and reformulation.   
+
+##### Notes
+
+### Low calorie sweeteners as a means for weight and glycaemic control: outcomes of systematic reviews and meta-analyses
+#### Anne Raben
+##### Abstract
+> Non or low calorie sweeteners (LCS) may be a useful tool to reduce caloric intake and control glucose response when consuming sweet foods and drinks. Still, several theories about untoward health effects of LCS acutely or in the long term exist, many of which are based on poor, little or no scientific documentation. A number of intervention studies in the past 3 decades have, however, shown that LCS do not stimulate appetite or increase BW, rather on the contrary. Thus, comprehensive meta-analyses from recent years have reported that the use of LCS may lead to reduced body weight relative to sugar (1). Lately, randomised controlled trials (RCTs) have also compared intake of LCS with water and changes in BW. Convincingly, a study in 303 overweight and obese individuals showed that subjects  drinking LCS beverages maintained more than twice the weight loss than individuals drinking water after a 1-year behaviroual treatment programme, ie an improvement of weight control with LCS compared with water (2). 
+> 
+> Another systematic review and meta-analyses of 29 randomised controlled trials investigated the role of aspartame, saccharin, steviosides and sucralose on glycemia. No rise in glucose was observed after LCS. Instead, glucose declined after LCS consumption (3). These findings have been confirmed by more recent short- and long term clinical studies (4, 5). 
+> 
+> Currently, a new systematic review and meta-analysis of acute postprandial glycaemic and insulinemic response after acute exposure of LCS in randomised, controlled human intervention trials is being conducted (PROSPERO 2018 CRD42018099608). The results are expected to be presented at FENS 2019.
+> 
+> In a new Horizon-2020 project “SWEET” ([www.sweetproject.eu](www.sweetproject.eu), 2018 – 2023) we aim to dig further into the potential risks and benefits of sweeteners and sweetness enhancers (S&SEs). The focus in on health, obesity, safety and sustainability, while using a multidisciplinary approach. A main part of SWEET is a 2-y RCT, which will investigate the effect of prolonged use of S&SEs in a whole healthy diet approach (foods & drinks) on diet compliance, weight control and obesity related risk factors (eg glycemia, lipidemia) and safety (eg microbiota).
+
+##### Notes
+
+### Psychological and behavioural factors influencing consumers’ views and intakes of low calorie sweeteners
+#### Jason Halford
+##### Abstract
+> Consumption of alternative sweeteners is increasing but there are concerns that sweeteners stimulate appetite, promote preference for sweet-tasting foods and lead to weight gain. Chronic dieters juggle two conflicting goals, hedonic goal of enjoyment of nice-tasting foods/beverages verses diet/weight control. Low Calorie Sweetened (LCS) beverages deliver sweetness (i.e. palatability) but without calories.  Do LCS beverages help people to align conflicting goals (hedonic eating and successful weight control)?  Our data show restrained eating patterns, body weight concerns, and positive beliefs about palatability and appetite control are key determinants of LCS beverage consumption. Consumption of LCS beverages may help consumers to align conflicting goals (hedonic eating and successful weight control).  Frequent consumers may use LCS beverages as a successful strategy to control food intake when in a state of craving. Recent data show frequent consumer show an “attentional bias” towards their favourite LCS beverage (as opposed to a generalised bias to sweet-tasting drinks). This would suggest they don't promote sweet preference per se. However, long term risks and benefits of LCS consumption will be determined in the ongoing SWITCH trial and SWEET project.
+
+##### Notes
+
+
+---
+## COMMERCIAL SESSION Credibility vs. Clickbait: Communicating Nutrition Research to the Public - Eat Well Global
+
+1700-1830 Wicklow Meeting Room 1 (level 2)
+
+##### Session abstract
+> In the age of social media, misinformation about food, nutrition and health spreads like wildfire, making it increasingly important for credible, evidence-based information to find its way into the public domain. Nutrition scientists are relied upon for their contributions to the scientific literature and importantly, for their influence on nutrition guidelines and policies. But with the popularity of celebrities, self-proclaimed experts and other uncredentialled influencers delivering nutrition advice, and the ease with which unsubstantiated and sometimes dangerous claims are spread, there is an urgent need for credentialed experts to provide a credible counterpoint that’s more accessible to the public.
+> Join us for an interactive session, facilitated by Eat Well Global, where we will explore techniques and opportunities for researchers to extend their reach to the media and other communication channels. The objectives of this session are three-fold: 
+> - Identify how to promote accurate science reporting and open up new communication channels with the media 
+> - Understand how to amplify your messages and scientific findings
+> - Explore opportunities to collaborate with public-facing professionals, such as dietitians, to translate research into consumer-friendly language
+
+### Spreading science with social media
+#### Jovanka Vis
+##### Abstract
+> Nutrition communication in the 21^st^ century is anything but straightforward. Apart from official channels, such as health authorities and credentialed nutrition experts, a proliferation of food and lifestyle bloggers and other social media influencers are promoting diets that conflict with the scientific consensus. The misinformation can be subtle, such as cherry-picked scientific literature or misinterpretation of the science, which can be difficult for a lay consumer audience to discern. It can also be intentional fake news. Sometimes, these diets or eating patterns can even be dangerous. How can we, as the scientific community, deal with this? How can we effectively communicate in social media when we discuss and disseminate the news about our science? The Netherlands Nutrition Centre is the authority that consumers in the Netherlands turn to for evidenced-based, independent information on healthy, safe and sustainable food choices. The Centre, which is 100% funded by the Government of the Netherlands, translates the guidelines of the Health Council into consumer messages. The Wheel of Five is our central model, which has been translated into a range of campaigns, inspiring people to eat more vegetables, less meat, less salt and more fibre. In this presentation, we will share some state-of-the-art communication examples, based on sound behavioural and communication theory, as well as tips on how to spread your science-based news and engage in the social media dialogue.
+
+##### Notes
+
+### Developing, disseminating and translating high-quality research: closing the gap between nutrition and its application to public health policy and messaging
+#### Taylor C Wallace
+##### Abstract
+> Lifestyle choices heavily influence human health and disease prevention, giving the nutrition community the authority to act as “Chief Health Strategists” in guiding the development of new health systems and effective communication channels. International health systems and policies are currently undergoing critical transformation, with nutrition at the forefront of public health strategies to prevent or mitigate both age- and obesity-related chronic disease. During this health system and policy evolution, and in the current fiscal climate, public officials are looking for reproductive evidence of what works to guide their funding and policy decisions. Governments, nongovernmental associations (NGOs) and health professionals need evidence-based science for developing effective public health interventions and messaging. Timely distribution of quality evidence is often hindered by obstacles such as heterogeneous scientific literature, prolonged processes for developing policies and messaging, short-term emphasis on narrow sub-sets of the peer-reviewed literature, as well as the influence of the consumer, media, and ability to rapidly exchange information through digital communications. Today there is a large gap between development and dissemination of high-quality research in the field of nutrition and its application to developing strong policy and public health messaging. Statistical compilation of often heterogeneous data aims to give simple answers to complex (and often personalized) questions; this detrimental to our profession and public health.  Adding to this conundrum, nutrition scientists have traditionally been trained to design research analogous to medicine, using a reductionist vs. global approach. This lecture will discuss four continuous steps to consider when developing, translating, and disseminating high-quality evidence.
+
+##### Notes
+
+---
+
+## Debate: THe individual or Society at large has the primary responsibility in preventing obesity
+
+1845-1945 Auditorium (level 3)
+
+--- 
+
+# Thursday
+
+## Plenary session 3
+0915 - 1000 Auditorium (level 3)
+
+### Current metabolomic perspectives on malnutrition in obesity
+#### Ellen Blaak
+##### Abstract
+>
+
+##### Notes
+
+---
+
+## Session 4C: Ultra-processed food - potential health impacts - FENS 2019 Scientific Committee
+1030-1200 Liffey A (Level 1)
+
+##### Session Abstract
+> Over the past decade, there has been a rapidly expanding scientific literature on the role of industrial food processing in human diet and health, with a particular focus on ultra-processed foods defined as formulations of refined substances and additives used to create a broad spectrum of new convenient and highly-palatable products. Epidemiological evidence has demonstrated that ultra-processed food consumption is associated with poorer diet quality and increased chronic diseases incidence.  Recently, the journal PHN has published a special issue on this topic. (See https://www.cambridge.org/core/journals/public-health-nutrition/issue/31F497583856B2D965FF65B7C3CAB864?utm
+> 
+> This FENS symposium will highlight the current state of knowledge, particularly focusing on classification systems for such foods, the nutritional and toxicological aspects of these foods, the consumption patterns of these foods  and their potential impact (including mechanisms) on specific disease endpoints and public health overall.
+
+### Ultra-processed foods and health: epidemiological approach
+#### Mathilde Touvier
+##### Abstract 
+> The last decades are marked by an increase in the degree of food processing and formulation. Today, "ultra-processed" foods account for 25-to-60% of energy intakes in Europe, the USA, Canada, New Zealand, and Brazil. The notion of transformation is complex, since the possible processes (industrial or not) and the authorized additives (≈350 in Europe) are multiple. The "Nova" classification, developed by researchers at the University of São Paulo (Monteiro PHN 2017), opened the way for etiological research on the relationship between the degree of food processing and health. Foods are categorized into 4 groups: low/unprocessed foods, cooking ingredients, processed foods, ultra-processed foods. Ultra-processed foods have, on average, a lower nutritional quality (higher in salt, sugar, saturated fatty acids, lower in fiber and vitamins), they often contain food additives (emulsifiers, texturizers, sweeteners, etc.), are likely to carry substances coming from food-contact packaging, as well as certain compounds that are neoformed during the processes (high-temperature heating, hydrogenation, frying pre-treatment, etc.).
+> 
+> Several prospective studies have found a link between the consumption of ultra-processed foods and an increased risk of overweight / obesity (Mendonça 2016) and high blood pressure (Mendonca 2017) in a cohort of Spanish students, as well as and an increased risk of dyslipidemia in a cohort of Brazilian children (Rauber 2015). In the context of the NutriNet-Santé cohort (n=164,000 French adults) followed since 2009, after taking into account a wide range of potential confounders related to lifestyle, we observed a significant association between ultra-processed foods in the diet and an increased risk of overall and breast cancers (Fiolet BMJ 2018), cardiovascular diseases (Srour BMJ 2019), mortality (Schnabel JAMA Int Med 2019), depressive symptoms (Adjibade BMC Med 2019) and functional digestive disorders (Schnabel Am J Gastroenterol 2018). The analyzes carried out suggest that the nutritional quality of these products does not entirely explain those links.
+> 
+> In this field, the causal nature of the associations cannot be established by long-term interventions testing the impact of ultra-processed foods on health, for ethical reasons notably, as long as a deleterious effect is suspected. It will therefore be necessary to confirm these results in diverse populations, and also to go further in understanding the transformation processes, compounds and mechanisms potentially involved, through new epidemiological approaches, coupled with in vitro and in vitro experimental approaches. In the meantime, several countries have recently introduced into their official recommendations limiting ultra-processed foods as a precautionary principle.
+
+##### Notes
+
+### Opportunity makes the Pathogen – potential Mechanisms connecting Ultra-processed Foods with Gut Inflammation
+#### Marit Kolby Zinöcker
+##### Abstract 
+> Diet greatly influences the incidence of non-communicable diseases (NCDs), most of which are now recognized as conditions that involve elements of inflammation. A growing body of evidence is linking ultra-processed foods with several of these health outcomes, but biological mechanisms supporting a causal relationship have not been elucidated.
+> 
+> From the traditional nutrition researcher’s point of view, a grain that has been milled and extruded has the same nutritional value as a whole grain. To the microbes in the human gut, the processing applied to the food prior to digestion makes a world of difference.
+> 
+> Several physical and chemical processes commonly applied in manufacturing of foods, including refining, extrusion and addition of molecules (naturally occurring or synthetic), can change the growth potential and dynamics of gut microbes. Animal studies that have investigated various attributes of ultra-processed foods report increased pro-inflammatory potential of the gut flora along with adverse effects on host physiology. Thus, ultra-processed food products have the potential to induce structural and behavioural changes in the human gut microbiome that influences metabolic and inflammatory pathways and contribute to the growing burden of NCDs.
+> 
+> The characterization of our food supply is still incomplete in terms of predicting health effects, and the role of the microbiome is largely absent from the evidence underlying nutrition policies and dietary advice in most countries. Our foods should not just be judged by the sum of their nutrients, but by their potential to prevent inflammation and to sustain health in the human superorganism of man and microbe. Emphasis on food quality, not quantity, will be crucial in future strategies to limit NCDs
+
+##### Notes
+
+### What are ultra-processed foods and how they have changed the quality of diets in Europe and worldwide
+#### Jean-Claude Moubarac
+##### Abstract 
+> Over the past decade, there has been a rapidly expanding scientific literature on the role of industrial food processing in human diet and health, with a particular focus on ultra-processed foods. Epidemiological evidence has demonstrated that ultra-processed food consumption is associated with poorer diet quality and increased risk of chronic diseases and obesity. In this session, I will first discuss from a theoretical perspective why food processing matters to understand diet and health in the 21st century. I will then describe the NOVA food classification, a tool used to study food processing and its impact on diet and health worldwide. Last, I will present a summary of the evidence linking consumption of ultra-processed food to poor diet quality, as an important dimension of unhealthy diets, and discuss implications for research and policies
+
+##### Notes
+
+---
+
+## Plenary session 4
+
+### Food environments and the obesity epidemic: lessons learned and future research challenges
+#### Lauren Lissner
+##### Abstract
+> The food environment consists of political, socioeconomic, and physical factors that affect accessibility and healthfulness of diets. Given the complexity of our food system and the diverse individuals that populate it, no single change in the food environment is likely to reverse the obesity epidemic. This presentation will select a few aspects of the food environment that are relevant to upcoming research on obesity prevention. 
+> 
+> The political food environment holds promise for protecting citizens from poor nutrition via restrictions in marketing and taxation of unhealthy foods, as well as through informative labelling of pre-packaged foods. For researchers, a useful starting point is to conduct dietary simulation studies, which can inform future policies by estimating their potential health impacts. However, we still lack knowledge about the impact that enacted policies are having on the population’s actual diets, weights and health. Different components of the food system can increase or decrease socioeconomic inequalities. Modern food environments provide a surplus of inexpensive, nutrient-poor foods, thereby contributing to excess risk of obesity in those with least access to healthier diets. Thus, it may be concluded that high-risk socioeconomic groups should be targeted for primary prevention efforts through better nutrition, ideally early in life. However, there is only limited evidence that dietary interventions in family or school food environments are effective in children. In parallel with economic barriers, current social norms can obstruct healthy eating. Novel participatory research approaches will be useful in developing culturally appropriate interventions for obesity prevention in vulnerable communities. 
+> 
+> At the individual level, the physical food environment can be portrayed in terms of the nutritional quality of available dietary exposures. This view may carry an implicit assumption that people can follow universal dietary recommendations to prevent or reverse overweight. Yet, given the heterogeneity between individuals in their weight responses to specific dietary approaches, together with ample evidence that these efforts frequently backfire, there is great interest in how personalized diets can become an accessible tool for individuals’ weight management efforts. 
+> 
+> In closing, it should be noted that the effect of modern diets on the environment per se is not traditionally part of our food environment discussion. Fast-moving climate change suggests the value of adopting ecologically responsible diets, which could have dual actions: lowering greenhouse gas emissions while preventing malnutrition in all forms. In an era of obesity and environmental change, this represents a formidable research challenge for future nutritional scientists.
+
+##### Notes
+
+---
+
+## Session 3B: An Update on the Beneficial Health Impact of Specific Dietary Fatty Acids 
+1445-1615 Wicklow Hall 1 (level 2)
+
+##### Session Abstract
+> The aim of this session is to highlight ILSI Europe’s activities on the impact of dietary fatty acids on human health. Here we will provide an overview of the health impact of diets rich in Omega-3 and Omega -6 (talk 1), specific saturated fatty acids (talk 2) or gut derived short chain fatty acids (talk 3).
+
+### A systematic review of the effects of increasing arachidonic acid intake on pufa status, metabolism and health-related outcomes in humans
+#### Philip Calder
+##### Abstract 
+> We conducted a systematic review of randomised controlled trials (RCTs) of increased intake of arachidonic acid (ARA) on fatty acid status and health outcomes in humans. We identified 22 articles from 14 RCTs. Most studies were conducted in adults. These used between 80 and 2000 mg ARA/day and were of 1 to 8 weeks duration. Supplementation with ARA doses as low as 80 mg/d increased the content of ARA in different blood fractions. Overall there seem to be few marked benefits for adults of increasing ARA intake from the typical usual intake of 100-200 mg/day to as much as 1000 mg/d or even more. However, there may be an impact on cognitive and muscle function which could be particularly relevant in the ageing population. The studies reviewed suggest no adverse effects in adults of increased ARA intake up to at least 1000 to 1500 mg/d on blood lipids, platelet aggregation and blood clotting, immune function, inflammation, or renal function. However, in many areas there are insufficient studies to make firm conclusions, and higher intakes of ARA are deserving of further study. Based on the RCTs reviewed, there are not enough data to make any recommendations for specific health effects of ARA intake.
+
+##### Notes
+
+### Update on Health Effects of Different Dietary Saturated Fatty Acids
+#### Peter Joris
+##### Abstract 
+> There are various types of Saturated Fatty Acids (SFAs) in the human diet that may differently affect cardiometabolic risk markers and the risk to develop cardiometabolic diseases. A new activity performed by this ILSI Expert Group is therefore to critically analyze the relation between these different types and sources of SFAs and their health effects. Currently, we are performing a systematic review of the scientific literature focusing on (i) the impact of individual dietary SFAs on traditional and novel cardiometabolic risk markers, and (ii) associations between dietary intakes of these SFAs and the risk to develop cardiometabolic diseases. The ultimate goal of this review is to provide evidence whether dietary guidelines should differentiate individual SFAs. This presentation will provide an update focusing on the progress of our systematic review and also some (preliminary) results will be presented.
+
+##### Notes
+
+### ω -3 and ω -6 PUFA intakes, ratios and potential health effects
+#### Ronald Mensink
+##### Abstract 
+> Fatty acids (FA) from dietary sources provide for adults living in Western countries about 35% of their dietary energy as a mix of FAs present in different lipids, mainly triacylglycerols (TAG). They have multiple vital functions in the human body: energy sources, major constituents of all cell membranes, components of signalling molecules, and precursors of bioactive lipid mediators. Through these roles, FAs affect cell and tissue function and physiological responses, and therefore have an  impact on health, well-being, and disease risk and outcome. In this context, there is considerable interest in the biological roles of the long chain omega-6 polyunsaturated FA (PUFA), arachidonic acid (ARA), the omega-3 PUFAs eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA).
+>
+> The PUFA composition differs between different complex lipids present in the blood, and between different cells and tissues. The precise PUFA composition of each individual FA pool is determined partly by PUFA intake from diet and partly by metabolic processes. For example, altering the amounts of EPA and DHA in the diet by eating more oily fish or by taking omega-3 FA supplements, increases the EPA and DHA content of complex lipids in the blood and of many cells and tissues. However, the resultant degree of enrichment in EPA and DHA in different body pools varies considerably. Thus, there is a relationship between PUFA intake from the diet, the PUFA content in a compartment, and possibly the effect of the PUFA on cell and tissue function. However, this series of relationships is complex because each step is influenced by metabolic processes and by many other factors, including the availability and content of other FAs that may have different biological activities. The aim of the present systematic review is to clarify the relationship of omega-6 and omega-3 PUFAs with dietary intake, blood/cell/tissue PUFA composition, and to assess the validity of commonly used PUFA biomarkers of dietary intake and n-3 and n-6 PUFA status.
+
+##### Notes
+
+
+---
+
+## Session 2D Nutrition Sciences beyond reductionism
+1645-1815 Wicklow Hall 2A (level 2)
+
+##### Session Abstract
+> Some of the Grand Societal challenges are strongly linked to nutrition, like obesity, healthy ageing. These challenges require scientific concepts, research questions, methods and research infrastructures that need to be developed and go beyond reductionistic thinking. Results from studies conducted with the reductionist approach, where cause-and-effect relationships are reduced to a binary “true” and “not true”, are more and more not supported by observations that consumption of foods, according to the reductionist approach composed of disease risk increasing nutrients, are probably disease risk reducing. 
+The benefits of nutrition interventions aiming at prevention of chronic diseases can most often not be related to one single cause. Despite the multifactorial causation of most chronic diseases the pharmacological model of double blind placebo controlled intervention studies, usually called clinical studies, is considered as the method to prove causation. In most cases results from a reductionist approach cannot directly be translated into an individualistic benefit. Still the organisation of nutrition sciences is strongly influenced by a reductionistic focus. Political and governmental choices force scientists to search for private funding. This funding steers to nutrient and/or products related effects, creating possibilities for product related communication on single products, sometimes controversial to general recommendations. 
+The evidence we seek, the questions we ask, and the way how nutrition sciences is organised and funded threaten our credibility. A discussion is needed to agree on different ways of working and knowing.
+
+
+### The concepts in Nutrition in Transition
+#### Edith Feskens
+##### Abstract 
+>
+
+##### Notes
+
+### The Development of new research infrastructures that enable new approaches and methods
+#### Pieter van't Veer
+##### Abstract 
+>
+
+##### Notes
+
+### The connection to “Standards in Nutrition Sciences” of FENS
+#### Philip Calder
+##### Abstract 
+>
+
+##### Notes
+
+### Result of discussion from the Satellite “Nutrition in Transition”
+#### Jan de Vries
+##### Abstract 
+>
+
+##### Notes
+
+---
+
+# Friday
+
+---
+
+## Session 3D: Chrono-Nutrition: the evidence for why 'You are when you eat'
+1045-1215 Auditorium (level 3)
+
+##### Session Abstract
+> Most physiological processes exhibit daily (or ‘circadian’) rhythms. Indeed, the importance of circadian rhythms was formally recognised by the award of the 2017 Nobel Prize in Physiology or Medicine for characterisation of the molecular circadian clock.
+> 
+> One of the key roles of the circadian system is the regulation of metabolic physiology. It is therefore not surprising that there is a close relationship between our internal rhythms, metabolic health and nutrition. Emerging research indicates that meal timing regulates both acute post-prandial responses, as well as long-term energy storage and body composition. Furthermore, timed meals can feed back to regulate circadian rhythms and have long-term influences on metabolic function.
+> 
+> This symposium will bring together three leading researchers in the new field of chrono-nutrition, the interaction between circadian time and food intake. First, Dr Gerda Pot will present the epidemiological evidence linking meal timing to human health. Next, Dr Jonathan Johnston will describe controlled physiological studies that link circadian biology to human metabolism and mealtime. Finally, Dr David Bechtold will describe animal and cellular models that provide novel mechanistic insight into the link between meal timing, the molecular clockwork and energy metabolism.
+ 
+### Chrono-nutrition: epidemiological evidence of meal timing on health
+#### Gerda Pot
+##### Abstract 
+> Studies on chrono-nutrition, studying the impact of when we eat on metabolic health, have seen a great increase in the past few years. Studying not only what we eat, but also when we eat, is very relevant at times characterized by changes in our temporal dietary patterns. Changes in temporal eating patterns could be due to a rise in people working in shifts, people consuming more meals outside the home and overall eating patterns having become more irregular, including more breakfast skipping and night-time eating. Temporal eating patterns are a possible modifiable risk factor for cardio-metabolic diseases. Many of the metabolic processes in our body follow a circadian pattern. Disruption of these circadian patterns or misalignment between the timing of eating and endogenous circadian systems can have adverse health effects, including impaired cardio-metabolic health. This presentation will report on recent findings and insights on epidemiological evidence of meal timing on cardio-metabolic health, including type 2 diabetes.
+
+##### Notes
+
+### Circadian metabolism in humans and its regulation by meal timing
+#### Jonathan Johnston
+##### Abstract 
+> Endogenous circadian (~ 24-hour) rhythms exist in many key aspects of physiology, including metabolic function. As a result of these metabolic rhythms, physiological responses to food intake vary across the day. Moreover, the timing of energy intake is a key factor that can synchronise the timing of circadian rhythms in many peripheral tissues. The interaction between energy intake and time of day is therefore a complex, bi-directional phenomenon that has profound consequences for long-term metabolic health.
+>
+> Much of our understanding of the mechanisms underlying circadian metabolism come from animal studies. However, advances in biopsy collection and molecular analyses are now enabling human studies to contribute further to this topical aspect of metabolic and nutritional physiology.
+> 
+> This presentation will briefly explain the basic science underlying links between circadian rhythms and metabolism, focussing mainly on human biology. It will then describe recent high-profile studies that have highlighted the intimate relationship between meal timing and human physiology.
+
+##### Notes
+
+### Recipricol connections between the timing of food intake and the circadian clock
+#### David Bechtold
+##### Abstract 
+> In mammals, endogenous circadian clocks sense and respond to daily feeding and lighting cues, adjusting internal ∼24 h rhythms to resonate with, and anticipate, external cycles of day and night. The mechanism underlying circadian entrainment to feeding time is critical for understanding why mistimed feeding, as occurs during shift work, disrupts circadian physiology, a state that is associated with increased incidence of chronic diseases such as type 2 (T2) diabetes. In this presentation, I will discuss our recent work detailing the molecular mechanisms which link the circadian clock to feeding time and energy metabolism on a cellular and systemic level.
+
+
+
+##### Notes
+
+---
+
+## Plenary session 5
+
+### Epigenetic reprogramming regulating adipose tissue plasticity and function
+#### Christian Wolfrum
+##### Abstract
+> The increase in the prevalence of overweight and obesity worldwide has reached a qualified epidemic stage1 and in line with this it is widely acknowledged that obesity-associated co-morbidities are the main cause of death. In simple terms, the basis of obesity is an excess accumulation of adipose tissue, however, with regards to the development of co-morbidities, studies in recent years have suggested adipose tissue quality to be an important denominator2. Adipose tissue can be divided into white (WAT) and brown adipose tissues (BAT)3. While WAT is the main storage site for lipids, BAT functions to dissipate energy in the form of heat in a process called non-shivering thermogenesis4, to contribute to the maintenance of body temperature homeostasis during both acute and chronic cold exposure5,6. The relevance of BAT in human physiology is demonstrated by its association with higher energy expenditure, lower adiposity and a reduced risk of type 2 diabetes7. In recent years, a number of studies have demonstrated a link between paternal preconception nutrient exposure and the phenotype of the offspring. Differences in gene expression patterns arise during development and can be retained through mitosis by epigenetic mechanisms8. In the context of thermoregulation, it was shown that environmentally induced changes in gene expression can affect cellular function and thereby also predisposition to certain diseases9. Additionally, different changes in the environment (i.e. weather, stress, nutrition, socioeconomic conditions) on the parent can be transmitted to subsequent generations leading to health advertises. The lecture will focus on the role of the epigenome in regulating adipose tissue composition thereby affecting systemic energy metabolism. 
+
+##### Notes
+
+---
+
+
