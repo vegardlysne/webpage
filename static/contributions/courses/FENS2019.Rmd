@@ -1,6 +1,5 @@
 ---
-title: "Homocysteine conference 2019"
-author: "Vegard Lysne"
+title: "FENS 2019"
 output: 
   html_document:
     theme: darkly
@@ -9,7 +8,7 @@ output:
     toc_float: true
 ---
 
-These are my personal notes from the 13^th^ European Nutrition Conference, arranged in Dublin, Ireland, 15-18 October 2019. 
+These are my notes from the 13^th^ European Nutrition Conference, arranged in Dublin, Ireland, 15-18 October 2019. 
 
 Return to [home](/).
 
@@ -553,7 +552,7 @@ The evidence we seek, the questions we ask, and the way how nutrition sciences i
  
 ### Chrono-nutrition: epidemiological evidence of meal timing on health
 #### Gerda Pot
-##### Abstract 
+##### Abstract  
 > Studies on chrono-nutrition, studying the impact of when we eat on metabolic health, have seen a great increase in the past few years. Studying not only what we eat, but also when we eat, is very relevant at times characterized by changes in our temporal dietary patterns. Changes in temporal eating patterns could be due to a rise in people working in shifts, people consuming more meals outside the home and overall eating patterns having become more irregular, including more breakfast skipping and night-time eating. Temporal eating patterns are a possible modifiable risk factor for cardio-metabolic diseases. Many of the metabolic processes in our body follow a circadian pattern. Disruption of these circadian patterns or misalignment between the timing of eating and endogenous circadian systems can have adverse health effects, including impaired cardio-metabolic health. This presentation will report on recent findings and insights on epidemiological evidence of meal timing on cardio-metabolic health, including type 2 diabetes.
 
 ##### Notes
