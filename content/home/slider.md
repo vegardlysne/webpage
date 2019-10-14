@@ -31,7 +31,7 @@ height = ""
 
 [[item]]
   title = "FENS - European Nutrition Conference"
-  content = "I'm attending [FENS](http://www.fens2019.org/) 15-18 October"
+  content = "I'm attending [FENS](http://www.fens2019.org/) 15-18 October. Find live updates [here](/blog/fens-liveblog/)"
   align = "center"  # Choose `center`, `left`, or `right`.
   overlay_color = "rgb(29, 33, 39)"  # An HTML color value.
   cta_label = "Conference notes"
