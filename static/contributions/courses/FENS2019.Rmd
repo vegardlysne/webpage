@@ -91,7 +91,7 @@ Return to [home](/).
 - Riboflavin status is similar across the MTHFR 677-genotypes, suggesting that this genotype does not interfere with riboflavin status.
 - In Ireland, the average riboflavin intake is 3 mg/day, 
 - 14 % of irish men and 22 % of women have riboflavin intake below the EAR
-- Poor correlation between riboflavin intake and biomarker status, the DERiVE project aim to improve measures of riboflavin status.
+- There is a poor correlation between riboflavin intake and biomarker status, the DERiVE project aim to improve measures of riboflavin status.
 
 ---
 
