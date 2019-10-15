@@ -3,23 +3,28 @@ title: FENS liveblog
 author: Vegard
 date: '2019-10-14'
 slug: fens-liveblog
-categories: []
-tags: []
-subtitle: ''
+categories: 
+- Conference
+tags: 
+- Nutrition
+- Science
 summary: 'Live updates from the European Nutrition Conference 2019'
 authors: []
-lastmod: 2019-10-14
+lastmod: 2019-10-15
 featured: no
 draft: no
-image:
-  caption: ''
-  placement: 0
-  preview_only: yes
-projects: []
+output: 
+  blogdown::html_page:
+    toc: yes
+    toc_depth: 2
 ---
 ![](/blog/2019-10-14-fens-liveblog_files/FENS2019.jpg)
 I'm currently in Dublin, attending the European Nutrition Conference ([FENS](http://www.fens2019.org/)), and will try to provide some updates during the week. The conference starts tomorrow, Tuesday October 15, and last until friday. 
 
 You can find my conference notes [here](/contributions/courses/fens2019.html), and you can also find updates by following the [#FENS2019](https://twitter.com/search?q=%23FENS2019) on Twitter!
 
-# Tuesday 
+# Tuesday - Day 1
+
+### 09:45
+![](/blog/2019-10-14-fens-liveblog_files/opening.jpg)
+The conference is about to start, with the opening ceremony followed by the first plenary session.
