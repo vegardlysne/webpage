@@ -13,14 +13,15 @@ These are my notes from the 13^th^ European Nutrition Conference, arranged in Du
 Return to [home](/).
 
 # Main take-home messages
-- [Nutrition policy](#key1) is key to reach the sustainable development goals
+- [Nutrition policy](#keynote1) is key to reach the sustainable development goals
+- The interaction between the MTHFR 677TT genotype, riboflavin and hypertension offers the potential for personalized nutritional prevention and treatment of hypertension in a high-risk subgroup of the population. Talks [here](#MTHFR) and [here](#MTHFR2).
 ---
 
 # Tuesday
 
 ## Plenary session 1
 
-### Drivers across the lifecycle of malnutrition in an obese world - European perspectives {#key1}
+### Drivers across the lifecycle of malnutrition in an obese world - European perspectives {#keynote1}
 #### Joäo Breda, WHO
 
 ##### Notes
@@ -47,7 +48,6 @@ Return to [home](/).
 ---
 
 ## Session 1A
-1145-1230 Wicklow meeting room 1 (level 2)
 
 ### The associations between genetics, salt taste perception and salt intake in young adults
 #### Leta Pilic
@@ -59,15 +59,24 @@ Return to [home](/).
 > Participants were normal weight (Body Mass Index 23.8±3.7 kg/m2), predominantly Caucasian with salt intake 7.5±2.7g per day, reflecting current intakes in the UK. Regression model including genetics, thresholds and preference for salty taste explained 54% of the variance (p=0.028). In this model, TRPV1 variant rs8065080 [β=422, confidence interval (50, 794), p=0.030] and salt preference [β=618, confidence interval (258, 978), p=0.004] were indicated as predictors of sodium intake. These findings suggest that genetics and preference for salty taste may be drivers of salt intake in younger populations. If replicated, this information may in the future be used in designing more personalised approaches in changing this behaviour.
 
 ##### Notes
+-High salt intake is the #1 dietary risk factor, and we eat too much. But what is driving our high intakes?
+    - Lower salt taste sensitivity = higher threshold for salt intake
+    - Salt taste preference
+- Genetic predisposition to salt taste perception [paper](https://www.ncbi.nlm.nih.gov/pubmed/30105963)
+- Salt taste preference was associated with salt intake, those preferring salty foods also eats more salt
+- Genetics, salt taste perception (threshold and preference) and habits explains 16 % of the variation in salt intake
 
-### Central blood pressure in adults screened for a genetic polymorphism in folate metabolism
-#### M Rooney
+### Central blood pressure in adults screened for a genetic polymorphism in folate metabolism {#MTHFR}
+#### Martina Rooney
 ##### Abstract
 > As the primary risk factor for cardiovascular disease (CVD), hypertension is the leading cause of preventable, premature mortality globally. Hypertension, or elevated blood pressure (BP), has a number of well-established risk factors, including genetics. A common C677T polymorphism in the gene encoding the folate metabolising enzyme methylenetetrahydrofolate reductase (MTHFR) affects 10-12% of UK and Irish populations and has been linked with 24-87% increased risk of hypertension globally. Evidence from randomised controlled trials (RCTs) conducted at this Centre has shown BP to be highly responsive (by 5-13 mmHg) to supplementation with riboflavin (MTHFR co-factor), an effect confined to homozygous individuals (TT genotype). To date, our trials have focused on peripheral BP; however, additional measures of vascular health such as central pressure are reported to be more closely correlated with CVD risk. Investigation of central BP, augmentation index (AIx) and pulse pressure amplification (PPA) may thus offer further insight into the role of this gene-nutrient interaction in blood pressure. The present study aims to investigate BP, and measures of vascular health in healthy adults stratified by MTHFR 677 genotype. Apparently healthy adults aged 18-60 years were recruited from workplaces across Northern Ireland and screened for MTHFR genotype via buccal swab. Clinic BP, anthropometry and blood sample were measured in TT individuals (n 209) and age and sex-matched CC (n 98) and CT (n 102) controls. AIx and central BP were assessed using SphygmoCor® (AtCor Medical, Australia). Preliminary results demonstrate higher BP in individuals with the MTHFR 677TT genotype compared to non-TT controls (systolic BP 134.7 ± 13.8 mmHg vs 129.7 ± 12.4 mmHg, P<0.001; diastolic BP 81.6 ± 9.5 mmHg vs 79.7 mmHg ± 8.9 mmHg, P=0.023, respectively). The MTHFR 677TT genotype group had significantly higher central systolic BP (119.4 ± 11.8 vs 116.7 ± 10.9 mmHg, P=0.018), central pulse pressure (P=0.006) and central mean pressure (P=0.011) compared to the non-TT group. No significant differences for central diastolic BP, pulse pressure amplification, pulse pressure ratio and augmentation index were observed. This study confirms the phenotype of elevated BP in individuals with the C677T polymorphism in the gene encoding MTHFR. For the first time, this study reports that individuals with the MTHFR 677TT genotype have higher central systolic BP, central mean pressure and pulse pressure. Further investigations through RCTs investigating the effect of the MTHFR cofactor, riboflavin, on central blood pressure in these genetically at-risk adults are warranted. 
 
 ##### Notes
+- Genes are commonly thought of as non-modifiable risk factors
+- Gene-nutrient interactions challenge this notion
+- Previous research focused on peripheral blood pressure, this study expand the findings to central measures of hypertension. 
 
-### Intakes and status of riboflavin in a representative sample of Irish adults aged 18-90 years screened for MTHFR C677T polymorphism
+### Intakes and status of riboflavin in a representative sample of Irish adults aged 18-90 years screened for MTHFR C677T polymorphism {#MTHFR2}
 #### Emma O'Sullivan
 ##### Abstract
 > Meta-analyses of epidemiological data report that adults who carry a common polymorphism, the MTHFR 677C→T, in the gene encoding the folate-metabolising enzyme methylenetetrahydrofolate reductase (MTHFR) have a 40% increased risk of CVD and an 87% increased risk of hypertension.  Riboflavin (vitamin B2), in its co-enzymatic form flavin adenine nucleotide (FAD), is required as a co-factor by MTHFR and previous trials in hypertensive patients have shown a blood pressure lowering response to riboflavin supplementation that is specific to individuals homozygous for this polymorphism (TT genotype). Low folate status is commonly reported in adults with the TT genotype however the effect of this genetic variant on riboflavin status has not previously been investigated. The aim of this study, therefore, was to investigate dietary intake and biomarker status of riboflavin by MTHFR genotype in Irish adults using data from the National Adult Nutrition Survey (2008-2010) (www.iuna.net).
@@ -79,6 +88,10 @@ Return to [home](/).
 > These data suggest that riboflavin status is not influenced by the C677T polymorphism in MTHFR in this cohort of nationally representative Irish adults. Further research is needed to see the impact of riboflavin status on blood pressure across the genotype groups in this nationally representative cohort of Irish adults. 
 
 ##### Notes
+- Riboflavin status is similar across the MTHFR 677-genotypes, suggesting that this genotype does not interfere with riboflavin status.
+- In Ireland, the average riboflavin intake is 3 mg/day, 
+- 14 % of irish men and 22 % of women have riboflavin intake below the EAR
+- Poor correlation between riboflavin intake and biomarker status, the DERiVE project aim to improve measures of riboflavin status.
 
 ---
 
