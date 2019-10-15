@@ -24,22 +24,20 @@ I'm currently in Dublin, attending the European Nutrition Conference ([FENS](htt
 You can find my conference notes [here](/contributions/courses/fens2019.html), and you can also find updates by following the [#FENS2019](https://twitter.com/search?q=%23FENS2019) on Twitter!
 
 # Tuesday - Day 1
-
-### 09:45
 ![](/blog/2019-10-14-fens-liveblog_files/opening.jpg)
-The conference is about to start, with the opening ceremony followed by the first plenary session. 1700 participants from all over the world are getting ready for a week of nutrition research!
+It's 09:45 and dhe conference is about to start, with the opening ceremony followed by the first plenary session. 1700 participants from all over the world are getting ready for a week of nutrition research, discussions and networking!
 
-### 11:15
+### Malnutrition in an obese world
 The first plenary lecture was presented by **Joäo Breda**, from the World Health Organization, on the topic of *Drivers across the lifecycle of malnutrition in an obese world - European perspectives*. His talk focused on the importance of nutrition in reaching many of the sustainable development goals. Using data from European countries, he illustrated nutritional challenges such as the increasing prevalence of childhood overweight and obesity. The first pillar in the  European Food and Nutrition Action plan 2015-2020 is to create a healthy food and drink environment. This include strategies to reduce the intake of sugar and salt. The second pillar is nutrition during life cycle, where Breda was not happy with the low compliance to exclusive breast feeding in the European countries. The rest of the talk focused on the final three pillars, including the large potential for improving the communication of nutritional information to the public, as well as the need for improving nutritional surveilance and research regarding the implementation of selected interventions.
 
-### 12:30
+## Genetics, salt, riboflavin and hypertension
 The next session I attended had 3 speakers. First, **Catherine Graham** told us about *The associations between genetics, salt taste perception and salt intake in young adults*. Salt intake continues to be the #1 dietary risk factor for non-communicable diseases, but reducing salt intake is difficult. A preference to salty taste, as well as genetic factor lowering the salt taste sensitivity, may be contributors to the persistent high salt intake in populations. 
 
 Next up, **Martina Rooney** told us about *Central blood pressure in adults screened for a genetic polymorphism in folate metabolism*. Genes are commonly regarded as non-modifiable risk factors, but in the presence of high-penetrance gene-nutrient interactions, this paradigm does not necessarily hold. A genetic variant in the MTHFR gene (C677T), affecting ~10% of the population, has been consistently linked to hypertension risk, and this variant is responsive to low-dose riboflavin supplementation. Previous research have focused on preipheral blood pressure. In her research, Rooney have shown that these individuals also have higher central blood pressure. 
 
 Finally, **Emma O'Sullivan** continued the MTHFR TT-story, by investigating riboflavin status in a population screened for this genotype. They found no large differences in riboflavin status or intake across the MTHFR genotypes, but a large proportion (14% of men, 22% of women) of the population have intakes below the EAR. How riboflavin status affects the blood pressure in the population should be further addressed.
 
-### 15:00
+## Metabolic obesity
 After lunch I attended the session on metabolic obesity. Overweight and obesity is commonly classified by BMI, but this doesn't tell us much regarding metabolic health.
 
 The first talk was by **Norbert Stefan**, on *Definition and clinical Impact of metabolically healthy and unhealthy Obesity*. Although obesity is a key risk factor for life style diseases, the risk is only moderately elevated in those with a metabolically healthy phenotype. At the same time, normal weight people with a metabolically unhealthy phenotype also have increased mortality. A strong correlation have been reported between liver fat and insulin resistance, which is stronger than the association with visceral fat mass. The concept of metabolically healthy obesity was presented, and defined by being obese but having < 2 metabolic risk parameters, and data was presented suggesting that about 25% of obese persons were metabolically healthy. Further, compared to metabolically healthy normal-weight, being metabolically healthy obese was associated with only 28% increased risk, while the metabolically unhealthy normal-weight had 115% increased risk. In conclusion, he recommend to stratify the risk assessment according to metabolic health to accomplish the goal of providing personalized treatment to patients.
@@ -54,7 +52,8 @@ Further, saturated fat increases liver fat more than polyunsaturated fat.
 ![](/blog/2019-10-14-fens-liveblog_files/Yki-Jarvinen2.jpg)
 Metabolically determined NAFLD can be a consequence of overeating simple sugars, due to increased de novo lipogenesis. However, in the context of similar weight gain, saturated fat induces greater metabolic harm compared to simple sugars. 
 
-### 16:30
+## Nutrition communication
+
 In the next workshop, the topic of communication of nutrition information was on the agenda. This is a big challenge as nutrition information is now available from numerous sources including the media, internet, health professionals, social influencers and peers. 
 
 The first talk of the workshow was given by **Robert O'Connor**, asking the question *What’s driving the nutritional problem in cancer?*. In his talk, he focused on the multitude of dietary recommendations aimed at cancer patients, and their challenge in discerning between evidence-based and pseudoscientific information. A problem he referred to as "scientification" of nutrition advertisement. One increasingly popular phrase in food advertisement is "let food be thy medicine", on which O'Connors comment was "food is not medicine for healthy people, it simply isn't". He discussed the problems of health "shockumentaries" spreading misinformation, and further pointed out that although science is increasingly available, scientific understanding is not. The finishing point was that the impact of this confusing terrain of misinformation is an increase in preventable cancer mortalities due to people following unfounded advice, including postponing or not receiving actually evidence-based treatments. 
