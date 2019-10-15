@@ -8,24 +8,41 @@ output:
     toc_float: true
 ---
 
-These are my notes from the 13^th^ European Nutrition Conference, arranged in Dublin, Ireland, 15-18 October 2019. 
+These are my notes from the 13^th^ European Nutrition Conference, arranged in Dublin, Ireland, October 15-18 2019. 
 
 Return to [home](/).
 
 # Main take-home messages
-
+- [Nutrition policy](#key1) is key to reach the sustainable development goals
 ---
 
 # Tuesday
 
 ## Plenary session 1
-1030-1115 Auditorium level 3
 
-### Drivers across the lifecycle of malnutrition in an obese world - European perspectives
+### Drivers across the lifecycle of malnutrition in an obese world - European perspectives {#key1}
 #### Joäo Breda, WHO
 
 ##### Notes
-- 
+- Acting on nutrition is key to reach many of the sustainable development goals, e.g. 2 (zero hunger) and 3 (good health and well-being) 
+- Europe
+    - Not a single country is on track to reach the global targets on alcohol, tobacco, adult obesity and salt reduction. 
+    - Gender differences in premature mortality, especially in eastern Europe where premature mortality is more common in men
+    - Childhood overweight prevalence ~25% 
+- European Food and Nutrition Action plan 2015-2020, main pillars
+    1. Create healthy food and drink environments
+        - Sugar content of soft drinks highly variable between countries, which may help explain different rates of childhood obesity
+        - We are not making progress in reducing salt intake to the recommended levels
+    2. Life course
+        - Before and during pregnancy
+        - In terms of exclusive breastfeeding, Europe is not doing good
+        - The quality of complimentary food products is an arena for improvements, with high amounts of added sugar, as well as many products carrying health claims
+    3. Reinforce healthy systems to promote healthy diets
+        - Much work need to be done to communicate infomation on healthy diets
+    4. Support surveillance, monitoring, evaluation and research
+        - We need better data on dietary intake
+    5. Strengthen governance, alliances and networks to ensure a health-in-all-policies approach
+        - We need more research on the implementation of selected interventions 
 
 ---
 

@@ -15,7 +15,7 @@ featured: no
 draft: no
 output: 
   blogdown::html_page:
-    toc: yes
+    toc: true
     toc_depth: 2
 ---
 ![](/blog/2019-10-14-fens-liveblog_files/FENS2019.jpg)
@@ -27,4 +27,7 @@ You can find my conference notes [here](/contributions/courses/fens2019.html), a
 
 ### 09:45
 ![](/blog/2019-10-14-fens-liveblog_files/opening.jpg)
-The conference is about to start, with the opening ceremony followed by the first plenary session.
+The conference is about to start, with the opening ceremony followed by the first plenary session. 1700 participants from all over the world are getting ready for a week of nutrition research!
+
+### 11:15
+The first plenary lecture was presented by Joäo Breda, from the World Health Organization, on the topic of *Drivers across the lifecycle of malnutrition in an obese world - European perspectives*. His talk focused on the importance of nutrition in reaching many of the sustainable development goals. Using data from European countries, he illustrated nutritional challenges such as the increasing prevalence of childhood overweight and obesity. The first pillar in the  European Food and Nutrition Action plan 2015-2020 is to create a healthy food and drink environment. This include strategies to reduce the intake of sugar and salt. The second pillar is nutrition during life cycle, where Breda was not happy with the low compliance to exclusive breast feeding in the European countries. The rest of the talk focused on the final three pillars, including the large potential for improving the communication of nutritional information to the public, as well as the need for improving nutritional surveilance and research regarding the implementation of selected interventions. 
