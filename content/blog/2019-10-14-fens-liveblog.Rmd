@@ -20,4 +20,6 @@ projects: []
 ![](/blog/2019-10-14-fens-liveblog_files/FENS2019.jpg)
 I'm currently in Dublin, attending the European Nutrition Conference ([FENS](http://www.fens2019.org/)), and will try to provide some updates during the week. The conference starts tomorrow, Tuesday October 15, and last until friday. 
 
-You can find my conference notes [here](/contributions/courses/fens2019.html)
+You can find my conference notes [here](/contributions/courses/fens2019.html), and you can also find updates by following the [#FENS2019](https://twitter.com/search?q=%23FENS2019) on Twitter!
+
+# Tuesday 
