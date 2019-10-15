@@ -16,6 +16,7 @@ Return to [home](/).
 - [Nutrition policy](#keynote1) is key to reach the sustainable development goals
 - The interaction between the MTHFR 677TT genotype, riboflavin and hypertension offers the potential for personalized nutritional prevention and treatment of hypertension in a high-risk subgroup of the population. Talks [here](#MTHFR) and [here](#MTHFR2).
 - Liver fat is a [stronger predictor of insulin resistance](#metabobesity1) compared to visceral adipose tissue
+- Low-carb/High-fat diets [increases liver fat more than low-fat/high-carb diets](#metabobesity2), and in the context of similar weight gain, saturated fat induces more harm than simple sugars. 
 ---
 
 # Tuesday
@@ -135,7 +136,7 @@ Return to [home](/).
     - Overall good correlation, but large variation within person with the same WC. Can be used on the group level.
 - MRI is the gold standard, and should be used when you need to detect small changes. Simpler methods such as predictive algorithms perform less well, but are more accessible, and combined with machine learning it can be a promising approach
 
-### Effects of overfeeding different diets on the human liver
+### Effects of overfeeding different diets on the human liver {#metabobesity2}
 #### Hannele Yki-Järvinen
 
 ##### Notes
@@ -155,27 +156,6 @@ Return to [home](/).
 ##### Symposium abstract
 > The public are becoming increasingly aware of the link between diet and health. Nutrition information is available from numerous sources including the media, internet, health professionals, social influencers and peers. The accuracy and credibility of information varies considerably. Research findings are also reported in the media and not always in the context of existing knowledge. These multiple and often apparently conflicting messages creates confusion for the public and can potentially lead to negative health impacts. A recent survey carried out by the British Dietetic Association in the United Kingdom (UK) found that the public don’t know who to trust for diet and nutrition advice while 58% of people trust nutrition advice from their personal trainer and fitness instructor and in the 18-24 year-old age group, 41% trusting the advice of a healthy eating blogger. The level of risk associated with following non-evidence based nutrition advice varies. For example, an individual temporarily following a low-carbohydrate diet promoted by a celebrity is relatively low risk, however a cancer patient following a ketogenic diet promoted by a nutrition therapist is high risk and potentially very harmful to the patient. This session will focus on the challenges faced by health communicators (including researchers, policy makers and practitioners) in promoting evidence based advice in a world where so many nutrition messages exist.
 
-### The Nutrition Maelstrom for Cancer Patients
-#### Eileen O'Sullivan
-##### Abstract
-> This presentation will outline a cancer patients experience of the abundance of misleading nutritional advice and pseudoscience that is actively targeted at cancer patients by those without the requisite qualifications and expertise, zoning in on their vulnerability and heightened emotions. There have always been snake oil salespeople but what has changed is the incredible reach those who promote their services and products have, made possible by a number of modern innovations, e.g. internet, social media, leading to a more acceptable face of an integrative or functional ‘wellness industry’ and the interpretation that healthcare practice can be democratised by popular demand rather than evidenced based science. It can be challenging for patients to discern evidenced based nutritional information from pseudoscience and potentially dangerous cancer fad diets. This is all the more difficult for patients due to the lack of oncology dietitians that should ideally be embedded within the cancer patients’ clinical team. Nutritional support is crucially important in respect of both patients’ tolerability of treatment and outcomes, but cancer patients are getting little or no appropriate professional nutritional support and therefore may seek support from non reputable sources.  Cancer patients can also be influenced on nutritional decisions by well meaning but ill informed relatives and friends, all of which can be confusing and overwhelming for cancer patients.  
-
-##### Notes
-
-### Journalism and the proliferation of nutribabble
-#### Philip Boucher-Hayes
-##### Abstract
-> Journalist and presenter of many RTÉ television programmes on food, Philip Boucher-Hayes, takes a look at the role his own profession has played in the spread of fake food news, bad science and vested interests.
-
-##### Notes
-
-### Full disclosure - on food and nutrition
-#### Gabriel Scally
-##### Abstract
-> The opportunity to inform people about the provenance and content of what they are eating and drinking has never been better. Ready access to on-line scientific information and requirements to inform consumers of basic content and nutritional information in processed foodstuffs should be leading to greater consumer confidence. However, the growth of intensive agricultural methods and the widespread use of high volumes of industrially produced chemicals, including antibiotics and pesticides, creates a situation where it is increasingly difficult for the public to know exactly what they are putting in their bodies. Strategies to improve assurance to the public on food are needed and include better public information requirements and robust certification methods that will provide confidence to everyone that purchases food in an increasingly diverse marketplace
-
-##### Notes
-
 ### What’s driving the nutritional problem in cancer?
 #### Robert O'Connor
 ##### Abstract
@@ -188,6 +168,34 @@ Return to [home](/).
 > We will expolore some of the underlying personal, societal and media trends contributing to the current situation and try to identify some evolutions and opportunities for the communication of accurate and helpful information to the public and patients.
 
 ##### Notes
+- "Food is not medicine for a healthy person"
+- The dr.Google phenomenon is very real today
+    - Science is increasingly available, but scientific understanding is not
+- Meat and cancer is a good example of how the public are presented with confusing messages regarding the role of nutrition, as examplified by the recent headlines regarding the publication in Annals of Internal Medicine. 
+
+### The Nutrition Maelstrom for Cancer Patients
+#### Eileen O'Sullivan
+##### Abstract
+> This presentation will outline a cancer patients experience of the abundance of misleading nutritional advice and pseudoscience that is actively targeted at cancer patients by those without the requisite qualifications and expertise, zoning in on their vulnerability and heightened emotions. There have always been snake oil salespeople but what has changed is the incredible reach those who promote their services and products have, made possible by a number of modern innovations, e.g. internet, social media, leading to a more acceptable face of an integrative or functional ‘wellness industry’ and the interpretation that healthcare practice can be democratised by popular demand rather than evidenced based science. It can be challenging for patients to discern evidenced based nutritional information from pseudoscience and potentially dangerous cancer fad diets. This is all the more difficult for patients due to the lack of oncology dietitians that should ideally be embedded within the cancer patients’ clinical team. Nutritional support is crucially important in respect of both patients’ tolerability of treatment and outcomes, but cancer patients are getting little or no appropriate professional nutritional support and therefore may seek support from non reputable sources. Cancer patients can also be influenced on nutritional decisions by well meaning but ill informed relatives and friends, all of which can be confusing and overwhelming for cancer patients.  
+
+##### Notes
+- As a cancer patient, O'Sullivan did not receive any specific nutritional advice from the hospital
+- Not only patients, but also their relatives, are targeted by "snake-oil salesmen" 
+- NOt only amateurs, also doctors and nutritionists
+
+### Journalism and the proliferation of nutribabble
+#### Philip Boucher-Hayes
+##### Abstract
+> Journalist and presenter of many RTÉ television programmes on food, Philip Boucher-Hayes, takes a look at the role his own profession has played in the spread of fake food news, bad science and vested interests.
+
+##### Notes
+- Occupy the same space as the charlatans, we need to talk to people about our research
+- Offer your expertise to the media!
+
+### Full disclosure - on food and nutrition
+#### Gabriel Scally
+##### Abstract
+> The opportunity to inform people about the provenance and content of what they are eating and drinking has never been better. Ready access to on-line scientific information and requirements to inform consumers of basic content and nutritional information in processed foodstuffs should be leading to greater consumer confidence. However, the growth of intensive agricultural methods and the widespread use of high volumes of industrially produced chemicals, including antibiotics and pesticides, creates a situation where it is increasingly difficult for the public to know exactly what they are putting in their bodies. Strategies to improve assurance to the public on food are needed and include better public information requirements and robust certification methods that will provide confidence to everyone that purchases food in an increasingly diverse marketplace
 
 ---
 
