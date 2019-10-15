@@ -15,6 +15,7 @@ Return to [home](/).
 # Main take-home messages
 - [Nutrition policy](#keynote1) is key to reach the sustainable development goals
 - The interaction between the MTHFR 677TT genotype, riboflavin and hypertension offers the potential for personalized nutritional prevention and treatment of hypertension in a high-risk subgroup of the population. Talks [here](#MTHFR) and [here](#MTHFR2).
+- Liver fat is a [stronger predictor of insulin resistance](#metabobesity1) compared to visceral adipose tissue
 ---
 
 # Tuesday
@@ -43,7 +44,7 @@ Return to [home](/).
     4. Support surveillance, monitoring, evaluation and research
         - We need better data on dietary intake
     5. Strengthen governance, alliances and networks to ensure a health-in-all-policies approach
-        - We need more research on the implementation of selected interventions 
+        - We need more research on the implementation of selected interventions
 
 ---
 
@@ -96,20 +97,28 @@ Return to [home](/).
 ---
 
 ## Session 2B: Metabolic obesity
-1330-1500 Liffey A (level 1)
 
 ##### Symposium abstract
 > A body mass index (BMI) of 30 or above is universally accepted as the definition of obesity, and as a measure of excess body fatness that increases the risk of cardiovascular diseases (CVD). However, BMI is only a weak proxy for the strong link between excess body fat and metabolic dysfunction that increases CVD risk.  This link can be attributed more specifically to the presence of excess visceral fat (visceral adipose tissue or VAT) in the abdominal cavity, and ectopic fat in key metabolic tissues such as the liver, pancreas and skeletal muscle. Excess VAT is a common finding in classic obesity (BMI>30), but also in non-obese individuals (BMI less than 30), who can be described as having an unhealthy form of metabolic ‘obesity’. In contrast, a relative lack of VAT, but excess of subcutaneous adipose tissue (SAT), that may protect against metabolic dysfunction and accumulation of ectopic fat, creates a form of obesity which in comparison to its classic and metabolic counterparts, is relatively benign or metabolically ‘healthy’. This symposium brings together three world leading experts in the field of human body composition, metabolic disease and nutrition to address the causes and consequences of metabolically healthy and unhealthy obesity, the various techniques for measuring metabolic ‘obesity’, and its dietary determinants and treatment.
 
-### Definition and clinical Impact of metabolically healthy and unhealthy Obesity
+### Definition and clinical Impact of metabolically healthy and unhealthy Obesity {#metabobesity1}
 #### Norbert Stefan
 ##### Abstract
 > The prevalence of overweight and obese individuals has increased globally during the last few decades. An elevated fat mass in subjects with a BMI > 25 kg/m2 is thought to promote morbidity and mortality. However, the research into the causes and consequences of metabolically healthy obesity (MHO) has indicated that for a certain BMI, the risk of cardiometablic disease and death can vary substantially among subjects. In this respect, compared to metabolically healthy people in the normal weight range, subjects with MHO only have a moderately (~+25%) elevated risk of all-cause mortality and/or cardiovascular events. In contrast for a similar BMI, the same risk is substantially increased (~+150%) in subject with metabolically unhealthy obesity (MUHO). Among the mechanisms increasing this risk in subjects with MUHO nonalcoholic fatty liver disease (NAFLD) and dysregulated hepatokine release from NAFLD were identified. On the other spectrum of the BMI, a strongly elevated risk of all-cause mortality and/or cardiovascular events (~+180%) is being observed in about 20% of the subjects with a BMI <25 kg/m2. Here a lipodystrophy-like phenotype with a low amount of gluteofemoral or leg fat mass is the dominating parameter characterizing this phenotype. These findings may have several implications, not only for drug development, but also for clinical interventions. In particular the question of how much weight loss might be necessary to protect from cardiometabolic diseases in people with obesity; in effect, how much weight loss is necessary to move from a state of MUHO to MHO. Furthermore, risk stratification, also in subjects with normal weight, will help to accomplish the goal of providing personalized medicine to our patients.
 
 ##### Notes
+- Diabetes, pre-diabetes and risk
+    - Before 2010, those with diabetew had much higher CVD risk compared to pre-diabetes, but due to better treatment of diabetes the risk is now similar
+- Liver fat is highly correlated with insulin resistance, much stronger than the association with visceral fat
+- A problem with the metabolic syndrome is the criteria of at least 3 risk factors, because you can have 2 risk factors and be categorized as low-risk. 
+- Metabolically healthy obesity - < 2 metabolic risk factors (hypertension, high TG, low HDL, low fasting glucose, high waist circumference)
+- [Lasalle C 2017](https://www.ncbi.nlm.nih.gov/pubmed/29020414) 
+    - Metabolically healthy obese 28% increased risk, metabolically unhealthy obese 154% increased risk. 
+    - Metabolically unhealthy normal weight 115% increased risk!
+
 
 ### How can we measure or predict visceral fat - omics, big data and tea leaves
-#### E Louise Thomas
+#### Louise Thomas
 ##### Abstract
 > Most countries across the world are reporting an increasing epidemic of obesity and obesity related co-morbidity, with type II diabetes rising to over 20% of the adult population in some places. At the same time, we are seeing report of substantial numbers of children and adolescents with marked metabolic dysfunction, including type II diabetes. 
 >
@@ -118,13 +127,25 @@ Return to [home](/).
 > Despite this, and the increasing availability of MRI system across the globe, it is impractical and costly to undertake scanning of large numbers of volunteers and patients on a routine basis, even in some smaller cohorts. Thus, alternatives to MRI, that can give robust, accurate and reproducible estimates of these fat deports has been an ongoing challenge for the scientific community. In this talk, I will present the current advances in this area and discussed the new machine-learning approaches being utilised in order to provide novel tool for this work.
 
 ##### Notes
+- MRI is not for everyone (too big, metal implants, pregnancy etc)
+- DEXA can be used as an alternative, but cannot be compared to the MRI data as it measures a different area. 
+    - MRI measures fat volume, including water, while DEXA measures fat mass.
+- Scaling factor, associations probably similar
+- Waist circumference as a proxy for visceral fat
+    - Overall good correlation, but large variation within person with the same WC. Can be used on the group level.
+- MRI is the gold standard, and should be used when you need to detect small changes. Simpler methods such as predictive algorithms perform less well, but are more accessible, and combined with machine learning it can be a promising approach
 
 ### Effects of overfeeding different diets on the human liver
 #### Hannele Yki-Järvinen
-##### Abstract
-> 
 
 ##### Notes
+- In Finland, diabetes and obesity is the most important risk factors for acute liver events, at any level of alcohol intake. 
+- Metabolic NAFLD is dominated by saturated triglycerides, while genetically (PNPLA3) related NAFLD is dominated by polyunsaturated triglycerides.
+- Metabolic NAFLD associated the risk of insulin resistance, genetically NAFLD does not!
+- Low-carb/high-fat diets increase liver fat more than low-fat/high carb diets. 
+- Saturated fat increases liver fat more than polyunsaturated fat
+- Simple sugard also contributes to metabolically determined NAFLD, through increasing de novo lipogenesis
+- In the context of similar weight gain, saturated fat induces greater metabolic harm compared to simple sugars
 
 ---
 
