@@ -215,41 +215,10 @@ Return to [home](/).
 > LCHF is not superior to other weight-loss diets, potentially risking micronutrient deficiencies. In the context of T2DM prevention, solely lowering CHO intake does not reduce HbA1c, as multi-mechanisms may interplay. Long-term, high-quality RCTs of LCHF, either iso- or restricted-calorie, for T2DM management and prevention are needed, and micronutrients in foods/supplements should be considered. 
 
 ##### Notes
-
-### Understanding the interplay between food structure, gut microbiota and appetite sensing
-#### Aygul Dagbasi
-##### Abstract
-> Undigested food products, mainly carbohydrates, reach the colon where they become available for bacterial fermentation. This process yields short chain fatty acids (SCFA) which stimulate the release of appetite supressing hormones glucagon-like peptide-1 (GLP-1) and peptide YY3-36 (PYY) 1. Targeted delivery of SCFAs to the colon has been shown to significantly increase the secretion of PYY and GLP-1 and reduce ad libitum and total daily energy intakes 2-3. This suggests that increased colonic SCFA production may be an effective target for weight loss strategies. 
-> 
-> Domestic and industrial processing have been shown to alter food structures, typically leading to more bioavailable and digestible products. This may result in lower amounts of undigested carbohydrates reaching the colon, thus reducing SCFA production and appetite suppression. Accordingly, a diet rich in minimally processed fresh foods with intact food structures has been shown to result in a greater appetite suppression measured by significantly increased levels of PYY and GLP-1 compared to an energy and macronutrient matched processed diet4. In addition, studies with healthy ileostomy patients have confirmed that more undigested carbohydrates reach the distal gut after the consumption of minimally processed foods5. However; these results may not truly represent the conditions of an intact gut and still little is known about the levels and forms of carbohydrates in the ileal digesta that feeds the colon. 
-> 
-> We aimed to use a nasoenteric tube to sample from the intact ileum of healthy volunteers. We provided participants with calorie and macronutrient matched diets differing in food structure (processed, whole/fresh, blended).Microscopy images of ileal samples suggested more intact carbohydrates reaching the distal ileum following the minimally processed diet compared to the other diets. Our preliminary results also indicated a trend towards lower levels of breath hydrogen, a marker of bacterial fermentation, in the processed diet group. Data analysis is ongoing. 
-> 
-> The current data suggests a potential link between food structures and appetite sensing. Better understanding of this link can aid the design of diets and food products to help weight management. 
-
-##### Notes
-
-### The effect of quantity and quality of dietary fat intake on whole body and subcutaneous white adipose tissue inflammation
-#### Rebecca Dewhurst-Trigg
-##### Abstract
-> Long-term overnutrition can lead to systemic metabolic and white adipose tissue (WAT) dysfunction through activation of inflammatory signalling pathways. The expansion of WAT in the obese phenotype contributes to a low-grade inflammatory state that underlies many obesity-associated cardiometabolic disorders such as cardiovascular diseases and type 2 diabetes (T2D). Dietary fatty acid (FA) composition may also modulate the inflammatory response. We will consider evidence which suggests that a high intake of saturated fatty acids (SFAs), compared to monounsaturated fatty acids (MUFAs), promotes a more pro-inflammatory WAT gene expression profile(1,2). Work to date is limited in humans and has primarily focused on individuals with, or at risk of, the metabolic syndrome(1-3) and T2D(1). We will extend on previous data by demonstrating how short-term high-fat overfeeding impacts markers of WAT inflammatory signalling in an apparently healthy population. Following 7-day high-fat overfeeding (+50% estimated energy requirments; 65%TE total fat; 32.5%TE SFA), data from our study in non-obese individuals showed that WAT total protein content and phosphorylation of proteins involved in the NF-κB inflammatory pathway were unchanged pre- to post-intervention. Yet, there were significant increases in fasting serum glucose and lipopolysaccharide-binding protein concentrations. These data suggest that even with systemic metabolic changes, WAT of healthy non-obese individuals remains a dynamic, metabolically flexible tissue able to cope with the demands of short-term high-fat overfeeding. The postprandial inflammatory response to dietary FAs is also important considering we spend most of the day in a non-fasted state(3). The preliminary findings from our ongoing study which is investigating whether acute consumption of high-fat meals rich in SFA or MUFA have differential effects on postprandial WAT inflammatory response in abdominally overweight adults will be discussed. This current work will improve our understanding of the interactions between dietary fat intake, systemic and WAT inflammation and dysfunction. This may have important implications for informing public health guidelines aimed at mitigating cardiometabolic disease risk. This work was supported by an Early Career Grant from the Society for Endocrinology, a British Nutrition Foundation Drummond Pump Priming Award and the NIHR Leicester Biomedical Research Centre. 
-
-##### Notes
-
-### Assessing diet in European populations using national dietary surveys
-#### Holly Rippin
-##### Abstract
-> The World Health Organisation (WHO) encourages countries to conduct national dietary surveys (NDS) to inform policies targeting malnutrition and noncommunicable diseases (1). Previous reviews have found inadequate nutrient intakes and survey provision across Europe (2), but have included limited nutrients or focused on specific European regions. Our research provides a review of NDS across the 53 WHO European Region Member States and de novo analysis of 12 countries’ NDS datasets. NDS reports were used to examine adult and child nutrient intakes against WHO recommended nutrient intakes (RNIs), with an exploration of trans fatty acid (TFA) intakes and socioeconomic inequalities. NDS data were also used to determine consumed portion sizes of popular energy-dense foods and compare these to on-pack serving sizes. 
-> 
-> Using NDS information gathered from key contacts, online and the literature we found that less than two thirds of WHO European countries conducted NDS since 1990, with only 22 countries reporting nutrient intake data since 2000. The main survey gaps lie in Central & Eastern Europe, where nutrition policies may therefore lack an appropriate evidence base. WHO RNI attainment was universally poor, particularly for macronutrients. Females of all ages had particularly low RNI attainment in all nutrients, especially in Central & Eastern Europe. 
->
-> TFA elimination is a priority WHO target; yet we found that TFAs were one of the least reported nutrients across Europe. Although voluntary reduction programmes may reduce average TFA intakes, as shown in the Dutch and UK NDS, inequalities in TFA consumption may be hidden due to under-reporting and incomplete or outdated food composition databases. 
->
-> Whilst increasing portion size is linked to overweight via increased energy intake, we found limited evidence of associations between portion size and BMI in French and UK NDS. UK consumed portion sizes were greater than on-pack serving sizes, suggesting that portion size guidance of energy-dense foods may need updating. 
-> 
-> This is the first review of NDS provision within the whole WHO European region, with reference to disadvantaged groups, obesity and nutrients of concern. Different age groups, dietary assessment methodologies, nutrient composition databases and under-reporting limit inter-country comparisons. Governments should continue efforts to harmonise NDS for use in policymaking, including beyond Western Europe. 
-
-##### Notes
+- Most meta-analyses suggests small differences (<1 kg) between low-carb and low-fat diets
+- Meta-analyses of lower quality and larger effect estimates are more cited, and given more attention
+- Low-carbohydrate diets may lower HbA1c if providing weight loss
+- Higher adherence to low-carb diets associated with increased HbA1c, while adherence to dietary recommendations are associated with lower HbA1c
 
 ---
 
