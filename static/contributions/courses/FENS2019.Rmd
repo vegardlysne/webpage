@@ -508,7 +508,7 @@ Did not attend this
 >
 > As part of the transnational DERiVE project we examined the metabolic interaction between riboflavin and vitamin B6 in a large cohort (>5000) of Irish adults aged 18-102 years. Observational data were incorporated from two large cohorts (the Trinity Ulster Department of Agriculture, TUDA study and the Irish National Adult and Nutrition, NANS Survey) and a randomised controlled trial conducted at Ulster University. All biochemical analysis including the assessment of riboflavin (erythrocyte glutathione reductase activation coefficient) and vitamin B6 status (plasma pyridoxal phosphate (PLP) by HPLC) was carried out at Ulster. Results supporting a strong metabolic interdependency between riboflavin and vitamin B6 across adulthood will be presented and the implications of these findings will be discussed. Future studies will investigate the functional effects of changes in riboflavin status by measuring the response of vitamin B6 biomarker to interventions with different doses of riboflavin.
 
-
+### Validation of biomarkers to assess riboflavin status in Irish and Canadian population cohorts: the DERiVE project
 #### Yvonne Lamers
 ##### Abstract
 > Optimizing micronutrient status globally is a major health priority. Nutritional biomarkers, i.e., biochemical indicators measured in accessible tissue such as blood, are critical for the diagnosis and monitoring of micronutrient status in individual healthcare and population-based surveys, and for the implementation of disease prevention strategies. To facilitate reliable and early diagnosis of inadequate nutritional status, prior to the development of physiologic symptoms or impaired health, it is critical to have reliable and sensitive biomarkers, as well as convenient, accessible, and internationally harmonized laboratory methods.
@@ -524,11 +524,8 @@ Did not attend this
     - FMN and FAD are not useful
     - Breakpoint analyses suggest a cutoff for plasma riboflavin of 11 nmol/L
 
-
 ---
 ## COMMERCIAL SESSION Credibility vs. Clickbait: Communicating Nutrition Research to the Public - Eat Well Global
-
-1700-1830 Wicklow Meeting Room 1 (level 2)
 
 ##### Session abstract
 > In the age of social media, misinformation about food, nutrition and health spreads like wildfire, making it increasingly important for credible, evidence-based information to find its way into the public domain. Nutrition scientists are relied upon for their contributions to the scientific literature and importantly, for their influence on nutrition guidelines and policies. But with the popularity of celebrities, self-proclaimed experts and other uncredentialled influencers delivering nutrition advice, and the ease with which unsubstantiated and sometimes dangerous claims are spread, there is an urgent need for credentialed experts to provide a credible counterpoint that’s more accessible to the public.
@@ -537,19 +534,43 @@ Did not attend this
 > - Understand how to amplify your messages and scientific findings
 > - Explore opportunities to collaborate with public-facing professionals, such as dietitians, to translate research into consumer-friendly language
 
-### Spreading science with social media
-#### Jovanka Vis
-##### Abstract
-> Nutrition communication in the 21^st^ century is anything but straightforward. Apart from official channels, such as health authorities and credentialed nutrition experts, a proliferation of food and lifestyle bloggers and other social media influencers are promoting diets that conflict with the scientific consensus. The misinformation can be subtle, such as cherry-picked scientific literature or misinterpretation of the science, which can be difficult for a lay consumer audience to discern. It can also be intentional fake news. Sometimes, these diets or eating patterns can even be dangerous. How can we, as the scientific community, deal with this? How can we effectively communicate in social media when we discuss and disseminate the news about our science? The Netherlands Nutrition Centre is the authority that consumers in the Netherlands turn to for evidenced-based, independent information on healthy, safe and sustainable food choices. The Centre, which is 100% funded by the Government of the Netherlands, translates the guidelines of the Health Council into consumer messages. The Wheel of Five is our central model, which has been translated into a range of campaigns, inspiring people to eat more vegetables, less meat, less salt and more fibre. In this presentation, we will share some state-of-the-art communication examples, based on sound behavioural and communication theory, as well as tips on how to spread your science-based news and engage in the social media dialogue.
-
-##### Notes
-
 ### Developing, disseminating and translating high-quality research: closing the gap between nutrition and its application to public health policy and messaging
 #### Taylor C Wallace
 ##### Abstract
 > Lifestyle choices heavily influence human health and disease prevention, giving the nutrition community the authority to act as “Chief Health Strategists” in guiding the development of new health systems and effective communication channels. International health systems and policies are currently undergoing critical transformation, with nutrition at the forefront of public health strategies to prevent or mitigate both age- and obesity-related chronic disease. During this health system and policy evolution, and in the current fiscal climate, public officials are looking for reproductive evidence of what works to guide their funding and policy decisions. Governments, nongovernmental associations (NGOs) and health professionals need evidence-based science for developing effective public health interventions and messaging. Timely distribution of quality evidence is often hindered by obstacles such as heterogeneous scientific literature, prolonged processes for developing policies and messaging, short-term emphasis on narrow sub-sets of the peer-reviewed literature, as well as the influence of the consumer, media, and ability to rapidly exchange information through digital communications. Today there is a large gap between development and dissemination of high-quality research in the field of nutrition and its application to developing strong policy and public health messaging. Statistical compilation of often heterogeneous data aims to give simple answers to complex (and often personalized) questions; this detrimental to our profession and public health.  Adding to this conundrum, nutrition scientists have traditionally been trained to design research analogous to medicine, using a reductionist vs. global approach. This lecture will discuss four continuous steps to consider when developing, translating, and disseminating high-quality evidence.
 
 ##### Notes
+- Slides: www.drtaylorwallace.com
+- Podcast: Risky Behaviour (from november 2019)
+- Monumental findings are rapidly disseminated, but for most findings communication strategies are needed
+- 4 pillars of successful communication
+    1. Identify and engage Stakeholders
+        - Who is interested in our work? 
+        - Preaching to the choir is not a great strategy for making changes
+        - Who has the power to implement your message
+        - Build personal relationships with stakeholders
+    2. Build The Evidence base
+        - How well do your stakeholders really know the evidence base?
+    3. Create a translation plan
+        - How should you frame your findings?
+        - Keep it simple stupid
+        - What are the key take-home messages
+    4. Develop a dissemination strategy
+        - Can you use non-traditional sources? 
+        - Use digital, social and mainstream media for dissemination. 
+- Stop using hierachies of evidence. 
+
+
+## Spreading science with social media
+#### Jovanka Vis
+##### Abstract
+> Nutrition communication in the 21^st^ century is anything but straightforward. Apart from official channels, such as health authorities and credentialed nutrition experts, a proliferation of food and lifestyle bloggers and other social media influencers are promoting diets that conflict with the scientific consensus. The misinformation can be subtle, such as cherry-picked scientific literature or misinterpretation of the science, which can be difficult for a lay consumer audience to discern. It can also be intentional fake news. Sometimes, these diets or eating patterns can even be dangerous. How can we, as the scientific community, deal with this? How can we effectively communicate in social media when we discuss and disseminate the news about our science? The Netherlands Nutrition Centre is the authority that consumers in the Netherlands turn to for evidenced-based, independent information on healthy, safe and sustainable food choices. The Centre, which is 100% funded by the Government of the Netherlands, translates the guidelines of the Health Council into consumer messages. The Wheel of Five is our central model, which has been translated into a range of campaigns, inspiring people to eat more vegetables, less meat, less salt and more fibre. In this presentation, we will share some state-of-the-art communication examples, based on sound behavioural and communication theory, as well as tips on how to spread your science-based news and engage in the social media dialogue.
+
+##### Notes
+- Social media
+    - Always respond
+    - Be forthcoming and positive, not defensive
+    - Be human
 
 ---
 
