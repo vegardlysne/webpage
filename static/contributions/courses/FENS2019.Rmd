@@ -17,6 +17,7 @@ Return to [home](/).
 - The interaction between the MTHFR 677TT genotype, riboflavin and hypertension offers the potential for personalized nutritional prevention and treatment of hypertension in a high-risk subgroup of the population. Talks [here](#MTHFR) and [here](#MTHFR2).
 - Liver fat is a [stronger predictor of insulin resistance](#metabobesity1) compared to visceral adipose tissue
 - [Low-carb/High-fat diets increases liver fat more than low-fat/high-carb diets](#metabobesity2), and in the context of similar weight gain, saturated fat induces more harm than simple sugars. 
+- [Insulin resistant people should consider lower carbohydrate diets](#astrup), due to them being more satiating in this subgroup
 
 ---
 
@@ -226,7 +227,7 @@ Return to [home](/).
 # Wednesday
 
 ## Plenary session
-### Personalized dietary obesity weight management determined by glucose metabolism and microbiota
+### Personalized dietary obesity weight management determined by glucose metabolism and microbiota {#astrup}
 #### Arne Astrup
 ##### Abstract
 > About 5 years ago we discovered that the individual weight loss on a high fibre diet depended on pre-treatment glucose metabolic status i.e. that obese individuals with higher fasting glucose level lost more weight than those with normal glucose levels. This instigated re-analysis of several randomized controlled dietary intervention trials (RTC) to cross-validate the findings. Analyses of more than 10 trials provided robust evidence to support that insulin sensitive obese individuals (type A) achieve optimal satiety and weight loss on a low-fat, high carbohydrate and high-protein diet, whereas obese type 2 diabetics (type C) need the opposite, i.e. a lower-carbohydrate, high-fat and high-protein diet. The hypothesis that can explain these findings mechanistically suggests that carbohydrate tolerance is essential for meal-induced satiety during ingestion of carbohydrate-rich meals, as glucose must enter into the CNS (and probably other tissue and organs) in order to suppress hunger and induce sufficient satiety and fullness to terminate the eating episode. With increasing insulin resistance the satiety effect of carbohydrates is attenuated and the risk of overconsumption of calories is increased, unless a high secretory insulin capacity is present. The intermediate phenotype, pre-diabetics (type B), characterized by increased fasting plasma glucose, is very sensitive to the type of carbohydrate, and we found these patients gain weight rapidly on a diet with low fibre and whole grain, and on high glycemic index (GI) diets, whereas weight loss and weight control can effectively be achieved on a low GI diet with high fibre and whole grain. This dietary sensitivity among type B obese individuals might be linked to the gut microbiota, but it remains to be shown. 
