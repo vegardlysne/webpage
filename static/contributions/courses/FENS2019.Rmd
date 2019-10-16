@@ -252,8 +252,7 @@ Return to [home](/).
 ## Session 2A: The Nutrigenomics Journey- are we there yet? - NuGo- The Nutrigenomics Organisation
 1045-1215 Wicklow Hall 2B (level 2) (ALTERNATIVE 1)
 ##### Symposium Abstract
->Over the last 10 years there has been a rapid rise in the application of nutrigenomics techniques to Nutrition studies. It is therefore timely to examine the impact and map the way forward.  
-We welcome a broad range of speakers who have employed nutrigenomics tools in their research to discuss the past, present and future. 
+>Over the last 10 years there has been a rapid rise in the application of nutrigenomics techniques to Nutrition studies. It is therefore timely to examine the impact and map the way forward. We welcome a broad range of speakers who have employed nutrigenomics tools in their research to discuss the past, present and future. 
 
 ### The Nutrigenomics Journey- are we there yet?
 #### Sander Kersten
@@ -261,6 +260,37 @@ We welcome a broad range of speakers who have employed nutrigenomics tools in th
 > In the late 1990’s, a novel subdomain in nutritional sciences came to life called nutrigenomics. Nutrigenomics can be defined as the application of high throughput OMICS tools in nutrition research, including high throughput genotyping, transcriptomics, epigenomics, proteomics, and metabolomics. The emergence of nutrigenomics was largely technology-driven and benefitted from the characterization of the Human Genome. In the early days of nutrigenomics, many large national and international projects were initiated to explore the power of nutrigenomics and launch a new era in nutritional research. Significant expectations were raised that nutrigenomics would potentially revolutionize nutritional science, and have a lasting impact on human health. Today, about 20 years after the field erupted, the time has come to look back and reflect on what nutrigenomics has delivered. In my presentation, I will discuss to what extent nutrigenomics contributed to a more accurate prediction of the beneficial or adverse health effects of dietary components and whether nutrigenomics led to more personalized dietary recommendations on the basis of genotype. Furthermore, I will address whether nutrigenomics managed to provide genomic or metabolic signatures that allow the discrimination of healthy versus unhealthy individuals to enable early dietary intervention. In addition, I will reflect on the promise of nutrigenomics to improve our understanding of the molecular mechanism of action of dietary components. Finally, I will discuss what choices should be made to assure that nutrigenomics can continue to thrive over the next 20 years. 
 
 ##### Notes
+- 2 perspectives on gene-nutrient interactions
+    - Nutrigenomics - Food impacts genes and epigenetics
+    - Nutrigenetics - how our genes influences the response to food
+- Gene-nutrient interactions can be mono or polygenic
+- General problem of polygenic diseases
+    - We all carry ~160 risk alleles
+    - By following an unhealthy diet, the number of risk alleles required to develop the disease may be less
+    - By following a healthy diet, you can prevent or delay disease development relative to your genetic risk predisposition. This can be achieced by general or personalized recommendations. 
+- Diet also influence gene expression, e.g. via PPAR&alpha;-activation by fatty acids
+- Risk cannot be individually monitored, biomarkers can. 
+    - In the future: Wearables
+    - Can be used to identify individuals for dietary interventions
+
+### The causes and consequences of obesity
+#### Stephen O'Rahilly
+##### Abstract
+> concern for global public health. The rising incidence of these disorders is clearly attributable to changes in the environment that promote caloric consumption and decrease energy expenditure. However we need to understand why some individuals are susceptible to obesogenic influences while others remain resistant. Similarly, it would be helpful to have a better insight into the mechanises whereby some seriously obese people completely avoid the metabolic consequences of over-nutrition while others succumb to the disabling complications of metabolic derangement despite being only modestly obese. In this lecture I will describe how human genetics has helped to enhance our understanding of our susceptibility or resistance to obesity and its adverse metabolic consequences. The findings have broad-ranging implications for the management of individual patients, for drug development and for public health strategies.
+
+##### Notes
+- GDF is a hormone which is produced by more or less all cells as a response to stress
+- Circulating GDF15 goes up in many different contexts (cancer,cardiac failure, cytotoxic drugs, hypoxia...)
+- GDF signals to the brain in situations of stress, and facilitate aversion to that stimuli
+    - Has been used to make mice avoid sacharin
+- A role of GDF15 in body weight regulation
+    - Animals lacking GDF15 are more likely to become obese
+    - GDF15 is not postprandially regulated like glucose, insulin etc (Physiological nutrition stimuli)
+    - Prolonged overfeeding increases circulating GFD15 in mice (chronic nutrition stress)
+    - Metformin increases GDF15, and the larger the increase, the larger the weight loss 
+- GDF15 is produced by concer cells, and contribute to cancer cachexia
+- In pregnancy, GDF15 increases during the first trimester, and is implicated in hyperemesis. This provides a potential target for treatment. 
+
 
 ### Nutritional Phenotyping- what does it mean
 #### Hannelore Daniel
@@ -268,19 +298,21 @@ We welcome a broad range of speakers who have employed nutrigenomics tools in th
 > We are all different! This applies not only to our physical appearance but also our metabolism and how we respond to the diet. Our metabolic phenotype is the expression of a (meta)genome x environment interaction and is closely linked to the individual health-disease trajectory. Differences between individuals are these days mainly explored via GWAS or MGWAS (meta-genome-wide association studies) that link genetic (host) and fecal microbial heterogeneity to disease susceptibility and risks. These studies have produced an enormous number of prestigious papers – but taken together they all explain as little as 10 to 15% of the variability found in human cohorts. Whereas genotyping/sequencing of the entire metagenome is easy to perform and becomes cheaper, proper phenotyping is most critical for any analysis of the metagenome-phenome relationship and this is tedious and demanding – and thus in most cases insufficient. Moreover, almost all intervention studies conducted in the life and/or biomedical sciences try to recruit their patient or volunteer cohorts as homogenous as possible to have the least variation in outcome and a normal distribution with little extremes. And, even extremes – called outliers – are frequently eliminated by statistical means for having more homogenous data. This means that the most interesting phenotypes are likely not found in scientific literature. So, we lack proper data on phenotypical variance. I shall present data from literature as well as from own studies on phenotypic differences in diet-responses (mainly acute challenge tests) that show how different but also how reproducible these metabolic responses are. Given these examples I argue that we need to define and standardize a set of phenotyping approaches for future human nutrition research and that we need new methods to describe and quantify the outcomes
 
 ##### Notes
-
-### The causes and consequences of obesity
-#### Stephen O'Rahilly
-##### Abstract
-> concern for global public health. The rising incidence of these disorders is clearly attributable to changes in the environment that promote caloric consumption and decrease energy expenditure. However we need to understand why some individuals are susceptible to obesogenic influences while others remain resistant. Similarly, it would be helpful to have a better insight into the mechanises whereby some seriously obese people completely avoid the metabolic consequences of over-nutrition while others succumb to the disabling complications of metabolic derangement despite being only modestly obese. In this lecture I will describe how human genetics has helped to enhance our understanding of our susceptibility or resistance to obesity and its adverse metabolic consequences. The findings have broad-ranging implications for the management of individual patients, for drug development and for public health strategies.
-
-##### Abstract
+- Definition: "Assessing and quantifying the acute and chronic resonses of the organism to the individual food items or diet"
+- Phenotype = genotype * environment
+- Darwin: Not the strongest, not the most intelligent, but the most adaptive to change
+- We constantly switch between anabolic and catabolic state, but is the anabolic and catabolic space different between people?
+- [HuMet study](http://metabolomics.helmholtz-muenchen.de/humet/plasma.html)
+    - 36 hours of fasting, liquid diet etc
+    - Extensive phenotyping
+- NutriTECH study
 
 ---
 
 ## Session 2A:  The role of 'big data' in nutrition research - FENS 2019 Scientific Committee
 
-1045-1215 Auditorium (level 3) (ALTERNATIVE 2)
+Did not attend this
+
 ##### Symposium Abstract
 > The expectation is high in some areas of research such as precision and personalized medicine that with a “Big Data” approach important research questions could be answered. Similar expectation can be assumed for precision and personalized nutrition. Further, in those nutritional research fields that address complex entities such as the microbiome/virom enormous amounts of data had to be collected and utilized. Finally, the for the elucidation of pathways it is often useful to combine data collection on different levels ranging from sequence genetic data to large molecules.
 >
