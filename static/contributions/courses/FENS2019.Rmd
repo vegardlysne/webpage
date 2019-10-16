@@ -16,7 +16,8 @@ Return to [home](/).
 - [Nutrition policy](#keynote1) is key to reach the sustainable development goals
 - The interaction between the MTHFR 677TT genotype, riboflavin and hypertension offers the potential for personalized nutritional prevention and treatment of hypertension in a high-risk subgroup of the population. Talks [here](#MTHFR) and [here](#MTHFR2).
 - Liver fat is a [stronger predictor of insulin resistance](#metabobesity1) compared to visceral adipose tissue
-- Low-carb/High-fat diets [increases liver fat more than low-fat/high-carb diets](#metabobesity2), and in the context of similar weight gain, saturated fat induces more harm than simple sugars. 
+- [Low-carb/High-fat diets increases liver fat more than low-fat/high-carb diets](#metabobesity2), and in the context of similar weight gain, saturated fat induces more harm than simple sugars. 
+
 ---
 
 # Tuesday
@@ -204,7 +205,7 @@ Return to [home](/).
 1700-1830 Wicklow Hall 1 (level 2)
 
 ### Low-carbohydrate diets: challenges for diabetes management and prevention?
-#### Chaitong Churuangsuk
+#### ChaitongC huruangsuk
 ##### Abstract
 > Low-carbohydrate, high-fat diets (LCHF) have been promoted for type 2 diabetes (T2DM) management and prevention. In the context of weight management, a systematic review of published meta-analyses(1) demonstrated inconsistent findings regarding the effectiveness of LCHF and low-fat diets for weight loss, explained by differences in methodological quality. Definitions of LCHF varied 40g/d to <45%E carbohydrate(CHO). Interestingly, only two ‘high-quality’ meta-analyses (n=2/10) reported no weight loss difference, while ‘critically-low quality’ meta-analyses (n=5/10) reported LCHF superiority over low-fat diet for weight loss upto 4 kg difference. Meta-analyses favoring LCHF but low-quality also had higher citations, suggesting that public and scientific communities might be responding to findings generated through poor methodology. 
 > 
@@ -233,6 +234,17 @@ Return to [home](/).
 > We found that the responsiveness to high-fibre diets also seems to depend on microbiota, e.g. the ratio of Prevotella to Bacteroides (P/B ratio), which suggests that the production of short-chain fatty acids such as butyrate, propionate and succinate by certain bacteria may stimulate satiety, potentially through an insulin sensitizing mechanism. The predictive power of P/B-ratio has been confirmed in 5 independent trials. Smaller prospective RCT’s are currently ongoing and major trials are being planned to disentangle the mechanistic interplay between diet, microbiota and appetite regulatory pathways involving peripheral tissues, gastrointestinal hormone and the brain, including the role of the glucostatic CNS sensing in appetite control. However, the use of pre-treatment fasting glucose level can be used clinically to optimize dietary management, whereas the use of microbiota biomarkers need more research.
 
 ##### Notes
+- Individual responses to weight loss diets
+- Multiple hormonal signals influence hunger and satiety
+- Glucose uptake in brain is blunted in diabetics, suggesting that carbohydrate have a satiating effect in insulin sensitive, but less so in insulin resistant individuals
+- NUGENOB study, low-carb (~40%) vs high-carb (~60%) diet
+    - Reanalysis divided by glycemig status, showed that diabetic patients lost more weight on the low-carb diet. 
+- ([Hjort 2017](https://www.ncbi.nlm.nih.gov/pubmed/28679551))
+    - Reanalysis of DiOGenes demonstrated that prediabetic patients following an ad libitum lower-carbohydrate diet achieved better weight loss maintenance
+    - Reanalysis of SHUPOS revealed that prediabetic patients responded particularly well to high-fiber diets 
+- The Prevotella/Bacteroides ratio seem to predict the response to dietary fiber and whole grain
+    - Prevotella enterotype lose weight, while the bacteroides enterotype does not
+    - Those with the prevotella enterotype have a particular strong effect when combined with low amylase copynumbers.
 
 ---
 
