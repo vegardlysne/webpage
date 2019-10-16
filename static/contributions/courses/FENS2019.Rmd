@@ -314,7 +314,7 @@ Return to [home](/).
 
 ## Session 2A:  The role of 'big data' in nutrition research - FENS 2019 Scientific Committee
 
-Did not attend this
+Did not attend this session
 
 ##### Symposium Abstract
 > The expectation is high in some areas of research such as precision and personalized medicine that with a “Big Data” approach important research questions could be answered. Similar expectation can be assumed for precision and personalized nutrition. Further, in those nutritional research fields that address complex entities such as the microbiome/virom enormous amounts of data had to be collected and utilized. Finally, the for the elucidation of pathways it is often useful to combine data collection on different levels ranging from sequence genetic data to large molecules.
@@ -355,8 +355,6 @@ Did not attend this
 ---
 
 ## Session 5A: Personalised Nutrition for Health - UCD Institute of Food and Health
-
-1330-1500 Wicklow Hall 2A (level 2)
 
 ##### Symposium abstract
 > Personalised Nutrition or Precision Nutrition represents a new challenge for the nutrition community in a field where dietary fads come and go. The area is made further difficult not only by human complexity within a constantly changing environment, but also by the microbiome. This symposium seeks to address the hype versus hope, fact versus fallacy, that is anticipated from Personalised Nutrition research and to understand whether the Personalised Nutrition paradigm is relevant to all health/ age contexts. We anticipate a candid and provocative discussion in relation to the pros and cons of this field and to help to understand what can it deliver on, in a robust, reliable and reproducible way.
@@ -413,8 +411,6 @@ Did not attend this
 ---
 
 ## Session 1D: Low calorie sweeteners in the human diet: Scientific evidence and recommendations about their use and benefits 
-
-1500-1630 Liffey hall 1 (level 1)
 
 ##### Symposium abstract
 > The aim of a scientific symposium on low calorie sweeteners, their benefits and use in the human diet is to present latest and science-based evidence on a topic of high scientific and public health interest. 
