@@ -18,6 +18,9 @@ Return to [home](/).
 - Liver fat is a [stronger predictor of insulin resistance](#metabobesity1) compared to visceral adipose tissue
 - [Low-carb/High-fat diets increases liver fat more than low-fat/high-carb diets](#metabobesity2), and in the context of similar weight gain, saturated fat induces more harm than simple sugars. 
 - [Insulin resistant people should consider lower carbohydrate diets](#astrup), due to them being more satiating in this subgroup
+-
+- [Don't forget GI physiology](#metagenome) when considering the microbiome-health associations
+- Low-calorie sweeteners are safe, and a tool to reduce sugar intake. [New report](#sweetener)
 
 ---
 
@@ -373,7 +376,7 @@ Did not attend this
 - Metabolic networks can indicate metabolic pathways implicated in disease risk. Applying this approach to PREDIMED, identified ceramides among other as linked to increased risk, and unsaturated phospholipids as linked to reduced risk. 
 - Obesity is not driven by genetic changes, but changes in the food environment. Therefore precision nutrition must be integrated with public health nutrition. 
 
-### Personalised nutrition for the metagenome: host versus microbiome
+### Personalised nutrition for the metagenome: host versus microbiome {#metagenome}
 #### Hannelore Daniel
 ##### Abstract
 > Personalized Nutrition approaches in the past created recommendations or provided products based on a small set of individual input data such as average food and nutrient intake (including likes and dislikes), a few biomarkers measured in blood and selected gene variants. Only recently has the gut microbiome as a” new entity” become part of the input panel by the ease to profile the fecal microbiome. With a number of key publications that linked fecal microbiome patterns with phenotypic parameters such as glycemic responses to defined foods, a number of start-ups have taken on this to provide “more specified” diet recommendations. However, despite around 23.000 entries in PubMed with “gut microbiota” and fecal profiling in hundreds of cohorts/populations worldwide and covering almost all possible individual genetic and lifestyle parameters, only around 12% of human fecal microbiota diversity can currently be explained.  And, the contribution of the individual diet to fecal microbiota diversity and population densities of individual microbial species is in essence unknown. There can be no doubt that diets and individual ingredients affect the microbiota and its biochemical capacity to handle endogenous (during fasting and starvation) but also diet-derived constituents. The individual diversity of metabolic products derived from these processes of degrading/fermenting diet constituents is remarkable – yet their effect on the composition of the fecal microbiome seems generally overstated. Even with large quantities of fermentable fibers (that initially may even cause intestinal discomfort) fed for weeks to volunteers changed only around 0.9 % the microbiome composition.  And, when taking into account that alterations of the microbiome by harsh antibiotic treatment in humans did not at all alter insulin-sensitivity or postprandial responses – it remains currently a mystery how gut microbiota and metabolic health are mechanistically linked. Personalized Nutrition of the metagenome is in the current state thus nothing more than “feeding shadows”.  
@@ -418,7 +421,7 @@ Did not attend this
 >  
 > Since 2015, when the last FENS European Nutrition Conference took place in Berlin, and the ISA-supported scientific symposium on that occasion, a wealth of new scientific research has been conducted and published in peer-reviewed scientific journals providing further evidence about the role of low calorie sweeteners in sugar reduction as well as in weight and diabetes management. Therefore, we believe that an ISA symposium at FENS 2019 with the participation of well renowned academic experts and researchers on this scientific area will be of high interest and relevance to the FENS audience. 
 
-### Recommendations about the use of low calorie sweeteners: where evidence meets policy. Report from a 2018 Expert Consensus Workshop
+### Recommendations about the use of low calorie sweeteners: where evidence meets policy. Report from a 2018 Expert Consensus Workshop {#sweetener}
 #### Margaret Ashwell
 ##### Abstract
 > A consensus workshop on low calorie sweeteners (LCS) was held in November 2018 where seventeen experts (the panel) discussed three themes identified as key to the science and policy of LCS: (1) weight management and glucose control; (2) consumption, safety and perception; (3) nutrition policy.  The aims were to identify the reliable facts on LCS, suggest research gaps and propose future actions. 
@@ -428,6 +431,42 @@ Did not attend this
 > The panel identified research priorities, including collation of the totality of evidence on LCS and body weight control, monitoring and modelling of LCS intakes, impacts on sugar reduction and diet quality and developing effective communication strategies to foster informed choice. There is also a need to reconcile policy discrepancies between organisations and reduce regulatory hurdles that impede low energy product development and reformulation.   
 
 ##### Notes
+- Everyone agree that sugar intake should be reduced, but disagree whether LCS is a good alternative.
+- Themes
+    1. Weight management and glucose control
+    - facts
+        - LCS can reduce net energy intake
+        - The effect on appetite and energy intake is similar to water
+        - No advese effects on blood glucose or insulin regulation
+        - Associations to CVD probably due to confounding by adiposity
+    - research gaps
+        - Long-term effects?
+        - Individual variations in response?
+        - Is the effect different in different contexts?
+    - Actions
+        - Designing RCTs
+        - Cohort studies to model changes in risk factors
+    2. Safety and consumer perception
+    - facts
+        - Safety demonstrated by a substantial body of evidence
+        - Major sources beverages and table sweeteners
+        - Some consumers have concerns regarding safety
+    - Research gaps
+        - What influence consumer perception?
+        - Lack of in-depth dat on consumption patterns, as well as reliable intake measures
+    - Actions
+        - Develop methods to communicate the facts
+        - Develop biomarkers
+    3. Role of LCS in relation to policy
+    - Facts
+        - Reduction in sugar intake is recommended
+        - LCS can be used, but there is some distrust among policy makers
+    - Gaps
+        - Can sweeteners help individuals to reach recommendations for sugar intake?
+        - What is the effect on dietary quality?
+    - Actions
+        - Model the potential for LCS to reduce sugar
+        - Review policies related to LCS and find out why they differ, and can they be reconciled?
 
 ### Low calorie sweeteners as a means for weight and glycaemic control: outcomes of systematic reviews and meta-analyses
 #### Anne Raben
@@ -441,6 +480,10 @@ Did not attend this
 > In a new Horizon-2020 project “SWEET” ([www.sweetproject.eu](www.sweetproject.eu), 2018 – 2023) we aim to dig further into the potential risks and benefits of sweeteners and sweetness enhancers (S&SEs). The focus in on health, obesity, safety and sustainability, while using a multidisciplinary approach. A main part of SWEET is a 2-y RCT, which will investigate the effect of prolonged use of S&SEs in a whole healthy diet approach (foods & drinks) on diet compliance, weight control and obesity related risk factors (eg glycemia, lipidemia) and safety (eg microbiota).
 
 ##### Notes
+- The composition and biological fate of sweeteners are different. Aspartame is completely degraded, andnot excreted, while sucralose is not degraded and therefore excreted. 
+- [Raben 2002](https://academic.oup.com/ajcn/article/76/4/721/4677434): Body weight reduced with low calorie sweeteners compared to sugar ad libitum
+- LCS have been shown to yield more weight loss compared to water, possibly due to increased palatability increasing adherence to the diet.
+- [Toews 2019](https://www.bmj.com/content/364/bmj.k4718) show that LCS reduced body weight in overweight individuals, but not in normal-weight
 
 ### Psychological and behavioural factors influencing consumers’ views and intakes of low calorie sweeteners
 #### Jason Halford
@@ -448,6 +491,38 @@ Did not attend this
 > Consumption of alternative sweeteners is increasing but there are concerns that sweeteners stimulate appetite, promote preference for sweet-tasting foods and lead to weight gain. Chronic dieters juggle two conflicting goals, hedonic goal of enjoyment of nice-tasting foods/beverages verses diet/weight control. Low Calorie Sweetened (LCS) beverages deliver sweetness (i.e. palatability) but without calories.  Do LCS beverages help people to align conflicting goals (hedonic eating and successful weight control)?  Our data show restrained eating patterns, body weight concerns, and positive beliefs about palatability and appetite control are key determinants of LCS beverage consumption. Consumption of LCS beverages may help consumers to align conflicting goals (hedonic eating and successful weight control).  Frequent consumers may use LCS beverages as a successful strategy to control food intake when in a state of craving. Recent data show frequent consumer show an “attentional bias” towards their favourite LCS beverage (as opposed to a generalised bias to sweet-tasting drinks). This would suggest they don't promote sweet preference per se. However, long term risks and benefits of LCS consumption will be determined in the ongoing SWITCH trial and SWEET project.
 
 ##### Notes
+- Frequent consumers more concerned with their weight
+- Conflicting goals, enjoyment vs weight control.
+    - LCS can help achieve both
+- People who consume LC beverages report enjoying them, and believe they can help with weight management.
+- cravings [paper](https://www.ncbi.nlm.nih.gov/pubmed/30902635)
+    - LCB-consumers actively choose LCB, not other sweet alternatives, when facing situations of craving. 
+
+
+## Validating novel biomarkers of dietary exposure to Riboflavin and Polyphenols and associated health impacts: Transnational DERiVE and VALID projects - The School of Advanced Studies in Food and Nutrition, University of Parma / NICHE Ulster
+### The metabolic interaction of the B-vitamins riboflavin and vitamin B6 within one-carbon metabolism in European adult cohorts – the DERiVE project
+#### Mary Ward
+##### Abstract
+ 
+> Riboflavin (vitamin B2), as FMN and FAD cofactors, is essential for energy metabolism although biomarker status is rarely measured. The UK and Ireland are the only countries worldwide to have included a riboflavin biomarker in national dietary surveys. Some concern exists in both countries regarding the large proportion of adults showing low riboflavin status, measured using erythrocyte glutathione reductase activation coefficient (EGRac) (the gold-standard marker), but the functional significance of such findings is unclear since in general, with the exception of younger women, dietary intakes of British and Irish adults are within dietary reference ranges. Among its metabolic roles, riboflavin is required (as FMN) to generate the active form of vitamin B6 in tissues. It has been shown previously that cells have a tendency to spare FAD at the expense of FMN therefore, in the condition of riboflavin deficiency, the FMN-dependent pathways would be expected to be primarily affected. Limited evidence indicates that riboflavin may act as the limiting nutrient for optimising vitamin B6 status among older adults deficient in vitamin B6, however, whether this effect is observed across adulthood is unknown. 
+>
+> As part of the transnational DERiVE project we examined the metabolic interaction between riboflavin and vitamin B6 in a large cohort (>5000) of Irish adults aged 18-102 years. Observational data were incorporated from two large cohorts (the Trinity Ulster Department of Agriculture, TUDA study and the Irish National Adult and Nutrition, NANS Survey) and a randomised controlled trial conducted at Ulster University. All biochemical analysis including the assessment of riboflavin (erythrocyte glutathione reductase activation coefficient) and vitamin B6 status (plasma pyridoxal phosphate (PLP) by HPLC) was carried out at Ulster. Results supporting a strong metabolic interdependency between riboflavin and vitamin B6 across adulthood will be presented and the implications of these findings will be discussed. Future studies will investigate the functional effects of changes in riboflavin status by measuring the response of vitamin B6 biomarker to interventions with different doses of riboflavin.
+
+
+#### Yvonne Lamers
+##### Abstract
+> Optimizing micronutrient status globally is a major health priority. Nutritional biomarkers, i.e., biochemical indicators measured in accessible tissue such as blood, are critical for the diagnosis and monitoring of micronutrient status in individual healthcare and population-based surveys, and for the implementation of disease prevention strategies. To facilitate reliable and early diagnosis of inadequate nutritional status, prior to the development of physiologic symptoms or impaired health, it is critical to have reliable and sensitive biomarkers, as well as convenient, accessible, and internationally harmonized laboratory methods.
+> 
+> The B-vitamins riboflavin (B-2), folate, B-12, and B-6 are crucial nutrients for lifelong health given their role in cell formation and a healthy nervous system. Riboflavin also functions in iron and energy metabolism and in the formation of immunomodulatory metabolites. Low riboflavin intake has been associated with cardiovascular disease and cancer. Biochemical riboflavin status is rarely measured given the lack of convenient and accessible biomarkers. The current gold-standard biomarker is erythrocyte glutathione reductase activation coefficient (EGRac) that involves laborious sample processing. Most countries worldwide, except for the UK and Ireland, have monitored riboflavin status through dietary intake due to the lack of accessible biomarkers. Plasma riboflavin concentration may serve as an alternative indicator; its association with related metabolites however has not yet been investigated. 
+> 
+> This talk will present novel findings of an international research collaboration awarded under the JPI-HDHL ‘Biomarkers for Nutrition and Health’ call. Our team developed a new and sensitive method to quantify riboflavin and related coenzyme forms, together with vitamin B6 and kynurenine metabolites in very small plasma volume. We will present findings about the validation of plasma riboflavin and related biomarkers for riboflavin status assessment in Canadian adults.
+
+##### Notes
+- FMN increases and FAD decreases during storage. Total riboflavin is stable.
+- Plasma riboflavin is inversely related to EGRac, as expected. 
+    - AUC 0.68 when predicting EGRac < 1.3, ok for a nutritional biomarker
+    - FMN and FAD are not useful
+    - Breakpoint analyses suggest a cutoff for plasma riboflavin of 11 nmol/L
 
 
 ---
