@@ -325,8 +325,6 @@ Did not attend this
 ##### Abstract
 > With advances in genomics came a key concept underpinning stratified medicine and personalised nutrition. In particular, that with a better understanding of individual characteristics, e.g. genotype, could come better tailoring of pharmaceutical and nutritional therapy. Whether applied to the disciplines of medicine or nutrition, the overlapping terms of ‘stratified’, ‘personalised’, and the most ambitious ‘precision’, refer to this aim of providing targeted therapies or nutritional advice for the optimisation of individual health outcomes. Subsequent developments in the ‘omics’ fields, particularly metabolomics and proteomics; in addition to wearable technologies for tracking parameters such as blood glucose, heart rate, physical activity and even food intake, have further driven this idea. Specifically, that in following over time a virtual cloud of data from any one individual, will come personal insights into their health and, importantly, better nutrition and lifestyle strategies for reducing their risk of disease. Alongside this and the decreasing costs of nucleic acid sequencing, has come a rapid rise in companies offering direct-to-consumer genetic, and more recently gut microbiome, testing in combination with offering personalised nutrition services. While pertinent ethical questions involve who can access such services and how commercial companies are storing, using and/or re-mining consumer data; key scientific questions include how disparate datasets are integrated and how accurate predictions currently are, or may be in the future. In this regard, lessons from systems biology, which aims both to integrate data from different levels of organization (e.g. genomic, proteomic and metabolomic) and predict the emergent behaviours of biological systems or organisms as a whole, are instructive. Using examples from the application of systems approaches to non-alcoholic fatty liver disease (NAFLD), this talk will review recent advances in predictive modelling of human metabolism. Closely associated with obesity and type 2 diabetes, NAFLD is now a major public health concern worldwide. The complex pathogenesis of these ‘lifestyle diseases’ is driven by multiple dietary, lifestyle and genetic factors, and involves crosstalk between several organs and the intestinal microbiome. They are therefore ideal both for the application of systems analyses and personalised nutrition interventions. Lessons learned to date are that while human metabolism can now be computationally simulated at genome scale, current approaches to data integration and dynamic, multi-scale modelling are still evolving. Nonetheless, available models are capable of offering mechanistic insights and informing stratified medicine and personalised nutrition strategies for improving health outcomes.
  
-##### Notes
-
 ### Predicting personal metabolic responses to food integrating multi-omics and machine learning: The PREDICT Studies
 #### Sarah Berry
 ##### Abstract
@@ -337,8 +335,6 @@ Did not attend this
 > Inter-individual variability in postprandial responses (glucose, insulin and TG) was high in the clinic setting, even between identical twins.  Genetic contributions, determined by classical twin methods, for glucose, insulin and TG responses was less than 50%, 30% and 20% respectively.  Identical twins shared 37% of their gut species, compared to 35% for unrelated individuals. Interim machine learning algorithm predicted 46% of the variation in glycemic responses based on meal content, meal context and participant’s baseline characteristics, excluding genetic and microbiome features. Only 29% of variation could be explained by the proportion of macronutrients in the meal.
 > 
 > The large and potentially modifiable variation in metabolic responses to identical meals in healthy people explains why ‘one size fits all’ nutritional guidelines are problematic. The ongoing PREDICT 1 and 2 studies, collecting more information on glucose and TG responses to thousands of meals, alongside environmental, genetic and microbiome variables, give excellent power to use machine learning to optimise and predict individual responses to foods and provide personalised nutrition advice.
-
-##### Notes
 
 ### The virome as a new target of research, enhancing the complexity of microbiota health relationships
 #### Mohammad Tariq
@@ -353,8 +349,6 @@ Did not attend this
 > 
 > Currently we have an established protocol looking to isolate and characterise viral DNA in ME patients. One of the limitations of these protocol is that you omit RNA viruses. We aim to characterise the virome by simultaneously isolating both single stranded and double stranded DNA and RNA viruses. Bioinformatic pipelines for the identification and analysis of viral metagenomic data remains challenging. We aim to positively identify as many of the viral contigs using multiple publicly available viral databases and thus improve the capacity to characterise the gut virome.
 
-##### Notes
-
 ---
 
 ## Session 5A: Personalised Nutrition for Health - UCD Institute of Food and Health
@@ -367,9 +361,17 @@ Did not attend this
 ### Precision nutrition for the prevention and management of cardiometabolic diseases: Hype or hope?
 #### Frank Hu
 ##### Abstract
-> Recent advances in powerful tools such as genomics, metabolomics, and gut microbiome have offered new opportunities as well as challenges in the application of precision nutrition for the prevention and management of metabolic diseases such as type 2 diabetes (T2D).  The integration of such technologies into epidemiological studies referred to as ‘‘systems epidemiology’’, can enhance our understanding of biological mechanisms underlying diet and human health.  This approach can also enable us to achieve a better assessment of diet and nutritional status in free-living populations by identifying novel biomarkers of dietary intakes. Nutritional genomics has identified genetic variants that influence intakes and metabolism of specific nutrients and predict individuals’ variability in response to dietary interventions. Metabolomics has revealed metabolomic fingerprints of food and nutrient consumption and has uncovered new metabolic pathways that are potentially modified by diet. In addition, dietary interventions have been shown to alter abundance, composition, and activity of gut microbiota that are relevant for food metabolism and glycemic control. By integrating these technologies with big data analytics, precision nutrition has the potential to provide personalized nutrition guidance to achieve more effective T2D prevention and management.  Despite recent advances, major challenges still exist, including non-replication of study results, difficulty in the translation of research findings into practice, and high cost. Although commercial companies have promoted personalized nutrition assessment and genetic testing, there is little evidence on the benefits of these approaches for improving diet and preventing disease.  Therefore, it is essential to balance the investment in precision nutrition, which targets individual characteristics, with public health nutrition, which aims to improve the health of populations.
+> Recent advances in powerful tools such as genomics, metabolomics, and gut microbiome have offered new opportunities as well as challenges in the application of precision nutrition for the prevention and management of metabolic diseases such as type 2 diabetes (T2D). The integration of such technologies into epidemiological studies referred to as ‘‘systems epidemiology’’, can enhance our understanding of biological mechanisms underlying diet and human health.  This approach can also enable us to achieve a better assessment of diet and nutritional status in free-living populations by identifying novel biomarkers of dietary intakes. Nutritional genomics has identified genetic variants that influence intakes and metabolism of specific nutrients and predict individuals’ variability in response to dietary interventions. Metabolomics has revealed metabolomic fingerprints of food and nutrient consumption and has uncovered new metabolic pathways that are potentially modified by diet. In addition, dietary interventions have been shown to alter abundance, composition, and activity of gut microbiota that are relevant for food metabolism and glycemic control. By integrating these technologies with big data analytics, precision nutrition has the potential to provide personalized nutrition guidance to achieve more effective T2D prevention and management.  Despite recent advances, major challenges still exist, including non-replication of study results, difficulty in the translation of research findings into practice, and high cost. Although commercial companies have promoted personalized nutrition assessment and genetic testing, there is little evidence on the benefits of these approaches for improving diet and preventing disease.  Therefore, it is essential to balance the investment in precision nutrition, which targets individual characteristics, with public health nutrition, which aims to improve the health of populations.
 
 ##### Notes
+- Nutritional epidemiology have shifted from focusing on single foods/nutrients to focus on larger dietary patterns and diet scores
+- Not all plant based diets are healthy
+- Dietary instruments [Yuan AJE 2018](https://academic.oup.com/aje/article/187/5/1051/4347121)
+    - 2 week dietary records is most accurate, and repeated measures of any method improves accuracy
+- Predimed
+    - Metabolic signature predicting adherence to Med Diet, associated with decreased CVD risk. Stronger effects were observed compared to self-reported adherence.
+- Metabolic networks can indicate metabolic pathways implicated in disease risk. Applying this approach to PREDIMED, identified ceramides among other as linked to increased risk, and unsaturated phospholipids as linked to reduced risk. 
+- Obesity is not driven by genetic changes, but changes in the food environment. Therefore precision nutrition must be integrated with public health nutrition. 
 
 ### Personalised nutrition for the metagenome: host versus microbiome
 #### Hannelore Daniel
@@ -377,6 +379,15 @@ Did not attend this
 > Personalized Nutrition approaches in the past created recommendations or provided products based on a small set of individual input data such as average food and nutrient intake (including likes and dislikes), a few biomarkers measured in blood and selected gene variants. Only recently has the gut microbiome as a” new entity” become part of the input panel by the ease to profile the fecal microbiome. With a number of key publications that linked fecal microbiome patterns with phenotypic parameters such as glycemic responses to defined foods, a number of start-ups have taken on this to provide “more specified” diet recommendations. However, despite around 23.000 entries in PubMed with “gut microbiota” and fecal profiling in hundreds of cohorts/populations worldwide and covering almost all possible individual genetic and lifestyle parameters, only around 12% of human fecal microbiota diversity can currently be explained.  And, the contribution of the individual diet to fecal microbiota diversity and population densities of individual microbial species is in essence unknown. There can be no doubt that diets and individual ingredients affect the microbiota and its biochemical capacity to handle endogenous (during fasting and starvation) but also diet-derived constituents. The individual diversity of metabolic products derived from these processes of degrading/fermenting diet constituents is remarkable – yet their effect on the composition of the fecal microbiome seems generally overstated. Even with large quantities of fermentable fibers (that initially may even cause intestinal discomfort) fed for weeks to volunteers changed only around 0.9 % the microbiome composition.  And, when taking into account that alterations of the microbiome by harsh antibiotic treatment in humans did not at all alter insulin-sensitivity or postprandial responses – it remains currently a mystery how gut microbiota and metabolic health are mechanistically linked. Personalized Nutrition of the metagenome is in the current state thus nothing more than “feeding shadows”.  
 
 ##### Notes
+- Almost everything you eat have a statistically significant effect on the microbiome
+- Geographical location is 10 times more important than anything else with regard to microbiome
+    - Dietary effects on microbiome is hard to replicate 
+- The estimate that we have 10 times more bacteria than cells is wrong, but has never been questioned. It is traced back to a publication from 1972. [Sender 2016](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533)
+- We excrete 60-80g of bacteria daily, requiring 200-250 kcal to be replaced, which is more than the amount of energy the bacteria provides to the host. 
+- Don't forget GI physiology when attributing everything to the microbiome
+    - Any changes in intestinal transit time changes the amount and diversity of the microbiome by affecting excretion of bacteria
+    - Altering transit times by medication influences blood glucose response. 
+
 
 ### Potential of Precision Nutrition to improve Health – Insights from biomarker approaches
 #### Lorraine Brennan
@@ -386,6 +397,15 @@ Did not attend this
 > Furthermore, the use of metabolomics to define metabolic phenotypes which can then be used to deliver personalised nutrition has been explored. Work in our laboratory used a metabotyping approach to identify three distinct metabotypes in an Irish population. A framework was developed to deliver personalised dietary advice dependent on the metabotype characteristics. Importantly, there was good agreement between this approach and an individualised approach. Expansion of this work into a pan European population demonstrated that the approach could be used in a diverse population group and worked well in terms of delivery of personalised nutrition advice. Development of this approach further has the potential to deliver dietary advice based on the metabolic phenotype. 
 
 ##### Notes
+- Precision nutrition is different from giving different advice to different subgroups. 
+- Giving personalized nutrition advice yields higher adherence than general advice
+- Food intake biomarkers (NutriTECH study)
+    - Proline betaine is a good marker of citrus intake (r > 0.9 when true intake is known)
+    - When compared to self-reported intake (4-day record) of citrus, proline betaine did a good job predicting the intakes. 
+- Combining biomarkers + self-reported data to make calibration equation used to correct selfreported data in [D'Angelo 2019](https://academic.oup.com/ajcn/article/110/4/977/5552381)
+- Metabotypes combined with decision threes is an approach for automating the delivery of targeted advice to population segments.
+    - Identify metabotypes, develop the decision threes and the advice given in each situation
+- Precision nutrition to individuals must include response to dietary interventions
 
 ---
 
