@@ -682,11 +682,21 @@ Did not attend this session
 > In closing, it should be noted that the effect of modern diets on the environment per se is not traditionally part of our food environment discussion. Fast-moving climate change suggests the value of adopting ecologically responsible diets, which could have dual actions: lowering greenhouse gas emissions while preventing malnutrition in all forms. In an era of obesity and environmental change, this represents a formidable research challenge for future nutritional scientists.
 
 ##### Notes
+- [Dunford 2019](https://onlinelibrary.wiley.com/doi/full/10.1111/obr.12879), on average only 31% of the packaged 
+- [Hall 2019](https://www.ncbi.nlm.nih.gov/pubmed/31105044), processed foods facilitate faster eating, which may increase total energy intake
+- Food desert, not just a problem of too few healthy options, but also too many unhealthy options. 
+- [Lafner 2012](https://www.ncbi.nlm.nih.gov/pubmed/21844876), comparing children preferring low-fat/low-sugar to those preferring either high-sugar,  high-fat or both, demonstrated a clearly higher prevalence of obesity in the latter.
+- Socio-cultural effects is important, families who often watch TV while eating have more overweight children
+- Front-of-package labels 
+    - provide an incentive for industry to reformulate their products
+    - easily accessible to the consumer
+- Environmental aspects, plant-based diets
+    - [Satija 2019](https://www.ncbi.nlm.nih.gov/pubmed/31127828), increasing plant-based food associated with less weight gain.
+
 
 ---
 
 ## Session 3B: An Update on the Beneficial Health Impact of Specific Dietary Fatty Acids 
-1445-1615 Wicklow Hall 1 (level 2)
 
 ##### Session Abstract
 > The aim of this session is to highlight ILSI Europe’s activities on the impact of dietary fatty acids on human health. Here we will provide an overview of the health impact of diets rich in Omega-3 and Omega -6 (talk 1), specific saturated fatty acids (talk 2) or gut derived short chain fatty acids (talk 3).
