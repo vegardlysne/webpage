@@ -604,6 +604,26 @@ Did not attend this session
 > 
 > This FENS symposium will highlight the current state of knowledge, particularly focusing on classification systems for such foods, the nutritional and toxicological aspects of these foods, the consumption patterns of these foods  and their potential impact (including mechanisms) on specific disease endpoints and public health overall.
 
+### What are ultra-processed foods and how they have changed the quality of diets in Europe and worldwide
+#### Jean-Claude Moubarac
+##### Abstract 
+> Over the past decade, there has been a rapidly expanding scientific literature on the role of industrial food processing in human diet and health, with a particular focus on ultra-processed foods. Epidemiological evidence has demonstrated that ultra-processed food consumption is associated with poorer diet quality and increased risk of chronic diseases and obesity. In this session, I will first discuss from a theoretical perspective why food processing matters to understand diet and health in the 21st century. I will then describe the NOVA food classification, a tool used to study food processing and its impact on diet and health worldwide. Last, I will present a summary of the evidence linking consumption of ultra-processed food to poor diet quality, as an important dimension of unhealthy diets, and discuss implications for research and policies
+
+##### Notes
+- NOVA categories
+    1. WHole foods
+    2. Culinary ingredients (sugar, oils)
+    3. Processed foods (cured, preserved)
+    4. Ultraprocessed (artificially created foods)
+- NOVA multi-country study
+    - Higher intake of NOVA cat 4 foods associated with
+        - Higher energy density
+        - More added sugar
+        - More salt
+        - More saturated fat (a little)
+        - Less fiber
+        - Less protein and micronutrients
+
 ### Ultra-processed foods and health: epidemiological approach
 #### Mathilde Touvier
 ##### Abstract 
@@ -614,6 +634,17 @@ Did not attend this session
 > In this field, the causal nature of the associations cannot be established by long-term interventions testing the impact of ultra-processed foods on health, for ethical reasons notably, as long as a deleterious effect is suspected. It will therefore be necessary to confirm these results in diverse populations, and also to go further in understanding the transformation processes, compounds and mechanisms potentially involved, through new epidemiological approaches, coupled with in vitro and in vitro experimental approaches. In the meantime, several countries have recently introduced into their official recommendations limiting ultra-processed foods as a precautionary principle.
 
 ##### Notes
+- NUTRI-SCORE vs NOVA
+    - NUTRI-SCORE assesses nutritional quality, NOVA degree of processing
+    - A scale from A-E
+    - In the E category, 85% of the foods are ultraprocessed
+    - In the A category, 24% of foods are ultra-processed, and B-D categories ~ 60-70%. 
+- NutriNet-Santë cohort
+    - 3x24hrecall every 6 month, long followup
+    - Ultra-processed foods make up 18% of the food intake, but contributes with 35% of the energy intake
+    - [CVD risk](https://www.bmj.com/content/365/bmj.l1451)
+    - [cancer risk](https://www.bmj.com/content/360/bmj.k322)
+    - [mortality risk](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2723626)
 
 ### Opportunity makes the Pathogen – potential Mechanisms connecting Ultra-processed Foods with Gut Inflammation
 #### Marit Kolby Zinöcker
@@ -627,13 +658,13 @@ Did not attend this session
 > The characterization of our food supply is still incomplete in terms of predicting health effects, and the role of the microbiome is largely absent from the evidence underlying nutrition policies and dietary advice in most countries. Our foods should not just be judged by the sum of their nutrients, but by their potential to prevent inflammation and to sustain health in the human superorganism of man and microbe. Emphasis on food quality, not quantity, will be crucial in future strategies to limit NCDs
 
 ##### Notes
-
-### What are ultra-processed foods and how they have changed the quality of diets in Europe and worldwide
-#### Jean-Claude Moubarac
-##### Abstract 
-> Over the past decade, there has been a rapidly expanding scientific literature on the role of industrial food processing in human diet and health, with a particular focus on ultra-processed foods. Epidemiological evidence has demonstrated that ultra-processed food consumption is associated with poorer diet quality and increased risk of chronic diseases and obesity. In this session, I will first discuss from a theoretical perspective why food processing matters to understand diet and health in the 21st century. I will then describe the NOVA food classification, a tool used to study food processing and its impact on diet and health worldwide. Last, I will present a summary of the evidence linking consumption of ultra-processed food to poor diet quality, as an important dimension of unhealthy diets, and discuss implications for research and policies
-
-##### Notes
+- Unhealthy diets are drivers of metabolic diseases, but how?
+    - Degree of food processing
+    - Mediated through effects on gut microbiota?
+- Acellular nutrients
+    - Breaking the cell walls makes nutrients more available
+    - More accessible nutrients in the small intestine, increasing growth potential for bacteria
+    - Protective components removed during processing
 
 ---
 
