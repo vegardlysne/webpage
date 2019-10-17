@@ -707,7 +707,30 @@ Did not attend this session
 > We conducted a systematic review of randomised controlled trials (RCTs) of increased intake of arachidonic acid (ARA) on fatty acid status and health outcomes in humans. We identified 22 articles from 14 RCTs. Most studies were conducted in adults. These used between 80 and 2000 mg ARA/day and were of 1 to 8 weeks duration. Supplementation with ARA doses as low as 80 mg/d increased the content of ARA in different blood fractions. Overall there seem to be few marked benefits for adults of increasing ARA intake from the typical usual intake of 100-200 mg/day to as much as 1000 mg/d or even more. However, there may be an impact on cognitive and muscle function which could be particularly relevant in the ageing population. The studies reviewed suggest no adverse effects in adults of increased ARA intake up to at least 1000 to 1500 mg/d on blood lipids, platelet aggregation and blood clotting, immune function, inflammation, or renal function. However, in many areas there are insufficient studies to make firm conclusions, and higher intakes of ARA are deserving of further study. Based on the RCTs reviewed, there are not enough data to make any recommendations for specific health effects of ARA intake.
 
 ##### Notes
-
+- Mean intake of AA 100-350 mg
+- Small proportion of total fatty acid, but often the most common PUFA in the body
+    - Precursor for prostaglandins, leukotriens, tromboxans etc
+    - Drugs targeting these pathways, such as aspirin
+- Increasing AA intake
+    - Fatty acid composition
+        - More AA in blood lipids, red blood cells, platelets and dwhite blood cells
+        - Often associated with less EPA, linoleic acid and DHA
+    - Blood lipids
+        - No reported effect on blood lipid parameters
+    - Blood pressure
+        - No effect
+    -Platelet aggregation
+        - No reported effect on hematologic parameters
+        - Increased platelet aggregation with very high doses, clinical significance uncertain
+    - Immunity and inflammation
+        - No effect on number of immune cells or markers of immunity
+    - Cognitive function
+        - High dose AA intake protective against age-related decline in cognitice function (1 study), which should be followed up with new study
+    - Body composition, muscle function and physical performance
+        - No effect on body composition, but a 8.5 % increase in anaerobic peak power
+- No reported harmful effects of increasing the intake to as much as 1000 mg
+- Effect of lowering AA intake is not known
+        
 ### Update on Health Effects of Different Dietary Saturated Fatty Acids
 #### Peter Joris
 ##### Abstract 
