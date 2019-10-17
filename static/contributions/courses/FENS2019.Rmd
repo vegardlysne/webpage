@@ -22,7 +22,9 @@ Return to [home](/).
 - [Don't forget GI physiology](#metagenome) when considering the microbiome-health associations
 - Low-calorie sweeteners are safe, and a tool to reduce sugar intake. [New report](#sweetener)
 - Tissue-specific insulin resistance elicit [different metabolic effects](#blaak)
-
+- The intake of [ultra-processed foods](#Touvier) are increasing, and is associated with negative health outcomes
+- Many environmental and political aspects [contribute to the obesity epidemic](#lissner)
+- The omega-3/6 ratio is [not a good parameter](#mensink) of PUFA intake or heaelthiness of a diet
 
 ---
 
@@ -625,7 +627,7 @@ Did not attend this session
         - Less protein and micronutrients
 
 ### Ultra-processed foods and health: epidemiological approach
-#### Mathilde Touvier
+#### Mathilde Touvier {#touvier}
 ##### Abstract 
 > The last decades are marked by an increase in the degree of food processing and formulation. Today, "ultra-processed" foods account for 25-to-60% of energy intakes in Europe, the USA, Canada, New Zealand, and Brazil. The notion of transformation is complex, since the possible processes (industrial or not) and the authorized additives (≈350 in Europe) are multiple. The "Nova" classification, developed by researchers at the University of São Paulo (Monteiro PHN 2017), opened the way for etiological research on the relationship between the degree of food processing and health. Foods are categorized into 4 groups: low/unprocessed foods, cooking ingredients, processed foods, ultra-processed foods. Ultra-processed foods have, on average, a lower nutritional quality (higher in salt, sugar, saturated fatty acids, lower in fiber and vitamins), they often contain food additives (emulsifiers, texturizers, sweeteners, etc.), are likely to carry substances coming from food-contact packaging, as well as certain compounds that are neoformed during the processes (high-temperature heating, hydrogenation, frying pre-treatment, etc.).
 > 
@@ -671,7 +673,7 @@ Did not attend this session
 ## Plenary session 4
 
 ### Food environments and the obesity epidemic: lessons learned and future research challenges
-#### Lauren Lissner
+#### Lauren Lissner {#lissner}
 ##### Abstract
 > The food environment consists of political, socioeconomic, and physical factors that affect accessibility and healthfulness of diets. Given the complexity of our food system and the diverse individuals that populate it, no single change in the food environment is likely to reverse the obesity epidemic. This presentation will select a few aspects of the food environment that are relevant to upcoming research on obesity prevention. 
 > 
@@ -731,14 +733,8 @@ Did not attend this session
 - No reported harmful effects of increasing the intake to as much as 1000 mg
 - Effect of lowering AA intake is not known
         
-### Update on Health Effects of Different Dietary Saturated Fatty Acids
-#### Peter Joris
-##### Abstract 
-> There are various types of Saturated Fatty Acids (SFAs) in the human diet that may differently affect cardiometabolic risk markers and the risk to develop cardiometabolic diseases. A new activity performed by this ILSI Expert Group is therefore to critically analyze the relation between these different types and sources of SFAs and their health effects. Currently, we are performing a systematic review of the scientific literature focusing on (i) the impact of individual dietary SFAs on traditional and novel cardiometabolic risk markers, and (ii) associations between dietary intakes of these SFAs and the risk to develop cardiometabolic diseases. The ultimate goal of this review is to provide evidence whether dietary guidelines should differentiate individual SFAs. This presentation will provide an update focusing on the progress of our systematic review and also some (preliminary) results will be presented.
 
-##### Notes
-
-### ω -3 and ω -6 PUFA intakes, ratios and potential health effects
+### ω -3 and ω -6 PUFA intakes, ratios and potential health effects {#mensink}
 #### Ronald Mensink
 ##### Abstract 
 > Fatty acids (FA) from dietary sources provide for adults living in Western countries about 35% of their dietary energy as a mix of FAs present in different lipids, mainly triacylglycerols (TAG). They have multiple vital functions in the human body: energy sources, major constituents of all cell membranes, components of signalling molecules, and precursors of bioactive lipid mediators. Through these roles, FAs affect cell and tissue function and physiological responses, and therefore have an  impact on health, well-being, and disease risk and outcome. In this context, there is considerable interest in the biological roles of the long chain omega-6 polyunsaturated FA (PUFA), arachidonic acid (ARA), the omega-3 PUFAs eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA).
@@ -746,12 +742,50 @@ Did not attend this session
 > The PUFA composition differs between different complex lipids present in the blood, and between different cells and tissues. The precise PUFA composition of each individual FA pool is determined partly by PUFA intake from diet and partly by metabolic processes. For example, altering the amounts of EPA and DHA in the diet by eating more oily fish or by taking omega-3 FA supplements, increases the EPA and DHA content of complex lipids in the blood and of many cells and tissues. However, the resultant degree of enrichment in EPA and DHA in different body pools varies considerably. Thus, there is a relationship between PUFA intake from the diet, the PUFA content in a compartment, and possibly the effect of the PUFA on cell and tissue function. However, this series of relationships is complex because each step is influenced by metabolic processes and by many other factors, including the availability and content of other FAs that may have different biological activities. The aim of the present systematic review is to clarify the relationship of omega-6 and omega-3 PUFAs with dietary intake, blood/cell/tissue PUFA composition, and to assess the validity of commonly used PUFA biomarkers of dietary intake and n-3 and n-6 PUFA status.
 
 ##### Notes
+- 3% of LA (intake ~15g) converted to AA
+- 10% of ALA (intake ~2g) converted to EPA, < 1% converted to DHA
+- Intake is reflected in plasma lipid pool
+    - Considerable variation in incorporation
+        - The ratio between LA/AA is vastly different in different blood lipid pools.
+        - EPA/DHA is in general much higher than ALA in the lipid pools
+    - Lipid pools respond differently to changes in intake
+        - Different half-life of the different fatty acids in different pools. Longer in red blood cells as compared to cholesteryl esters
+    - Metabolic interdependence
+        - If you eat ALA, you see an increase in ALA/EPA, but a decrease in AA
+        - If you eat EPA/DHA, you see a huge decrease in LA/AA. 
+        - The ratio between LA and ALA **DOES NOT** predict conversion to the longer chained PUFAs, this is determined by the absolute availability of substrate and product
+    - Metabolism depend on subject characteristics
+        - Age, sec, genes etc
+- The ratio of omega-3/6 can reflect changes in omega-3, -6 or both. The ratio is not informative.
+    - The ratio may appear optimal, but the absolute intakes does not need to be
+- Omega-3 index
+    - Mainly determined by DHA, and not affected by ALA
+    - Insensitive to fasting status
+    - Insensitive to recent intake, good index of habitual status
 
+### Update on Health Effects of Different Dietary Saturated Fatty Acids
+#### Peter Joris
+##### Abstract 
+> There are various types of Saturated Fatty Acids (SFAs) in the human diet that may differently affect cardiometabolic risk markers and the risk to develop cardiometabolic diseases. A new activity performed by this ILSI Expert Group is therefore to critically analyze the relation between these different types and sources of SFAs and their health effects. Currently, we are performing a systematic review of the scientific literature focusing on (i) the impact of individual dietary SFAs on traditional and novel cardiometabolic risk markers, and (ii) associations between dietary intakes of these SFAs and the risk to develop cardiometabolic diseases. The ultimate goal of this review is to provide evidence whether dietary guidelines should differentiate individual SFAs. This presentation will provide an update focusing on the progress of our systematic review and also some (preliminary) results will be presented.
+
+##### Notes
+- When replacing carbohydrate with SFA
+    - Increased total, LDL and HDL cholesterol, lowered TG
+- The most beneficial profile obtained when replacing SFA with PUFA
+- SFA -> carbohydrate or protein, no effect on CVD risk
+- SFA -> PUFA, reduced risk.
+- Individual SFA
+    - C16 and C18 most abundant
+    - C12, C14 and C16 most potent in raising LDL and HDL cholesterol
+    - Different risk associations seen for different fatty acids
+- Important to focus on substitution effects between different fatty acids, not just absolute amounts
+- Longer chained fatty acids have less postprandial impact on blood lipids due to slower uptakes
+- Food matrix influence the effect of SFAs. 
+    
 
 ---
 
 ## Session 2D Nutrition Sciences beyond reductionism
-1645-1815 Wicklow Hall 2A (level 2)
 
 ##### Session Abstract
 > Some of the Grand Societal challenges are strongly linked to nutrition, like obesity, healthy ageing. These challenges require scientific concepts, research questions, methods and research infrastructures that need to be developed and go beyond reductionistic thinking. Results from studies conducted with the reductionist approach, where cause-and-effect relationships are reduced to a binary “true” and “not true”, are more and more not supported by observations that consumption of foods, according to the reductionist approach composed of disease risk increasing nutrients, are probably disease risk reducing. 

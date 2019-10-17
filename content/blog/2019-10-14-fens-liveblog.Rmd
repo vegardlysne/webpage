@@ -21,7 +21,7 @@ output:
 ![](/blog/2019-10-14-fens-liveblog_files/FENS2019.jpg)
 I'm currently in Dublin, attending the European Nutrition Conference ([FENS](http://www.fens2019.org/)), and will try to provide some updates during the week. The conference starts tomorrow, Tuesday October 15, and last until friday. 
 
-You can find my conference notes [here](/contributions/courses/fens2019.html), and you can also find updates by following the [#FENS2019](https://twitter.com/search?q=%23FENS2019) on Twitter!
+You can find my conference notes, [here](/contributions/courses/fens2019.html), including the abstracts of the talks I've attended. Also, and you can find updates by following [#FENS2019](https://twitter.com/search?q=%23FENS2019) on Twitter!
 
 # Tuesday - Day 1
 ![](/blog/2019-10-14-fens-liveblog_files/opening.jpg)
@@ -156,7 +156,11 @@ The first talk was gived by **Philip Calder**, presenting a *systematic review o
 
 Increasing AA intake lead to increased AA incorporation in tissues. However, no particular effects on clinical parameters such as lipid profile, blood pressure and inflammation. However, one study suggested a protective effect against age-related cognitive decline, and there are data suggesting benefits in regard to physical performance, especially increasing peak anaerobic power with high doses. In summary, there are no reported harmful effects of increasing AA intake to much higher levels than current intakes. On the other hand, the effects of lowering intakes are not known.
 
-The next talk of the session were presented by **Ronald Mensink**, giving an update on the hot topic of *potential health effect of omega-3/6 intakes and balance*. 
+The next talk of the session was presented by **Ronald Mensink**, giving an update on the hot topic of *potential health effect of omega-3/6 intakes and balance*. His talk started by reiterating that there are only two essential fatty acids, linoleic acid (LA, omega-6), found in nuts, sunflower oil and soybean oil, and alphalinoleic acid (ALA, omega-3), found in nuts, rapeseed oil and flaxseed oil. These fatty acids are converted to the longer polyunsaturated fatty acids. Mensink talked us through what we know about the effect of these different fatty acids, and how they interact. 
 
-**Peter Joris** finished the session with a talk considering the *health effects of different saturated fatty acids*.
+A common topic is the ratio between LA and ALA in the diet. However, Mensink pointed out that this ratio does not predict the conversion to the longer fatty acids, which is entirely driven by the absolute amount. Also when including other omega-3 and -6 fatty acids, changes in this ratio can reflect changes in one, the ohter or both. Mensink concluded that this ratio is not useful to predict the healthiness of a diet. The talk was closed with the statement that a universal marker of fatty acid intake would be nice to have, but is unlikely to exist.
+
+**Peter Joris** closed the session with a talk considering the *health effects of different saturated fatty acids*. He opened with talking through the well established effects of substitutions between different nutrients, where the most beneficial metabolic profile is observed when replacing saturated with polyunsaturated fatty acids. However, less focus has been given to the effect of specific saturated fatty acids. We know that different saturated fatty acids have different effects on the lipid profile, and different associations with disease risk has also been reported. Further, short- and medium chained fatty acids elicit different effects on energy metabolism compared to long-chained fatty acids. 
+
+Joris and colleagues are currently working on a systematic review, focusing on how the individual saturated fatty acids impact traditional risk markers as well as disease risk. The review will also take into account factors such as food matrix effects. 
 
