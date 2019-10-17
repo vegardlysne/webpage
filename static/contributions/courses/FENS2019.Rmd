@@ -18,9 +18,11 @@ Return to [home](/).
 - Liver fat is a [stronger predictor of insulin resistance](#metabobesity1) compared to visceral adipose tissue
 - [Low-carb/High-fat diets increases liver fat more than low-fat/high-carb diets](#metabobesity2), and in the context of similar weight gain, saturated fat induces more harm than simple sugars. 
 - [Insulin resistant people should consider lower carbohydrate diets](#astrup), due to them being more satiating in this subgroup
--
+-  [Obesity is not driven by genetic changes, but changes in the food environment](#hu)
 - [Don't forget GI physiology](#metagenome) when considering the microbiome-health associations
 - Low-calorie sweeteners are safe, and a tool to reduce sugar intake. [New report](#sweetener)
+- Tissue-specific insulin resistance elicit [different metabolic effects](#blaak)
+
 
 ---
 
@@ -359,7 +361,7 @@ Did not attend this session
 ##### Symposium abstract
 > Personalised Nutrition or Precision Nutrition represents a new challenge for the nutrition community in a field where dietary fads come and go. The area is made further difficult not only by human complexity within a constantly changing environment, but also by the microbiome. This symposium seeks to address the hype versus hope, fact versus fallacy, that is anticipated from Personalised Nutrition research and to understand whether the Personalised Nutrition paradigm is relevant to all health/ age contexts. We anticipate a candid and provocative discussion in relation to the pros and cons of this field and to help to understand what can it deliver on, in a robust, reliable and reproducible way.
 
-### Precision nutrition for the prevention and management of cardiometabolic diseases: Hype or hope?
+### Precision nutrition for the prevention and management of cardiometabolic diseases: Hype or hope? {#hu}
 #### Frank Hu
 ##### Abstract
 > Recent advances in powerful tools such as genomics, metabolomics, and gut microbiome have offered new opportunities as well as challenges in the application of precision nutrition for the prevention and management of metabolic diseases such as type 2 diabetes (T2D). The integration of such technologies into epidemiological studies referred to as ‘‘systems epidemiology’’, can enhance our understanding of biological mechanisms underlying diet and human health.  This approach can also enable us to achieve a better assessment of diet and nutritional status in free-living populations by identifying novel biomarkers of dietary intakes. Nutritional genomics has identified genetic variants that influence intakes and metabolism of specific nutrients and predict individuals’ variability in response to dietary interventions. Metabolomics has revealed metabolomic fingerprints of food and nutrient consumption and has uncovered new metabolic pathways that are potentially modified by diet. In addition, dietary interventions have been shown to alter abundance, composition, and activity of gut microbiota that are relevant for food metabolism and glycemic control. By integrating these technologies with big data analytics, precision nutrition has the potential to provide personalized nutrition guidance to achieve more effective T2D prevention and management.  Despite recent advances, major challenges still exist, including non-replication of study results, difficulty in the translation of research findings into practice, and high cost. Although commercial companies have promoted personalized nutrition assessment and genetic testing, there is little evidence on the benefits of these approaches for improving diet and preventing disease.  Therefore, it is essential to balance the investment in precision nutrition, which targets individual characteristics, with public health nutrition, which aims to improve the health of populations.
@@ -524,7 +526,9 @@ Did not attend this session
 ## COMMERCIAL SESSION Credibility vs. Clickbait: Communicating Nutrition Research to the Public - Eat Well Global
 
 ##### Session abstract
+
 > In the age of social media, misinformation about food, nutrition and health spreads like wildfire, making it increasingly important for credible, evidence-based information to find its way into the public domain. Nutrition scientists are relied upon for their contributions to the scientific literature and importantly, for their influence on nutrition guidelines and policies. But with the popularity of celebrities, self-proclaimed experts and other uncredentialled influencers delivering nutrition advice, and the ease with which unsubstantiated and sometimes dangerous claims are spread, there is an urgent need for credentialed experts to provide a credible counterpoint that’s more accessible to the public.
+>
 > Join us for an interactive session, facilitated by Eat Well Global, where we will explore techniques and opportunities for researchers to extend their reach to the media and other communication channels. The objectives of this session are three-fold: 
 > - Identify how to promote accurate science reporting and open up new communication channels with the media 
 > - Understand how to amplify your messages and scientific findings
@@ -568,25 +572,27 @@ Did not attend this session
     - Be forthcoming and positive, not defensive
     - Be human
 
----
-
-## Debate: THe individual or Society at large has the primary responsibility in preventing obesity
-
-1845-1945 Auditorium (level 3)
-
 --- 
 
 # Thursday
 
 ## Plenary session 3
-0915 - 1000 Auditorium (level 3)
 
-### Current metabolomic perspectives on malnutrition in obesity
+### Current metabolic perspectives on malnutrition in obesity {#blaak}
 #### Ellen Blaak
-##### Abstract
->
 
 ##### Notes
+- Malnutrition not restricted to deficiency, but *any abnormal physiological condition caused by inadequate, unbalanced or excessive intakes*
+- Insulin resistance is tissue-specific, and insulin resistance in different tissues may elicit different metabolic consequences
+- Hepatic insulin resistance
+    - Reduced ketone bodies, elevated ketogenic amino acids
+    - Increased TAG and DAG in women, but not in men
+- Muscle insulin resistance
+    - Increased isoleucine, valine and lactate
+    - Increased lysophosphatidylcholine
+        - [Lipid profile paper](https://www.ncbi.nlm.nih.gov/pubmed/30242234),  [Inflammation paper](https://www.ncbi.nlm.nih.gov/pubmed/31492661)
+
+
 
 ---
 
