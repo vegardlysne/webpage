@@ -792,34 +792,20 @@ Did not attend this session
 The benefits of nutrition interventions aiming at prevention of chronic diseases can most often not be related to one single cause. Despite the multifactorial causation of most chronic diseases the pharmacological model of double blind placebo controlled intervention studies, usually called clinical studies, is considered as the method to prove causation. In most cases results from a reductionist approach cannot directly be translated into an individualistic benefit. Still the organisation of nutrition sciences is strongly influenced by a reductionistic focus. Political and governmental choices force scientists to search for private funding. This funding steers to nutrient and/or products related effects, creating possibilities for product related communication on single products, sometimes controversial to general recommendations. 
 The evidence we seek, the questions we ask, and the way how nutrition sciences is organised and funded threaten our credibility. A discussion is needed to agree on different ways of working and knowing.
 
-
 ### The concepts in Nutrition in Transition
 #### Edith Feskens
-##### Abstract 
->
-
 ##### Notes
-
-### The Development of new research infrastructures that enable new approaches and methods
-#### Pieter van't Veer
-##### Abstract 
->
-
-##### Notes
-
-### The connection to “Standards in Nutrition Sciences” of FENS
-#### Philip Calder
-##### Abstract 
->
-
-##### Notes
+- [Capable and credible](https://www.ncbi.nlm.nih.gov/pubmed/28718015)
 
 ### Result of discussion from the Satellite “Nutrition in Transition”
-#### Jan de Vries
-##### Abstract 
->
-
+#### Pieter van het Veer
 ##### Notes
+- Nutrition, foods and diet can be studied as determinants of health outcomes, but also as outcomes of the food evironments and food choices
+
+### Ensuring Trust in Nutrition Science
+#### Philip Calder
+##### Notes
+- New FENS initiative on increasing the trust in nutrition science, interim results will be presented in Tokyo 2021
 
 ---
 
