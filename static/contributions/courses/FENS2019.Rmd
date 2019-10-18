@@ -829,6 +829,17 @@ The evidence we seek, the questions we ask, and the way how nutrition sciences i
 > Studies on chrono-nutrition, studying the impact of when we eat on metabolic health, have seen a great increase in the past few years. Studying not only what we eat, but also when we eat, is very relevant at times characterized by changes in our temporal dietary patterns. Changes in temporal eating patterns could be due to a rise in people working in shifts, people consuming more meals outside the home and overall eating patterns having become more irregular, including more breakfast skipping and night-time eating. Temporal eating patterns are a possible modifiable risk factor for cardio-metabolic diseases. Many of the metabolic processes in our body follow a circadian pattern. Disruption of these circadian patterns or misalignment between the timing of eating and endogenous circadian systems can have adverse health effects, including impaired cardio-metabolic health. This presentation will report on recent findings and insights on epidemiological evidence of meal timing on cardio-metabolic health, including type 2 diabetes.
 
 ##### Notes
+- Components: clock time, regularity and frequency
+- Mice fed during their resting phase gain more weight compared to mice fed in their active phase
+- Clock time
+    - We eat later in the day compared to 40 years ago, which is associated with increased intake from snack foods
+    - Later eating associated with increased body weight 
+- Irregularity
+    - Associated with increased BMI and metabolic syndrome
+- Frequency
+    - Mixed findings
+- Evening types are on average more unhealthy due to desynchrony between chronitype and social demands
+
 
 ### Circadian metabolism in humans and its regulation by meal timing
 #### Jonathan Johnston
@@ -840,15 +851,23 @@ The evidence we seek, the questions we ask, and the way how nutrition sciences i
 > This presentation will briefly explain the basic science underlying links between circadian rhythms and metabolism, focussing mainly on human biology. It will then describe recent high-profile studies that have highlighted the intimate relationship between meal timing and human physiology.
 
 ##### Notes
+- Circadian rhythms are purely driven by biology
+- Zeitgebers act to synchronize biological clocks with the outside world
+- Disruption of peripheral clocks elicit whole body metabolic dysregulation
+- ~2 % of adipose tissue genes have circadian rhythms
+- Dietary influence on circadian rhythm
+    - Temporal restriction of food desynchronizes rodent circadian clocks
+- Time-restricted feeding [pilot study](https://www.cambridge.org/core/journals/journal-of-nutritional-science/article/pilot-feasibility-study-exploring-the-effects-of-a-moderate-timerestricted-feeding-intervention-on-energy-intake-adiposity-and-metabolic-physiology-in-freeliving-human-subjects/9C604826401917A6CAD9CD10B72FEA32#), suggests that restricting the eating window may contribute to reducing the total energy intake 
 
 ### Recipricol connections between the timing of food intake and the circadian clock
 #### David Bechtold
 ##### Abstract 
 > In mammals, endogenous circadian clocks sense and respond to daily feeding and lighting cues, adjusting internal ∼24 h rhythms to resonate with, and anticipate, external cycles of day and night. The mechanism underlying circadian entrainment to feeding time is critical for understanding why mistimed feeding, as occurs during shift work, disrupts circadian physiology, a state that is associated with increased incidence of chronic diseases such as type 2 (T2) diabetes. In this presentation, I will discuss our recent work detailing the molecular mechanisms which link the circadian clock to feeding time and energy metabolism on a cellular and systemic level.
 
-
-
 ##### Notes
+- 5-15% of genes in any tissue is directly regualted by circadian rhythms
+- [Crosby 2019](https://www.cell.com/cell/pdf/S0092-8674(19)30166-7.pdf) Insulin treatment influences biological clocks via PER2
+- REVERB&alpha; is a link between the clock and meatbolism, and knockout models suggests that alterations may disrupt the metabolic adaptation to low/high energy intakes.
 
 ---
 
