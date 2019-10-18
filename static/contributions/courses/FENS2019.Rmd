@@ -24,7 +24,8 @@ Return to [home](/).
 - Tissue-specific insulin resistance elicit [different metabolic effects](#blaak)
 - The intake of [ultra-processed foods](#Touvier) are increasing, and is associated with negative health outcomes
 - Many environmental and political aspects [contribute to the obesity epidemic](#lissner)
-- The omega-3/6 ratio is [not a good parameter](#mensink) of PUFA intake or heaelthiness of a diet
+- The omega-3/6 ratio is [not a good parameter](#mensink) of PUFA intake or healthiness of a diet
+- [Eating times and regularity](#pot) have an impact on the risk of developing obesity
 
 ---
 
@@ -824,7 +825,7 @@ The evidence we seek, the questions we ask, and the way how nutrition sciences i
 > This symposium will bring together three leading researchers in the new field of chrono-nutrition, the interaction between circadian time and food intake. First, Dr Gerda Pot will present the epidemiological evidence linking meal timing to human health. Next, Dr Jonathan Johnston will describe controlled physiological studies that link circadian biology to human metabolism and mealtime. Finally, Dr David Bechtold will describe animal and cellular models that provide novel mechanistic insight into the link between meal timing, the molecular clockwork and energy metabolism.
  
 ### Chrono-nutrition: epidemiological evidence of meal timing on health
-#### Gerda Pot
+#### Gerda Pot {#pot}
 ##### Abstract  
 > Studies on chrono-nutrition, studying the impact of when we eat on metabolic health, have seen a great increase in the past few years. Studying not only what we eat, but also when we eat, is very relevant at times characterized by changes in our temporal dietary patterns. Changes in temporal eating patterns could be due to a rise in people working in shifts, people consuming more meals outside the home and overall eating patterns having become more irregular, including more breakfast skipping and night-time eating. Temporal eating patterns are a possible modifiable risk factor for cardio-metabolic diseases. Many of the metabolic processes in our body follow a circadian pattern. Disruption of these circadian patterns or misalignment between the timing of eating and endogenous circadian systems can have adverse health effects, including impaired cardio-metabolic health. This presentation will report on recent findings and insights on epidemiological evidence of meal timing on cardio-metabolic health, including type 2 diabetes.
 
@@ -879,7 +880,9 @@ The evidence we seek, the questions we ask, and the way how nutrition sciences i
 > The increase in the prevalence of overweight and obesity worldwide has reached a qualified epidemic stage1 and in line with this it is widely acknowledged that obesity-associated co-morbidities are the main cause of death. In simple terms, the basis of obesity is an excess accumulation of adipose tissue, however, with regards to the development of co-morbidities, studies in recent years have suggested adipose tissue quality to be an important denominator2. Adipose tissue can be divided into white (WAT) and brown adipose tissues (BAT)3. While WAT is the main storage site for lipids, BAT functions to dissipate energy in the form of heat in a process called non-shivering thermogenesis4, to contribute to the maintenance of body temperature homeostasis during both acute and chronic cold exposure5,6. The relevance of BAT in human physiology is demonstrated by its association with higher energy expenditure, lower adiposity and a reduced risk of type 2 diabetes7. In recent years, a number of studies have demonstrated a link between paternal preconception nutrient exposure and the phenotype of the offspring. Differences in gene expression patterns arise during development and can be retained through mitosis by epigenetic mechanisms8. In the context of thermoregulation, it was shown that environmentally induced changes in gene expression can affect cellular function and thereby also predisposition to certain diseases9. Additionally, different changes in the environment (i.e. weather, stress, nutrition, socioeconomic conditions) on the parent can be transmitted to subsequent generations leading to health advertises. The lecture will focus on the role of the epigenome in regulating adipose tissue composition thereby affecting systemic energy metabolism. 
 
 ##### Notes
-
----
-
+- Hedonic system
+    - Experimental studies in animals where the offspring is given a choice of what to eat and drink, offspring off mothers fed a high fat diet tend to eat more sugar and fat, becoming overweight
+        - Enhanced dopamine sensitivity
+- [Birth month and brown fat](https://www.nature.com/articles/s41591-018-0102-y)
+- Paternal cold exposure may be important
 
