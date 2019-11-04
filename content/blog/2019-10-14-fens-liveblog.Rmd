@@ -10,7 +10,7 @@ tags:
 - Science
 summary: 'Live updates from the European Nutrition Conference 2019'
 authors: []
-lastmod: 2019-10-15
+lastmod: 2019-10-18
 featured: no
 draft: no
 output: 
