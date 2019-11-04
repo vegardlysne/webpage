@@ -9,6 +9,7 @@ Here is a list of my notes from courses and conferences I've attended. My prefer
 
 ## Conferences
 
+- [**The European Nutrition Conference, FENS 2019**](/contributions/courses/FENS2019.html), ([Liveblog](/blog/fens-liveblog/)), Dublin, Ireland, October 2019. 
 - [**12th International Conference on One-carbon metabolism, B Vitamins and Homocysteine**](/contributions/courses/homocysteine2019.html), Tarragona, Spain, June 2019
 - [**RStudio::conf2019**](/contributions/courses/rstudioconf2019.html), Austin, Texas, January 2019 
     
