@@ -4,7 +4,7 @@ authors:
 bio: Clinical Dietitian and Researcher. See more about [Vegard](#About).
 education:
   courses:
-  - course: PhD, Clinical Nutrition.
+  - course: PhD, Clinical Nutrition
     institution: University of Bergen
     year: 2019
   - course: MSc in Clinical Nutrition
@@ -58,9 +58,9 @@ social:
 #   icon_pack: ai
 #   link: https://publons.com/researcher/1272434/vegard-lysne/
   
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/VegardLysne
+ - icon: twitter
+   icon_pack: fab
+   link: https://twitter.com/VegardLysne
   
 - icon: github
   icon_pack: fab
