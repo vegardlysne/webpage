@@ -95,6 +95,7 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Conference, ~ Presentation,
+   2019, "The European Nutrition Conference (FENS), Dublin, Ireland", "Poster presentation",
    2016, "Nordic Nutrition Conference, Gotenburg, Sweden", "",
    2018, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Halifax, Nova Scotia, Canada", "Poster presentation",
    2016, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA", "Oral presentation",
