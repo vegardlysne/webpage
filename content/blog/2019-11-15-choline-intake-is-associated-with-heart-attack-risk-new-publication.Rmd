@@ -2,7 +2,7 @@
 title: Choline intake is associated with heart attack risk, new publication
 author: Vegard
 date: '2019-11-15'
-slug: choline-intake-is-associated-with-heart-attack-risk-new-publication
+slug: choline-intake-ami-risk
 categories:
   - updates
 tags:
@@ -11,14 +11,8 @@ tags:
 subtitle: ''
 summary: 'Read our new paper where we report on the association between dietary choline intake and the risk of myocardial infarction'
 authors: []
-lastmod: '2019-11-15T13:14:40+01:00'
 featured: no
 draft: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
 ---
 
 I'm coauthoring this paper on the effect of dietary choline intake with regard to cardiovascular disease risk. [Anthea Van Parys](https://twitter.com/AntheaVanparys) is the first author, and the paper will be part of her PhD project. 
