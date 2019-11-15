@@ -1,0 +1,85 @@
+---
+name: Vegard
+surname: Lysne
+position: "Clinical Dietitian, PhD"
+phone: +47 41 66 82 18
+email: "vegard.lysne@gmail.com"
+profilepic: ../img/Vegard.png
+www: www.vegardlysne.no
+date: "november 2019"
+output: 
+   vitae::awesomecv
+---
+
+
+
+# Professional summary
+I'm a clinical dietitian, currently employed as a researcher at Centre for Nutrition, University of Bergen. In my PhD project I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language. In 2019 I was leader of the organizing comittee for the annual conference of the Norwegian Association of Clinical Dietitians. 
+
+# Education
+\detailedsection{\detaileditem{Department of Clinical Science, University of Bergen}{2015-2019 }{PhD}{}{\item{Thesis title: Biomarkers of one-carbon metabolism and B-vitamin status - Targeted metabolomics in rats and humans exploring the effects of PPAR alpha-activation and dietary composition}}\detaileditem{University of Bergen, Faculty of Medicine}{2012-2014}{MSc, Clinical Nutrition}{}{\item{Thesis title: Treatment with a Peroxisome Proliferator-Activated Receptor agonist influences one-carbon metabolism and markers of B-vitamin status in rats}}\detaileditem{University of Bergen, Faculty of Medicine}{2009-2012}{BSc, Human Nutriton}{}{\empty}}
+
+# Work experience
+\detailedsection{\detaileditem{Department of Clinical Science, University of Bergen, Bergen, Norway}{2019-}{Researcher}{}{\empty}\detaileditem{Department of Heart Disease, Haukeland University Hospital, Bergen, Norway}{2014-2015 }{Research assistant}{}{\empty}}
+
+# Courses attended
+\briefsection{\briefitem{Building Tidy Tools, RStudio::conf workshop}{2019}{}\briefitem{Data Science in the Tidyverse, RStudio::conf workshop}{2018}{}\briefitem{Competing Risks, Introduction to Flexible Parametric Survival Analysis and Cancer Screening, EPINOR annual meeting}{2017}{}\briefitem{New statistical methods for causal inference, University of Oslo}{2017}{}\briefitem{Logistic regression, survival analysis and Cox-regression, University of Oslo}{2017}{}\briefitem{The Art of Scientific Investigation, EPINOR summer school}{2017}{}\briefitem{University pedagogy for PhD candidates, University of Bergen}{2017}{}\briefitem{Epidemiology - beyond the basics, University of Oslo}{2017}{}\briefitem{6th International course in Nutritional Epidemiology, Imperial College, London}{2016}{}\briefitem{Experimental Design and Statistical Analysis, FRAME training school}{2016}{}\briefitem{Basic course in Medical and Health Related Research, University of Bergen}{2016}{}}
+
+\newpage
+# Publications in international peer-reviewed scientific journals
+
+1.Parys AV, **Lysne V**, Svingen GFT, Ueland PM, Dhar I, Øyen J, Dierkes J and Nygård O. Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris. Biochimie, 2019. [PMID: 31707100](https://www.ncbi.nlm.nih.gov/pubmed/31707100)
+1. Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease. Eur J Nutr, 2019.
+1. Strand E, **Lysne V**, Grinna ML, Bohov P, Svardal A, Nygård O, Berge RK, Bjørndal B. Short-Term Activation of Peroxisome Proliferator-Activated Receptors alpha and gamma Induces Tissue-Specific Effects on Lipid Metabolism and Fatty Acid Composition in Male Wistar Rats. PPAR res, 2019. [PMID: 31308847](https://www.ncbi.nlm.nih.gov/pubmed/31308847)
+1. Ulven SM, Christensen JJ, Nygård O, Svardal A, Leder L, Ottestad I, **Lysne V**, Laupsa-Borge J, Ueland PM, Midttun Ø, Meyer K, McCann A, Andersen LF, Holven KB. Using metabolic profiling and gene expression analyses to explore molecular effects of replacing saturated fat with polyunsaturated fat-a randomized controlled dietary intervention study. Am J Clin Nutr, 2019. [PMID: 31051508](https://www.ncbi.nlm.nih.gov/pubmed/31051508)
+1. Dhar I, **Lysne V**, Svingen GFT, Ueland PM, Gregory JF, Bønaa KH, Nygård OK. Elevated plasma cystathionine is associated with increased risk of mortality among patients with suspected or established coronary heart disease. Am J Clin Nutr, 2019. [PMID: 31005968](https://www.ncbi.nlm.nih.gov/pubmed/31005968)
+1. Puaschitz NG, Assmus J, Strand E, Karlsson T, Vinknes KJ, **Lysne V**, Drevon CA, Tell GS, Dierkes J, Nygård O. Adherence to the Healthy Nordic Food Index and the incidence of acute myocardial infarction and mortality among patients with stable angina pectoris. J Hum Nutr Diet, 2019. [PMID: 30091209](https://www.ncbi.nlm.nih.gov/pubmed/30091209)
+1. Dhar I, Svingen GFT, Ueland PM, **Lysne V**, Svenningsson MM, Tell GS, Nygård OK. Plasma Cystathionine and Risk of Incident Stroke in Patients With Suspected Stable Angina Pectoris. J Am Heart Assoc, 2018. [PMID: 30371177](https://www.ncbi.nlm.nih.gov/pubmed/30371177)
+1. Bjørndal B, Bruheim I, Lysne V, Ramsvik MS, Ueland PM, Nordrehaug JE, Nygård OK, Berge RK. Plasma choline, homocysteine and vitamin status in healthy adults supplemented with krill oil: a pilot study.Scand J Clin Lab Invest, 2018. [PMID: 30261756](https://www.ncbi.nlm.nih.gov/pubmed/30261756)
+1. Dhar I, Lysne V, Seifert R, Svingen GFT, Ueland PM, Nygård OK. Plasma methionine and risk of acute myocardial infarction: Effect modification by established risk factors. Atherosclerosis, 2018. [PMID: 29621698](https://www.ncbi.nlm.nih.gov/pubmed/29621698)
+1. Strauss P, Marti HP, Beisland C, Scherer A, **Lysne V**, Leh S, Flatberg A, Koch E, Beisvag V, Landolt L, Skogstrand T, Eikrem ØS. Expanding the Utilization of Formalin-Fixed, Paraffin-Embedded Archives: Feasibility of miR-Seq for Disease Exploration and Biomarker Development from Biopsies with Clear Cell Renal Cell Carcinoma. Int J Mol Sci, 2018. [PMID: 29534467](https://www.ncbi.nlm.nih.gov/pubmed/29534467)
+1. Strand E, Rebnord EW, Flygel MR, **Lysne V**, Svingen GFT, Tell GS, Løland KH, Berge RK, Svardal A, Nygård O, Pedersen ER. Serum Carnitine Metabolites and Incident Type 2 Diabetes Mellitus in Patients With Suspected Stable Angina Pectoris. J Clin Endocrinol Metab, 2018. [PMID: 29325058](https://www.ncbi.nlm.nih.gov/pubmed/29325058)
+1. DeRatt BN, Ralat MA, **Lysne V**, Tayyari F, Dhar I, Edison AS, Garrett TJ, Midttun Ø, Ueland PM, Nygård OK, Gregory JF 3rd. Metabolomic Evaluation of the Consequences of Plasma Cystathionine Elevation in Adults with Stable Angina Pectoris. J Nutr, 2017. [PMID: 28794210](https://www.ncbi.nlm.nih.gov/pubmed/28794210)
+1. Hannibal L, **Lysne V**, Bjørke-Monsen AL, Behringer S, Grünert SC, Spiekerkoetter U, Jacobsen DW, Blom HJ. Biomarkers and Algorithms for the Diagnosis of Vitamin B12 Deficiency. Front Mol Biosci, 2016. [PMID: 27446930](https://www.ncbi.nlm.nih.gov/pubmed/) 
+1. **Lysne V**, Strand E, Svingen GF, Bjørndal B, Pedersen ER, Midttun Ø, Olsen T, Ueland PM, Berge RK, Nygård O. Peroxisome Proliferator-Activated Receptor Activation is Associated with Altered Plasma One-Carbon Metabolites and B-Vitamin Status in Rats. Nutrients, 2016. [PMID: 26742069](https://www.ncbi.nlm.nih.gov/pubmed/26742069)
+1. **Lysne V**, Bjørndal B, Vik R, Nordrehaug JE, Skorve J, Nygård O, Berge RK. A Protein Extract from Chicken Reduces Plasma Homocysteine in Rats. Nutrients, 2015. [PMID: 26053618](https://www.ncbi.nlm.nih.gov/pubmed/26053618)
+1. Øyen J, Svingen GF, Gjesdal CG, Tell GS, Ueland PM, **Lysne V**, Apalset EM, Meyer K, Vollset SE, Nygård OK. Plasma dimethylglycine, nicotine exposure and risk of low bone mineral density and hip fracture: the Hordaland Health Study. Osteoporos Int, 2015. [PMID: 25616506](https://www.ncbi.nlm.nih.gov/pubmed/25616506)
+
+# Other publications
+
+1. Matre ÅO, **Lysne V**. B12-tilskudd uten B12-mangel. Norsk Tidsskrift for Ernæring, 2019(3). 
+1. **Lysne V**. 12. Internasjonale konferanse om enkarbonmetabolisme, B-vitaminer og homocystein. Norsk Tidsskrift for Ernæring, 2019(3).
+1.	**Lysne V**, Marienborg I, Olsen T. FASEB-konferanse om folat, vitamin B12 og enkarbonmetabolisme. Norsk Tidsskrift for Ernæring, 2018(3).
+1.	**Lysne V**, Olsen T. Feilkilder i ernæringsepidemiologi. Norsk Tidsskrift for Ernæring, 2018(2). 
+1.	**Lysne V**. Glimt fra den 11. internasjonale konferansen om homocystein og enkarbonmetabolisme i Århus. Norsk tidsskrift for Ernæring, 2017(3).
+1.	**Lysne V**, Olsen T. Konfidensintervaller – hva kan de fortelle deg? Norsk Tidsskrift for Ernæring, 2017(1)
+1.	**Lysne V**, Olsen T. P-verdier. Veiledende eller villedende? En simulert studie. Norsk Tidsskrift for Ernæring, 2016(4).
+1.	Christensen JJ, **Lysne V**. Støtter lørdagsgodt. Den Norske Tannlegeforenings Tidende, 2016(5). 
+1.	Olsen T, **Lysne V**. Ta faget tilbake. Norsk Tidsskrift for Ernæring, 2015(3).
+1.	Kverneland M, Christensen JJ, **Lysne V**. Lavkarbodietter har kommet for å bli, men hører hjemme i klinikken. Norsk Tidsskrift for Ernæring, 2015(2).
+
+# Conference attendance
+\briefsection{\briefitem{The European Nutrition Conference (FENS), Dublin, Ireland}{2019}{Poster presentation}\briefitem{12th International Conference on homocysteine and one-carbon metabolism, Tarragona, Spain}{2019}{Poster presentation}\briefitem{RStudio::conf2019, Austin, TX, USA}{2019}{}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Bergen, Norway}{2019}{}\briefitem{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Halifax, Nova Scotia, Canada}{2018}{Poster presentation}\briefitem{RStudio::conf, San Diego, CA, USA}{2018}{}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Kristiansand, Norway}{2018}{}\briefitem{11th International Conference on homocysteine and one-carbon metabolism, Aarhus, Denmark}{2017}{Poster presentation}\briefitem{Norwegian Society for Epidemiology conference, Tromsø, Norway}{2017}{}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{2017}{Oral presentation}\briefitem{Nordic Nutrition Conference, Gotenburg, Sweden}{2016}{}\briefitem{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA}{2016}{Oral presentation}\briefitem{10th International Conference on homocysteine and one-carbon metabolism, Nancy, France}{2015}{Oral presentation}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{2015}{}\briefitem{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA}{2014}{Poster presentation}\briefitem{Nordic Congress for Dietitians, Bergen, Norway}{2014}{}\briefitem{9th International Conference on homocysteine and one-carbon metabolism, Dublin, Ireland}{2013}{Poster presentation}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{2013}{}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{2012}{}}
+
+
+# Teaching experience
+During my years as PhD candidate I have taught at every semester of the bachelor and masters program in clinical nutrition at University of Bergen. I've held lectures on topics such as methods in nutrition research, nutritional biochemistry, food science, micronutrients, genetic disorders in nutrient metabolism and general nutrition in health and disease.
+
+# Student supervision
+
+\briefsection{\briefitem{Ingvild Marienborg}{2018}{MSc thesis}\briefitem{Åslaug O. Matre and Henriette Holm}{2018}{BSc theses}\briefitem{Jostein Sæle, Marcela Palma and Kristine S. Samuelsen}{2017}{MSc theses}\briefitem{Turid Bjørnsen Iversen}{2016}{BSc thesis}\briefitem{Jostein Sæle, Helene Dahl, Caroline K. Jacobsen and Silje S. Vabø}{2015}{BSc theses}}
+
+# Thesis comittees
+\briefsection{\briefitem{Eirin S Gjerde and Emilie H Markhus}{2018}{BSc theses}\briefitem{Trine Larsen, Helene Søiland and Miriam H Brandt}{2017}{MSc theses}\briefitem{Amalie Moxness, Maria-Anna F Holmefjort and Benedicte Wirkola}{2017}{BSc theses}\briefitem{Tonje N Hustoft and Anita E Smette}{2016}{MSc theses}\briefitem{Synnøve Næss, Ingrid Revheim, Charlotte Z Tøssebro and Renate D Laumann}{2016}{BSc theses}\briefitem{Anette Hetlevik and Maria B Songve}{2015}{BSc theses}}
+
+\newpage
+# Organizations and comittees
+\briefsection{\briefitem{Leader of the Organizing comittee of the annual conference of The Norwegian Association of Dietitians}{2019}{}\briefitem{Member of the editorial board, Norwegian Journal of Nutrition (NTFE)}{2018-}{}\briefitem{Member of the academic policy board, The Norwegian Association of Dietitians affilliated with The Norwegian Association of Researchers}{2015-2018}{}}
+
+# Skills and languages
+
+\briefsection{\briefitem{Statistical programming}{R/Rstudio}{Experienced}\briefitem{Statistical software}{SPSS}{Experienced}\briefitem{Statistical software}{STATA}{Basic knowledge}\briefitem{Word, Excel, Powerpoint, Outlook}{Microsoft Office}{Experienced}\briefitem{Vector graphics}{Inkscape}{Intermediate}\briefitem{Version control}{Git/GitHub}{Basic}\briefitem{Written and oral}{Norwegian}{First language}\briefitem{Written and oral}{English}{Fluent}}
+
+# References 
+\detailedsection{\detaileditem{Professor, Centre for Nutrition, University of Bergen}{}{Jutta Dierkes}{}{\item{Email: jutta.dierkes@uib.no, Tel: (+47) 95448279}}\detaileditem{Professor, the heart department, Haukeland University Hospital}{}{Ottar Nygård}{}{\item{Email: per.ueland@ikb.uib.no, Tel: (+47) 55973147}}}
+
