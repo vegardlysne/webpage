@@ -7,58 +7,24 @@ email: "vegard.lysne@gmail.com"
 profilepic: ../img/Vegard.jpg
 www: www.vegardlysne.no
 twitter: VegardLysne
-date: "`r format(Sys.time(), '%B %Y')`"
+date: "november 2019"
 output: 
    vitae::awesomecv
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
-library(vitae)
-library(tibble)
-```
+
 
 # Professional summary
 I'm a clinical dietitian, currently employed as a researcher at Centre for Nutrition, University of Bergen. In my PhD project I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language. In 2019 I was leader of the organizing comittee for the annual conference of the Norwegian Association of Clinical Dietitians. 
 
 # Education
-```{r}
-tribble(
-  ~ Degree, ~ Year, ~ Thesis, ~ Where, ~ c, 
-  "PhD", "2015-2019 ", "Thesis title: Biomarkers of one-carbon metabolism and B-vitamin status - Targeted metabolomics in rats and humans exploring the effects of PPAR alpha-activation and dietary composition", "Department of Clinical Science, University of Bergen", "Norway", 
-  "MSc, Clinical Nutrition", "2012-2014", "Thesis title: Treatment with a Peroxisome Proliferator-Activated Receptor agonist influences one-carbon metabolism and markers of B-vitamin status in rats", "University of Bergen, Faculty of Medicine", "Norway", 
-  "BSc, Human Nutriton", "2009-2012", NA_character_, "University of Bergen, Faculty of Medicine", "Norway") %>% 
-  detailed_entries(with = Degree, when = Year, why = Thesis, what = Where)
-```
+\detailedsection{\detaileditem{Department of Clinical Science, University of Bergen}{2015-2019 }{PhD}{}{\item{Thesis title: Biomarkers of one-carbon metabolism and B-vitamin status - Targeted metabolomics in rats and humans exploring the effects of PPAR alpha-activation and dietary composition}}\detaileditem{University of Bergen, Faculty of Medicine}{2012-2014}{MSc, Clinical Nutrition}{}{\item{Thesis title: Treatment with a Peroxisome Proliferator-Activated Receptor agonist influences one-carbon metabolism and markers of B-vitamin status in rats}}\detaileditem{University of Bergen, Faculty of Medicine}{2009-2012}{BSc, Human Nutriton}{}{\empty}}
 
 # Work experience
-```{r}
-tribble(
-  ~ Position, ~ Year, ~ Institution, 
-  "Researcher", "2019-", "Department of Clinical Science, University of Bergen, Bergen, Norway",
-  "Research assistant", "2014-2015 ", "Department of Heart Disease, Haukeland University Hospital, Bergen, Norway" 
-) %>% 
-  detailed_entries(what = Institution, when = Year, with = Position)
-```
+\detailedsection{\detaileditem{Department of Clinical Science, University of Bergen, Bergen, Norway}{2019-}{Researcher}{}{\empty}\detaileditem{Department of Heart Disease, Haukeland University Hospital, Bergen, Norway}{2014-2015 }{Research assistant}{}{\empty}}
 
 # Courses attended
-```{r}
-tribble(
-   ~ Course, ~ Year, ~ Institution,
-   "Building Tidy Tools, RStudio::conf workshop", "2019", "RStudio::conf workshop",
-   "Data Science in the Tidyverse, RStudio::conf workshop", "2018", "RStudio::conf workshop",
-   "Competing Risks, Introduction to Flexible Parametric Survival Analysis and Cancer Screening, EPINOR annual meeting", "2017", "EPINOR annual meeting",
-   "New statistical methods for causal inference, University of Oslo", "2017", "University of Oslo",
-   "Logistic regression, survival analysis and Cox-regression, University of Oslo", "2017", "University of Oslo", 
-   "The Art of Scientific Investigation, EPINOR summer school", "2017", "EPINOR summer school",
-   "University pedagogy for PhD candidates, University of Bergen", "2017",  "University of Bergen",
-   "Epidemiology - beyond the basics, University of Oslo", "2017", "University of Oslo",
-   "6th International course in Nutritional Epidemiology, Imperial College, London", "2016", "Imperial College, London",
-   "Experimental Design and Statistical Analysis, FRAME training school", "2016", "FRAME training school",
-   "Basic course in Medical and Health Related Research, University of Bergen", "2016", "University of Bergen"
-) %>% 
-  brief_entries(what = Course, when = Year)
-```
+\briefsection{\briefitem{Building Tidy Tools, RStudio::conf workshop}{2019}{}\briefitem{Data Science in the Tidyverse, RStudio::conf workshop}{2018}{}\briefitem{Competing Risks, Introduction to Flexible Parametric Survival Analysis and Cancer Screening, EPINOR annual meeting}{2017}{}\briefitem{New statistical methods for causal inference, University of Oslo}{2017}{}\briefitem{Logistic regression, survival analysis and Cox-regression, University of Oslo}{2017}{}\briefitem{The Art of Scientific Investigation, EPINOR summer school}{2017}{}\briefitem{University pedagogy for PhD candidates, University of Bergen}{2017}{}\briefitem{Epidemiology - beyond the basics, University of Oslo}{2017}{}\briefitem{6th International course in Nutritional Epidemiology, Imperial College, London}{2016}{}\briefitem{Experimental Design and Statistical Analysis, FRAME training school}{2016}{}\briefitem{Basic course in Medical and Health Related Research, University of Bergen}{2016}{}}
 
 \newpage
 # Publications in international peer-reviewed scientific journals
@@ -94,32 +60,7 @@ tribble(
 1.	Kverneland M, Christensen JJ, **Lysne V**. Lavkarbodietter har kommet for å bli, men hører hjemme i klinikken. Norsk Tidsskrift for Ernæring, 2015(2).
 
 # Conference attendance
-```{r}
-tribble(
-   ~ Year, ~ Conference, ~ Presentation,
-   2019, "The European Nutrition Conference (FENS), Dublin, Ireland", "Poster presentation",
-   2016, "Nordic Nutrition Conference, Gotenburg, Sweden", "",
-   2018, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Halifax, Nova Scotia, Canada", "Poster presentation",
-   2016, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA", "Oral presentation",
-   2014, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA", "Poster presentation",
-   2019, "12th International Conference on homocysteine and one-carbon metabolism, Tarragona, Spain", "Poster presentation",
-   2017, "11th International Conference on homocysteine and one-carbon metabolism, Aarhus, Denmark", "Poster presentation",
-   2015, "10th International Conference on homocysteine and one-carbon metabolism, Nancy, France", "Oral presentation",
-   2013, "9th International Conference on homocysteine and one-carbon metabolism, Dublin, Ireland", "Poster presentation",
-   2017, "Norwegian Society for Epidemiology conference, Tromsø, Norway", "",
-   2019, "RStudio::conf2019, Austin, TX, USA", "",
-   2018, "RStudio::conf, San Diego, CA, USA", "",
-   2014, "Nordic Congress for Dietitians, Bergen, Norway", "",
-   2019, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Bergen, Norway", "",
-   2018, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Kristiansand, Norway", "",
-   2017, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "Oral presentation",
-   2015, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
-   2013, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
-   2012, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
-) %>% 
-  arrange(desc(Year)) %>% 
-  brief_entries(when = Year, what = Conference, with = Presentation)
-```
+\briefsection{\briefitem{The European Nutrition Conference (FENS), Dublin, Ireland}{2019}{Poster presentation}\briefitem{12th International Conference on homocysteine and one-carbon metabolism, Tarragona, Spain}{2019}{Poster presentation}\briefitem{RStudio::conf2019, Austin, TX, USA}{2019}{}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Bergen, Norway}{2019}{}\briefitem{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Halifax, Nova Scotia, Canada}{2018}{Poster presentation}\briefitem{RStudio::conf, San Diego, CA, USA}{2018}{}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Kristiansand, Norway}{2018}{}\briefitem{11th International Conference on homocysteine and one-carbon metabolism, Aarhus, Denmark}{2017}{Poster presentation}\briefitem{Norwegian Society for Epidemiology conference, Tromsø, Norway}{2017}{}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{2017}{Oral presentation}\briefitem{Nordic Nutrition Conference, Gotenburg, Sweden}{2016}{}\briefitem{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA}{2016}{Oral presentation}\briefitem{10th International Conference on homocysteine and one-carbon metabolism, Nancy, France}{2015}{Oral presentation}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{2015}{}\briefitem{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA}{2014}{Poster presentation}\briefitem{Nordic Congress for Dietitians, Bergen, Norway}{2014}{}\briefitem{9th International Conference on homocysteine and one-carbon metabolism, Dublin, Ireland}{2013}{Poster presentation}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{2013}{}\briefitem{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{2012}{}}
 
 
 # Teaching experience
@@ -127,66 +68,19 @@ During my years as PhD candidate I have taught at every semester of the bachelor
 
 # Student supervision
 
-```{r}
-tribble(
-   ~ Year, ~ Student, ~ Degree,
-   2018, "Åslaug O. Matre and Henriette Holm", "BSc theses", 
-   2018, "Ingvild Marienborg", "MSc thesis",
-   2017, "Jostein Sæle, Marcela Palma and Kristine S. Samuelsen", "MSc theses",
-   2016, "Turid Bjørnsen Iversen", "BSc thesis",
-   2015, "Jostein Sæle, Helene Dahl, Caroline K. Jacobsen and Silje S. Vabø", "BSc theses"
-) %>% 
-  arrange(desc(Year), desc(Degree), Student) %>% 
-  brief_entries(when = Year, what = Student, with = Degree)
-```
+\briefsection{\briefitem{Ingvild Marienborg}{2018}{MSc thesis}\briefitem{Åslaug O. Matre and Henriette Holm}{2018}{BSc theses}\briefitem{Jostein Sæle, Marcela Palma and Kristine S. Samuelsen}{2017}{MSc theses}\briefitem{Turid Bjørnsen Iversen}{2016}{BSc thesis}\briefitem{Jostein Sæle, Helene Dahl, Caroline K. Jacobsen and Silje S. Vabø}{2015}{BSc theses}}
 
 # Thesis comittees
-```{r}
-tribble(
-   ~ Year, ~ Student, ~ Degree,
-   2018, "Eirin S Gjerde and Emilie H Markhus", "BSc theses",
-   2017, "Trine Larsen, Helene Søiland and Miriam H Brandt", "MSc theses", 
-   2016, "Tonje N Hustoft and Anita E Smette", "MSc theses",
-   2017, "Amalie Moxness, Maria-Anna F Holmefjort and Benedicte Wirkola", "BSc theses",
-   2016, "Synnøve Næss, Ingrid Revheim, Charlotte Z Tøssebro and Renate D Laumann", "BSc theses",
-   2015, "Anette Hetlevik and Maria B Songve", "BSc theses") %>% 
-  arrange(desc(Year), desc(Degree), Student) %>% 
-  brief_entries(when = Year, what = Student, with = Degree)
-```
+\briefsection{\briefitem{Eirin S Gjerde and Emilie H Markhus}{2018}{BSc theses}\briefitem{Trine Larsen, Helene Søiland and Miriam H Brandt}{2017}{MSc theses}\briefitem{Amalie Moxness, Maria-Anna F Holmefjort and Benedicte Wirkola}{2017}{BSc theses}\briefitem{Tonje N Hustoft and Anita E Smette}{2016}{MSc theses}\briefitem{Synnøve Næss, Ingrid Revheim, Charlotte Z Tøssebro and Renate D Laumann}{2016}{BSc theses}\briefitem{Anette Hetlevik and Maria B Songve}{2015}{BSc theses}}
 
 \newpage
 # Organizations and comittees
-```{r}
-tribble(
-   ~ Year, ~ Role, 
-   "2019", "Leader of the Organizing comittee of the annual conference of The Norwegian Association of Dietitians",
-   "2018-", "Member of the editorial board, Norwegian Journal of Nutrition (NTFE)",
-   "2015-2018", "Member of the academic policy board, The Norwegian Association of Dietitians affilliated with The Norwegian Association of Researchers") %>% 
-  brief_entries(what = Role, when = Year)
-```
+\briefsection{\briefitem{Leader of the Organizing comittee of the annual conference of The Norwegian Association of Dietitians}{2019}{}\briefitem{Member of the editorial board, Norwegian Journal of Nutrition (NTFE)}{2018-}{}\briefitem{Member of the academic policy board, The Norwegian Association of Dietitians affilliated with The Norwegian Association of Researchers}{2015-2018}{}}
 
 # Skills and languages
 
-```{r}
-tribble(
-   ~ Skill, ~ Description, ~ Level,
-   "R/Rstudio", "Statistical programming", "Experienced",
-   "SPSS", "Statistical software", "Experienced",
-   "STATA", "Statistical software", "Basic knowledge",
-   "Microsoft Office", "Word, Excel, Powerpoint, Outlook", "Experienced",
-   "Inkscape", "Vector graphics", "Intermediate",
-   "Git/GitHub", "Version control", "Basic",
-   "Norwegian", "Written and oral", "First language",
-   "English", "Written and oral", "Fluent") %>% 
-  brief_entries(when = Skill, what = Description, with = Level)
-```
+\briefsection{\briefitem{Statistical programming}{R/Rstudio}{Experienced}\briefitem{Statistical software}{SPSS}{Experienced}\briefitem{Statistical software}{STATA}{Basic knowledge}\briefitem{Word, Excel, Powerpoint, Outlook}{Microsoft Office}{Experienced}\briefitem{Vector graphics}{Inkscape}{Intermediate}\briefitem{Version control}{Git/GitHub}{Basic}\briefitem{Written and oral}{Norwegian}{First language}\briefitem{Written and oral}{English}{Fluent}}
 
 # References 
-```{r}
-tribble(
-  ~ Name, ~ Contact, ~ Position, 
-  "Jutta Dierkes", "Email: jutta.dierkes@uib.no, Tel: (+47) 95448279", "Professor, Centre for Nutrition, University of Bergen",
-  "Ottar Nygård", "Email: per.ueland@ikb.uib.no, Tel: (+47) 55973147", "Professor, the heart department, Haukeland University Hospital") %>% 
-  detailed_entries(with = Name, why = Contact, what = Position)
-```
+\detailedsection{\detaileditem{Professor, Centre for Nutrition, University of Bergen}{}{Jutta Dierkes}{}{\item{Email: jutta.dierkes@uib.no, Tel: (+47) 95448279}}\detaileditem{Professor, the heart department, Haukeland University Hospital}{}{Ottar Nygård}{}{\item{Email: per.ueland@ikb.uib.no, Tel: (+47) 55973147}}}
 
