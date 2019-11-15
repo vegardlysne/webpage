@@ -4,8 +4,9 @@ surname: Lysne
 position: "Clinical Dietitian, PhD"
 phone: +47 41 66 82 18
 email: "vegard.lysne@gmail.com"
-profilepic: ../img/Vegard.png
+profilepic: ../img/Vegard.jpg
 www: www.vegardlysne.no
+twitter: VegardLysne
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
    vitae::awesomecv
