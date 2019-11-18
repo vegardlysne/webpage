@@ -19,7 +19,7 @@
   weight = 15
   
 [[main]]
-  name = "My contributions"
+  name = "Contributions"
   url = "/contributions/"
   weight = 20
   identifier = "contributions"

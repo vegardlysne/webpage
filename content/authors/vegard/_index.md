@@ -1,7 +1,25 @@
 ---
+name: Vegard Lysne
+
 authors:
-- admin
+- vegard
+
+superuser: true
+
+role: Researcher, Clinical Nutrition
+
+organizations:
+- name: University of Bergen
+  url: "https://www.uib.no/en/persons/Vegard.Lysne"
+
 bio: Clinical Dietitian and Researcher. See more about [Vegard](#About).
+
+interests:
+- Clinical nutrition
+- Nutritional epidemiology
+- Statistics and research methods
+- R programming
+
 education:
   courses:
   - course: PhD, Clinical Nutrition
@@ -13,21 +31,6 @@ education:
   - course: BSc in Human Nutrition
     institution: University of Bergen
     year: 2012
-email: ""
-interests:
-- Clinical nutrition
-- Nutritional epidemiology
-- Statistics and research methods
-- R programming
-name: Vegard Lysne
-
-organizations:
-- name: University of Bergen
-  url: "https://www.uib.no/en/persons/Vegard.Lysne"
-  role: Researcher
-- name: Norwegian journal of Nutrition
-  url: "www.ntfe.no"
-  role: Editorial Board member
 
 social:
 - icon: envelope

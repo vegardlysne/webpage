@@ -223,3 +223,6 @@
 
 - id: cookie_learn
   translation: Learn more
+  
+- id: continue_reading
+  translation: Read more...

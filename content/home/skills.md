@@ -17,18 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R and R Markdown"
-  description = "Experienced"
+  name = "R"
+  description = "90%"
   
-[[feature]]
-  icon = "Inkscape"
-  icon_pack = "fas"
-  name = "Inkscape"
-  description = "Intermediate"
-
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "DataVolley professional"
-  description = "Intermediate"  
+  name = "Statistics"
+  description = "100%"  
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "10%"
+
 +++
