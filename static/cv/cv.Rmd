@@ -63,6 +63,7 @@ tribble(
 \newpage
 # Publications in international peer-reviewed scientific journals
 
+1. **Lysne V**, Bjørndal B, Grinna ML, Midttun Ø, Ueland PM, Berge RK, Dierkes J, Nygård O and Strand E. Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats. PLoS One, 2019. [PMID: 31805132](https://www.ncbi.nlm.nih.gov/pubmed/31805132)
 1. Parys AV, **Lysne V**, Svingen GFT, Ueland PM, Dhar I, Øyen J, Dierkes J and Nygård O. Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris. Biochimie, 2019. [PMID: 31707100](https://www.ncbi.nlm.nih.gov/pubmed/31707100)
 1. Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease. Eur J Nutr, 2019. [PMID: 31502058](https://www.ncbi.nlm.nih.gov/pubmed/31502058)
 1. Strand E, **Lysne V**, Grinna ML, Bohov P, Svardal A, Nygård O, Berge RK, Bjørndal B. Short-Term Activation of Peroxisome Proliferator-Activated Receptors alpha and gamma Induces Tissue-Specific Effects on Lipid Metabolism and Fatty Acid Composition in Male Wistar Rats. PPAR res, 2019. [PMID: 31308847](https://www.ncbi.nlm.nih.gov/pubmed/31308847)

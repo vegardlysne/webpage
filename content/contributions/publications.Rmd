@@ -12,7 +12,9 @@ tags: []
 
 ## Journal publications {#Journal}
 
-1. `2019` Parys AV, **Lysne V**, Svingen GFT, Ueland PM, Dhar I, Øyen J, Dierkes J and Nygård O. **Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris**. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31707100), [Full text](https://reader.elsevier.com/reader/sd/pii/S0300908419303165?token=66DDCC5B71255E5EDB54BB663B46E53A86BA06853189C9C28E7855F1C42966D9B831C5365F79C2955AF8D9365D93DBEE)
+1. `2019` **Lysne V**, Bjørndal B, Grinna ML, Midttun Ø, Ueland PM, Berge RK, Dierkes J, Nygård O and Strand E. **Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats.** PLoS One. <br> [PubMed: 31805132](https://www.ncbi.nlm.nih.gov/pubmed/31805132), [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226069)
+
+1. `2019` Parys AV, **Lysne V**, Svingen GFT, Ueland PM, Dhar I, Øyen J, Dierkes J and Nygård O. **Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris**. Biochimie <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31707100), [Full text](https://reader.elsevier.com/reader/sd/pii/S0300908419303165?token=66DDCC5B71255E5EDB54BB663B46E53A86BA06853189C9C28E7855F1C42966D9B831C5365F79C2955AF8D9365D93DBEE)
 
 1. `2019` Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. <br> **Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease**. Eur J Nutr. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31502058), [Full text](https://link.springer.com/article/10.1007/s00394-019-02086-2)
 
