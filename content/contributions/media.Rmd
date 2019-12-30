@@ -2,7 +2,7 @@
 title: Media appearances
 author: ''
 date: 2019-09-04
-lastmod: 2019-09-04
+lastmod: 2019-12-30
 slug: media
 categories: []
 tags: []
@@ -20,6 +20,8 @@ projects: []
 This is an overview of my appearances in norwegian media, sorted by year. 
 
 ## 2019
+- [Ekspertenes råd: Slik faster du deg ned i vekt](https://www.vg.no/forbruker/helse/i/K3knAX/ekspertenes-raad-slik-faster-du-deg-ned-i-vekt), VG
+- [Disse 10 diettene googles mest - kun to vurderes som gode](https://www.kk.no/helse/disse-10-diettene-googles-mest---kun-to-vurderes-som-gode/71690391), KK
 - [Så mye sukker skjuler det seg i maten og drikken din](https://www.nettavisen.no/livsstil/sa-mye-sukker-skjuler-det-seg-i-maten-og-drikken-din/3423637124.html), Nettavisen
 - [Veganer måtte endre kostholdet for å få tilbake mensen](https://www.nettavisen.no/livsstil/veganer-matte-endre-kostholdet-for-a-fa-tilbake-mensen/3423624288.html), Nettavisen
 - [Slik leser man innholdsfortegnelse, og dette bør du se etter](https://www.aftenposten.no/sport/sprek/i/jdO4ae/Slik-leser-man-innholdsfortegnelse_-og-dette-bor-du-se-etter), Aftenposten Sprek
@@ -27,6 +29,7 @@ This is an overview of my appearances in norwegian media, sorted by year.
 - [Tror du kanskje du kan ha jernmangel?](https://www.kk.no/helse/tror-du-kanskje-du-kan-ha-jernmangel/70743439), KK
 
 ## 2018
+- [Perioder med faste kan ha mange ukjente helsefordeler](https://www.kk.no/helse/perioder-med-faste-kan-ha-mange-ukjente-helsefordeler/70511206)
 - [Ernæringsforsker kritiserer lavkarbo-studie](https://www.dn.no/helse/rikshospitalet/helsedirektoratet/lchf/ernaringsforsker-kritiserer-lavkarbo-studie/2-1-479457), Dagens Næringsliv
 - [Mineralet sink (Zn)](https://www.lommelegen.no/ernæring/kosthold/artikkel/mineralet-sink-zn/70237097), Lommelegen
 - [Omega-3-tilskudd forebygger ikke     hjertesykdom](https://www.lommelegen.no/hjerte-og-kar/artikkel/omega-3-ti lskudd-forebygger-ikke-hjertesykdom/70168284), Lommelegen
