@@ -1,0 +1,67 @@
+---
+title: 'Summary of 2019'
+author: Vegard
+date: '2019-12-30'
+slug: summary-of-2019
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-12-30T01:52:36+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Another year has passed, and it's time to look back. Here's a list of the work-related things I've done in the last 12 months, and some thoughts regarding what 2020 will bring. 
+
+# 1. PhDone!
+
+My highlight of 2019 is the completion of my PhD. I submitted my [thesis](https://www.vegardlysne.no/files/phd_thesis_lysne_2019.pdf) in the beginning of June, and the defense took place in October. You can read the summary of my defense [here](https://www.vegardlysne.no/blog/2019-10-07-phd-defence/phd-defence/).
+
+
+# 2. Conference attendance
+
+In 2019 I've attended 4 scientific conferences. In January, I attended [RStudio::conf](https://resources.rstudio.com/rstudio-conf-2019) in Austin, Texas, where I first attended a workshop called "*Building Tidy Tools*", on the topic of writing R packages. My notes from the conference can be found [here](https://www.vegardlysne.no/contributions/courses/rstudioconf2019.html). 
+
+The second conference was the yearly conference of the Norwegian Association of Dietitians. This year's conference was arranged in Bergen, and I was co-leader of the organizing committee, which was a very nice experience!
+
+In June, I traveled to Tarragona, Spain, to attend the 12^th^ International Conference on One Carbon Metabolism, B vitamins and Homocysteine. I presented a [poster](https://www.vegardlysne.no/contributions/posters/Homocysteine2019.pdf) on the topic of my PhD research. My conference notes can be read [here](https://www.vegardlysne.no/contributions/courses/homocysteine2019.html). 
+
+Finally, I attended the European Nutrition Conference (FENS) in Dublin, Ireland. Here, I also presented a [poster](https://www.vegardlysne.no/contributions/posters/FENS2019.pdf) from my PhD project. I published a [live blog](https://www.vegardlysne.no/blog/fens-liveblog/) from the conference, and some other notes can be found [here](https://www.vegardlysne.no/contributions/courses/FENS2019.html)
+
+# 3. Publications
+
+In 2019 I've been involved in seven publications in international journals, as well as three papers in national journals, listed below. 
+
+1. [**Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats**](https://www.ncbi.nlm.nih.gov/pubmed/31805132), PLoS One.
+1. [**Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris**](https://www.ncbi.nlm.nih.gov/pubmed/31707100), Biochimie 
+1. [**Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease**](https://www.ncbi.nlm.nih.gov/pubmed/31502058), Eur J Nutr
+1. [**Short-Term Activation of Peroxisome Proliferator-Activated Receptors &alpha; and &gamma; Induces Tissue-Specific Effects on Lipid Metabolism and Fatty Acid Composition in Male Wistar Rats**](https://www.ncbi.nlm.nih.gov/pubmed/31308847) PPAR res.  
+1. [**Using metabolic profiling and gene expression analyses to explore molecular effects of replacing saturated fat with polyunsaturated fat-a randomized controlled dietary intervention study**](https://www.ncbi.nlm.nih.gov/pubmed/31051508), Am J Clin Nutr.  
+1. [**Elevated plasma cystathionine is associated with increased risk of mortality among patients with suspected or established coronary heart disease**](https://www.ncbi.nlm.nih.gov/pubmed/31005968), Am J Clin Nutr.
+1. [**Adherence to the Healthy Nordic Food Index and the incidence of acute myocardial infarction and mortality among patients with stable angina pectoris**](https://www.ncbi.nlm.nih.gov/pubmed/30091209), J Hum Nutr Diet.
+1. [**FENS 2019: Malnutrition in an obese world – European perspective**]() Norsk Tidsskrift for Ernæring
+1. [**B12-tilskudd uten B12-mangel**](), Norsk Tidsskrift for Ernæring 2019 (3). 
+1. [**12. Internasjonale konferanse om enkarbonmetabolisme B-vitaminer og homocystein**](), Norsk Tidsskrift for Ernæring.
+
+# 4. Media appearances
+
+During the year, I've also been featured a few times in Norwegian media on different topics related to nutrition. 
+
+1. [Norske kostråd anbefaler ikke «vestlig kosthold»](https://www.dagensmedisin.no/artikler/2019/08/23/norske-kostrad-anbefaler-ikke-vestlig-kosthold/), Dagens Medisin
+1. [Ekspertenes råd: Slik faster du deg ned i vekt](https://www.vg.no/forbruker/helse/i/K3knAX/ekspertenes-raad-slik-faster-du-deg-ned-i-vekt), VG
+1. [Disse 10 diettene googles mest - kun to vurderes som gode](https://www.kk.no/helse/disse-10-diettene-googles-mest---kun-to-vurderes-som-gode/71690391), KK
+1. [Så mye sukker skjuler det seg i maten og drikken din](https://www.nettavisen.no/livsstil/sa-mye-sukker-skjuler-det-seg-i-maten-og-drikken-din/3423637124.html), Nettavisen
+1. [Veganer måtte endre kostholdet for å få tilbake mensen](https://www.nettavisen.no/livsstil/veganer-matte-endre-kostholdet-for-a-fa-tilbake-mensen/3423624288.html), Nettavisen
+1. [Slik leser man innholdsfortegnelse, og dette bør du se etter](https://www.aftenposten.no/sport/sprek/i/jdO4ae/Slik-leser-man-innholdsfortegnelse_-og-dette-bor-du-se-etter), Aftenposten Sprek
+1. [Stor test av mellombarer: – To av disse er like usunne som godteri](https://www.adressa.no/100Sport/sprek/Stor-test-av-mellombarer--To-av-disse-er-like-usunne-som-godteri-267242b.html), Aftenposten Sprek
+1. [Tror du kanskje du kan ha jernmangel?](https://www.kk.no/helse/tror-du-kanskje-du-kan-ha-jernmangel/70743439), KK
+
+# 5. 2020!
+
+The next year will be an exciting year for me. First and foremost, I became a father for the first time when my son Ludvig was born on new years eve! Further, in January I started in a new position as a postdoc at Haukeland University Hospital, where I will continue my work on diet and one-carbon metabolism. I was recently accepted to participate in the [European Nutrition Leadership Platform](https://www.enlp.eu.com/enlp-essentials-programme), organized in Luxembourg in April, which I'm very much looking forward to. In the summer I will attend the Nordic Nutrition Conference, arranged in Helsinki, June 8-11. I hope 2020 will be as productive as 2019 was, and I will try to provide some updates here as well. 

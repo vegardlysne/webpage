@@ -19,7 +19,7 @@ library(tibble)
 ```
 
 # Professional summary
-I'm a clinical dietitian, currently employed as a researcher at Centre for Nutrition, University of Bergen. In my PhD project I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language. In 2019 I was leader of the organizing comittee for the annual conference of the Norwegian Association of Clinical Dietitians. 
+I'm a clinical dietitian, currently employed as a postdoctoral researcher at Haukeland University Hospital. In my PhD project, conducted at University of Bergen, II used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language. In 2019 I was leader of the organizing comittee for the annual conference of the Norwegian Association of Clinical Dietitians. 
 
 # Education
 ```{r}
@@ -35,7 +35,9 @@ tribble(
 ```{r}
 tribble(
   ~ Position, ~ Year, ~ Institution, 
-  "Researcher", "2019-", "Department of Clinical Science, University of Bergen, Bergen, Norway",
+  "Postdoctoral researcher", "2020-", "Department of Heart Disease, Haukeland University Hospital, Bergen, Norway",
+  "Researcher", "2019", "Department of Clinical Science, University of Bergen, Bergen, Norway",
+  "PhD candidate", "2015-2019", "Department of Clinical Science, University of Bergen, Bergen, Norway",
   "Research assistant", "2014-2015 ", "Department of Heart Disease, Haukeland University Hospital, Bergen, Norway" 
 ) %>% 
   detailed_entries(what = Institution, when = Year, with = Position)

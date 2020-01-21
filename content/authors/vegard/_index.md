@@ -6,13 +6,13 @@ authors:
 
 superuser: true
 
-role: Researcher, Clinical Nutrition
+role: Postdoctoral researcher
 
 organizations:
-- name: University of Bergen
-  url: "https://www.uib.no/en/persons/Vegard.Lysne"
+- name: Haukeland University Hospital
+  url: "https://helse-bergen.no/"
 
-bio: Clinical Dietitian and Researcher. See more about [Vegard](#About).
+bio: Clinical Dietitian and postdoctoral researcher. See more about [Vegard](#About).
 
 interests:
 - Clinical nutrition
@@ -67,8 +67,8 @@ social:
 superuser: true
 ---
 
-I'm a clinical dietitian from Norway, currently working as a researcher at the [University of Bergen](www.uib.no). I'm also a member of the editorial board at [The Norwegian Journal of Nutrition](www.ntfe.no). 
+I'm a clinical dietitian from Norway, currently working as a postdoctoral researcher at [Haukeland University Hospital](https://helse-bergen.no/). I'm also a member of the editorial board at [The Norwegian Journal of Nutrition](www.ntfe.no). 
 
-In my PhD project I used animal and human data to explore the effects of PPAR&alpha;-activation and dietary macronutrient composition on one-carbon metabolism and B-vitamin status. My main research interests are the methodology and statistical methods used in nutritional epidemiology, and my main research tools are [R and RStudio](www.rstudio.com), where I do all my statistical analyses and most of my writing. 
+In my PhD project at [University of Bergen](https://www.uib.no), I used animal and human data to explore the effects of PPAR&alpha;-activation and dietary macronutrient composition on one-carbon metabolism and B-vitamin status. My main research interests are the methodology and statistical methods used in nutritional epidemiology, and my main research tools are [R and RStudio](www.rstudio.com), where I do all my statistical analyses and most of my writing. 
 
 Beside work I'm a big sports fan. My main sport is volleyball, where I'm currently coaching the mens recruit team and perform scouting and statistical analyses for the mens first team at [TIF Viking](http://www.tifviking.no/volleyball/), using [Data Volley 4](https://www.dataproject.com/Products/EU/en/Volleyball/DataVolley4). My musical preference is hard rock and related genres. 
