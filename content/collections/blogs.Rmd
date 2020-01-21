@@ -27,7 +27,7 @@ The personal blog of statistics professor Andrew Gelman He writes about statisti
 Datamethods is a statistical discussion forum maintained by statistics professor Frank Harrell.
 
 #### [Credibly curious](https://www.njtierney.com/)
-The homepage of Nicholas Tierney, which I met at the RStudio::conf2018 where he presented his R-packages for handling missing data. He is one of the guys behind [R-miss-tastic](https://rmisstastic.netlify.com/), a resource website for missing data.
+The homepage of Nicholas Tierney, who I met at the RStudio::conf2018 where he presented his R-packages for handling missing data. He is one of the guys behind [R-miss-tastic](https://rmisstastic.netlify.com/), a resource website for missing data.
 
 #### [Less Likely](https://lesslikely.com/)
 The homepage of Zad Chow, who writes about statistics, medicine and nutrition. 
