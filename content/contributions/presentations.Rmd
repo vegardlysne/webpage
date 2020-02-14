@@ -9,6 +9,14 @@ draft: no
 
 This is a list of my presentations at conferences and meetings. 
 
+# 2020
+
+## Mohn Nutrition Research Laboratory seminar, Solstrand, Bergen, Norway
+
+This was the first seminar organized by the Mohn Nutrition Research Laboratory. I presented a workshop on the topics of P-values and statistical significance. The main goal was to reflect on our current approach, and discuss how we may improve.
+
+- Workshop: [P-values and statistical significance](/contributions/presentations/significance_workshop_2020.pdf). 
+
 # 2019
 
 ## [FENS](http://www.fens2019.org/), Dublin, Ireland
