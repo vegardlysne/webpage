@@ -26,7 +26,7 @@ So what is compositional data? In the paper, it is defined as data that *“comp
 
 ## Interpreting total or relative effects
 
-When analyzing the association between an exposure X and an outcome Y, we can condition (adjust) on other variables Z. The purpose of conditioning is to keep the value of these variables “fixed” in the model. Depending on which variables we condition on, a different interpretation of the observed association is warranted. 
+When analyzing the association between an exposure and an outcome, we can condition on (i.e. adjust for) other variables. The purpose of conditioning is to keep the value of these variables “fixed” in the model. Depending on which variables we condition on, a different interpretation of the observed association is warranted. 
 
 If the whole is fixed, this can be seen as the whole being conditioned on by default. For example, we cannot study the effect of increasing physical activity, without simultaneously studying the effect of decreasing inactivity. Every minute spent being active is replacing a minute being inactive, the total amount of minutes is the same. This means we can only estimate the **relative effects** of physical activity, relative to inactivity. Hence, one exposure is replacing another, and we only consider the combined, or joint, effect of this substitution. We could subdivide the parts into more categories, and estimate relative effects between specific categories, but we cannot estimate the total effect of one category in isolation as the whole cannot change. 
 
