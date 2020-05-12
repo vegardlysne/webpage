@@ -19,7 +19,7 @@ library(tibble)
 ```
 
 # Professional summary
-I'm a clinical dietitian, currently employed as a postdoctoral researcher at Haukeland University Hospital. In my PhD project, conducted at University of Bergen, I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language. In 2019 I was leader of the organizing comittee for the annual conference of the Norwegian Association of Clinical Dietitians. 
+I'm a clinical dietitian, currently employed as a postdoctoral researcher at Haukeland University Hospital. In my PhD project, conducted at University of Bergen, I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. In 2019 I led the organizing comittee for the annual conference of the Norwegian Association of Clinical Dietitians. 
 
 # Education
 ```{r}
@@ -65,6 +65,8 @@ tribble(
 \newpage
 # Publications in international peer-reviewed scientific journals
 
+1. Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris. Int J Cardiol, 2020. [PMID: 32389762](https://www.ncbi.nlm.nih.gov/pubmed/32389762)
+1. Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin. Heart, 2020. [PMID:]()
 1. **Lysne V**, Bjørndal B, Grinna ML, Midttun Ø, Ueland PM, Berge RK, Dierkes J, Nygård O and Strand E. Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats. PLoS One, 2019. [PMID: 31805132](https://www.ncbi.nlm.nih.gov/pubmed/31805132)
 1. Parys AV, **Lysne V**, Svingen GFT, Ueland PM, Dhar I, Øyen J, Dierkes J and Nygård O. Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris. Biochimie, 2019. [PMID: 31707100](https://www.ncbi.nlm.nih.gov/pubmed/31707100)
 1. Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease. Eur J Nutr, 2019. [PMID: 31502058](https://www.ncbi.nlm.nih.gov/pubmed/31502058)
@@ -134,6 +136,8 @@ During my years as PhD candidate I have taught at every semester of the bachelor
 ```{r}
 tribble(
    ~ Year, ~ Student, ~ Degree,
+   2020, "Åslaug O. Matre", "MSc thesis",
+   2020, "Rosemarie Aaby and Ann Helen Børseth", "BSc theses",
    2018, "Åslaug O. Matre and Henriette Holm", "BSc theses", 
    2018, "Ingvild Marienborg", "MSc thesis",
    2017, "Jostein Sæle, Marcela Palma and Kristine S. Samuelsen", "MSc theses",
