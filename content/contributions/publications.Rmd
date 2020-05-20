@@ -12,9 +12,9 @@ tags: []
 
 ## Journal publications {#Journal}
 
-1. `2020` Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. **Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris.** Int J Cardiol. <br> [PubMed: 32389762](https://www.ncbi.nlm.nih.gov/pubmed/32389762),  [Full text](https://www.internationaljournalofcardiology.com/article/S0167-5273(20)30694-X/pdf)
+1. `2020` Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. **Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris.** Int J Cardiol. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/32389762),  [Full text](https://www.internationaljournalofcardiology.com/article/S0167-5273(20)30694-X/pdf)
 
-1. Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. **Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin.** Heart <br> [Full text](https://heart.bmj.com/content/early/2020/05/12/heartjnl-2019-316165)
+1. `2019` Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. **Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin.** Heart <br> [Full text](https://heart.bmj.com/content/early/2020/05/12/heartjnl-2019-316165)
 
 1. `2019` **Lysne V**, Bjørndal B, Grinna ML, Midttun Ø, Ueland PM, Berge RK, Dierkes J, Nygård O and Strand E. **Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats.** PLoS One. <br> [PubMed: 31805132](https://www.ncbi.nlm.nih.gov/pubmed/31805132), [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226069)
 
