@@ -19,7 +19,7 @@ library(tibble)
 ```
 
 # Professional summary
-I'm a clinical dietitian, currently employed as a postdoctoral researcher at Haukeland University Hospital. In my PhD project, conducted at University of Bergen, I used targeted metabolomics to explore the regulation of one-carbon metabolism and B-vitamin status. The project included experimental studies in animals and epidemiological studies in humans. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. In 2019 I led the organizing comittee for the annual conference of the Norwegian Association of Clinical Dietitians.  
+I'm a clinical dietitian, currently working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. I'm an editorial board member in the Norwegian Journal of Nutrition, and in 2019 I led the organizing committee for the annual conference of the Norwegian Association of Clinical Dietitians.  
 
 # Education
 ```{r education}
@@ -65,6 +65,7 @@ tribble(
 \newpage
 # Publications in international peer-reviewed scientific journals
 
+1. Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort. BMJ Open, 2020 [PMID: 32444431](https://pubmed.ncbi.nlm.nih.gov/32444431)
 1. Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris. Int J Cardiol, 2020. [PMID: 32389762](https://www.ncbi.nlm.nih.gov/pubmed/32389762)
 1. Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin. Heart, 2020. [PMID:]()
 1. **Lysne V**, Bjørndal B, Grinna ML, Midttun Ø, Ueland PM, Berge RK, Dierkes J, Nygård O and Strand E. Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats. PLoS One, 2019. [PMID: 31805132](https://www.ncbi.nlm.nih.gov/pubmed/31805132)

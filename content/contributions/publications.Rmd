@@ -12,6 +12,8 @@ tags: []
 
 ## Journal publications {#Journal}
 
+1. `2020` Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. **Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort.** BMJ Open <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32444431), [Full text](https://bmjopen.bmj.com/content/10/5/e035953.long)
+
 1. `2020` Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. **Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris.** Int J Cardiol. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/32389762),  [Full text](https://www.internationaljournalofcardiology.com/article/S0167-5273(20)30694-X/pdf)
 
 1. `2019` Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. **Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin.** Heart <br> [Full text](https://heart.bmj.com/content/early/2020/05/12/heartjnl-2019-316165)
