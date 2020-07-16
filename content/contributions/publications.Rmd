@@ -12,15 +12,17 @@ tags: []
 
 ## Journal publications {#Journal}
 
-1. `2020` Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. **Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort.** BMJ Open <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32444431), [Full text](https://bmjopen.bmj.com/content/10/5/e035953.long)
+1. `2020` Saeed S, Smith J, Grigoryan K, **Lysne V**, Rajani R, Chambers JB. <br> **The tricuspid annular plane systolic excursion to systolic pulmonary artery pressure index: Association with all-cause mortality in patients with moderate or severe tricuspid regurgitation.** Int J Cardiol <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32512064/) [Full Text](https://www.sciencedirect.com/science/article/pii/S0167527320310305)
 
-1. `2020` Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. **Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris.** Int J Cardiol. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/32389762),  [Full text](https://www.internationaljournalofcardiology.com/article/S0167-5273(20)30694-X/pdf)
+1. `2020` Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. <br> **Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort.** BMJ Open <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32444431), [Full text](https://bmjopen.bmj.com/content/10/5/e035953.long)
 
-1. `2019` Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. **Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin.** Heart <br> [Full text](https://heart.bmj.com/content/early/2020/05/12/heartjnl-2019-316165)
+1. `2020` Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. <br> **Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris.** Int J Cardiol. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/32389762),  [Full text](https://www.internationaljournalofcardiology.com/article/S0167-5273(20)30694-X/pdf)
 
-1. `2019` **Lysne V**, Bjørndal B, Grinna ML, Midttun Ø, Ueland PM, Berge RK, Dierkes J, Nygård O and Strand E. **Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats.** PLoS One. <br> [PubMed: 31805132](https://www.ncbi.nlm.nih.gov/pubmed/31805132), [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226069)
+1. `2019` Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. <br> **Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin.** Heart <br> [Full text](https://heart.bmj.com/content/early/2020/05/12/heartjnl-2019-316165)
 
-1. `2019` Parys AV, **Lysne V**, Svingen GFT, Ueland PM, Dhar I, Øyen J, Dierkes J and Nygård O. **Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris**. Biochimie <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31707100), [Full text](https://reader.elsevier.com/reader/sd/pii/S0300908419303165?token=66DDCC5B71255E5EDB54BB663B46E53A86BA06853189C9C28E7855F1C42966D9B831C5365F79C2955AF8D9365D93DBEE)
+1. `2019` **Lysne V**, Bjørndal B, Grinna ML, Midttun Ø, Ueland PM, Berge RK, Dierkes J, Nygård O and Strand E. <br> **Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats.** PLoS One. <br> [PubMed: 31805132](https://www.ncbi.nlm.nih.gov/pubmed/31805132), [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226069)
+
+1. `2019` Parys AV, **Lysne V**, Svingen GFT, Ueland PM, Dhar I, Øyen J, Dierkes J and Nygård O. <br> **Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris**. Biochimie <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31707100), [Full text](https://reader.elsevier.com/reader/sd/pii/S0300908419303165?token=66DDCC5B71255E5EDB54BB663B46E53A86BA06853189C9C28E7855F1C42966D9B831C5365F79C2955AF8D9365D93DBEE)
 
 1. `2019` Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. <br> **Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease**. Eur J Nutr. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31502058), [Full text](https://link.springer.com/article/10.1007/s00394-019-02086-2)
 
@@ -55,6 +57,8 @@ tags: []
 [Back to the top of journal publications](#Journal)
 
 ## Other publications {#Other}
+
+1. `2020` Matre ÅO, Dierkes J, **Lysne V**. <br> Ernæringsforskning er ikke som annen forskning. Norsk Tidsskrift for Ernæring, 2020(2)
 
 1. `2019` Myklebust-Hansen T, **Lysne, V** <br> **FENS 2019: Malnutrition in an obese world – European perspective.** Norsk Tidsskrift for Ernæring 2019 (4).
 

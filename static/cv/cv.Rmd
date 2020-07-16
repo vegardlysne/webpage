@@ -65,6 +65,7 @@ tribble(
 \newpage
 # Publications in international peer-reviewed scientific journals
 
+1. Saeed S, Smith J, Grigoryan K, **Lysne V**, Rajani R, Chambers JB. The tricuspid annular plane systolic excursion to systolic pulmonary artery pressure index: Association with all-cause mortality in patients with moderate or severe tricuspid regurgitation. Int J Cardiol 2020 [PMID: 32512064](https://pubmed.ncbi.nlm.nih.gov/32512064/)
 1. Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort. BMJ Open, 2020 [PMID: 32444431](https://pubmed.ncbi.nlm.nih.gov/32444431)
 1. Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris. Int J Cardiol, 2020. [PMID: 32389762](https://www.ncbi.nlm.nih.gov/pubmed/32389762)
 1. Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin. Heart, 2020. [PMID:]()
@@ -88,6 +89,7 @@ tribble(
 
 # Other publications
 
+1. Matre ÅO, Dierkes J, **Lysne V**. Ernæringsforskning er ikke som annen forskning. Norsk Tidsskrift for Ernæring, 2020(2)
 1. Myklebust-Hansen T, **Lysne V**. FENS 2019: Malnutrition in an obese world - European perspective. Norsk Tidsskrift for Ernæring, 2019(4)
 1. Matre ÅO, **Lysne V**. B12-tilskudd uten B12-mangel. Norsk Tidsskrift for Ernæring, 2019(3). 
 1. **Lysne V**. 12. Internasjonale konferanse om enkarbonmetabolisme, B-vitaminer og homocystein. Norsk Tidsskrift for Ernæring, 2019(3).
@@ -104,6 +106,7 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Conference, ~ Presentation,
+   2020, "Sunn Idrett, Oslo, Norway", "Oral presentation",
    2019, "The European Nutrition Conference (FENS), Dublin, Ireland", "Poster presentation",
    2016, "Nordic Nutrition Conference, Gotenburg, Sweden", "",
    2018, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Halifax, Nova Scotia, Canada", "Poster presentation",
@@ -128,22 +131,34 @@ tribble(
   brief_entries(when = Year, what = Conference, with = Presentation)
 ```
 
-
+\newpage
 # Teaching experience
-During my years as PhD candidate I have taught at every semester of the bachelor and masters program in clinical nutrition at University of Bergen. I've held lectures on topics such as methods in nutrition research, nutritional biochemistry, food science, micronutrients, genetic disorders in nutrient metabolism and general nutrition in health and disease.
+I have taught at every semester of the bachelor and masters program in clinical nutrition at University of Bergen. I've held lectures on topics such as methods in nutrition research, nutritional biochemistry, food science, micronutrient metabolism, genetic disorders in nutrient metabolism and general nutrition in health and disease.
+
+# PhD candidate supervision
+```{r}
+tribble(
+   ~ Year, ~ Student, ~ Role,
+   2020, "Åslaug O Matre", "Main Supervisor",
+   2020, "Anthea Van Parys", "Main supervisor"
+) %>% 
+  arrange(desc(Year), Student) %>% 
+  brief_entries(when = Year, what = Student, with = Role)
+   
+```
 
 # Student supervision
 
 ```{r}
 tribble(
    ~ Year, ~ Student, ~ Degree,
-   2020, "Åslaug O. Matre", "MSc thesis",
+   2020, "Åslaug O Matre", "MSc thesis",
    2020, "Rosemarie Aaby and Ann Helen Børseth", "BSc theses",
-   2018, "Åslaug O. Matre and Henriette Holm", "BSc theses", 
+   2018, "Åslaug O Matre and Henriette Holm", "BSc theses", 
    2018, "Ingvild Marienborg", "MSc thesis",
    2017, "Jostein Sæle, Marcela Palma and Kristine S. Samuelsen", "MSc theses",
    2016, "Turid Bjørnsen Iversen", "BSc thesis",
-   2015, "Jostein Sæle, Helene Dahl, Caroline K. Jacobsen and Silje S. Vabø", "BSc theses"
+   2015, "Jostein Sæle, Helene Dahl, Caroline K Jacobsen and Silje S Vabø", "BSc theses"
 ) %>% 
   arrange(desc(Year), desc(Degree), Student) %>% 
   brief_entries(when = Year, what = Student, with = Degree)
@@ -153,6 +168,8 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Student, ~ Degree,
+   2020, "Maren T Aase and Andrea H Kalås", "MSc theses",
+   2020, "Elise Frederich", "BSc thesis",
    2018, "Eirin S Gjerde and Emilie H Markhus", "BSc theses",
    2017, "Trine Larsen, Helene Søiland and Miriam H Brandt", "MSc theses", 
    2016, "Tonje N Hustoft and Anita E Smette", "MSc theses",
@@ -163,7 +180,6 @@ tribble(
   brief_entries(when = Year, what = Student, with = Degree)
 ```
 
-\newpage
 # Organizations and comittees
 ```{r}
 tribble(
@@ -178,16 +194,16 @@ tribble(
 
 ```{r}
 tribble(
-   ~ Skill, ~ Description, ~ Level,
-   "R/Rstudio", "Statistical programming", "Experienced",
-   "SPSS", "Statistical software", "Experienced",
-   "STATA", "Statistical software", "Basic knowledge",
-   "Microsoft Office", "Word, Excel, Powerpoint, Outlook", "Experienced",
-   "Inkscape", "Vector graphics", "Intermediate",
-   "Git/GitHub", "Version control", "Basic",
-   "Norwegian", "Written and oral", "First language",
-   "English", "Written and oral", "Fluent") %>% 
-  brief_entries(when = Skill, what = Description, with = Level)
+   ~ Skill, ~ Level,
+   "R/Rstudio: Statistical programming, data handling and visualization", "Experienced",
+   "SPSS: Statistical software", "Experienced",
+   "STATA: Statistical software", "Basic knowledge",
+   "Microsoft Office: Word, Excel, Powerpoint, Outlook", "Experienced",
+   "Inkscape: Vector graphics", "Intermediate",
+   "Git/GitHub: Version control", "Basic",
+   "Norwegian, Written and oral", "First language",
+   "English, Written and oral", "Fluent") %>% 
+  brief_entries(what = Skill, with = Level)
 ```
 
 # References 
