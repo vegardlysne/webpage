@@ -16,6 +16,7 @@ This is a list of my presentations and posters at conferences and meetings.
 This talk on critical thinking, with a focus on how we are being misled by our own experiences and observations, was given at the annual conference organized by [Sunn Idrett](https://sunnidrett.no/), a focus area of The Norwegian Olympic and Paralympic Committee and Confederation of Sports ([Norges idrettsforbund](https://www.idrettsforbundet.no/)). In the presentation I touch upon topics like anecdotal evidence, regression towards the mean, survivorship bias, and how to deal with all the conflicting information on the topics of diet and exercise. 
 
 - Slides: [Kildekritikk og kritisk tenkning - begynn med deg selv](/contributions/presentations/sunnidrett_2020.pdf)
+- [Video](https://sunnidrett.no/se-opptakene-fra-sunn-idrett-konferansen-2020/)
 
 ## Mohn Nutrition Research Laboratory seminar, Solstrand, Bergen, Norway
 

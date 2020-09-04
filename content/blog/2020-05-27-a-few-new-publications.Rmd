@@ -19,14 +19,14 @@ projects: []
 ---
 Since the last update, I've been co-authoring three new papers. 
 
-# **Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort.** 
+## **Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort.** 
 
 This study, by first author Theresa Risan Haugsgjerd, was published in BMJ Open, check it out here: 
 
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/32444431)
 - [Full text](https://bmjopen.bmj.com/content/10/5/e035953.long)
 
-## Abstract
+### Abstract
 
 > **Objective:** The role of vitamin K in the regulation of vascular calcification is established. However, the association of dietary vitamins K1 and K2 with risk of coronary heart disease (CHD) is inconclusive.
 >
@@ -42,14 +42,14 @@ This study, by first author Theresa Risan Haugsgjerd, was published in BMJ Open,
 > 
 > **Conclusions:** A higher intake of vitamin K2 was associated with lower risk of CHD, while there was no association between intake of vitamin K1 and CHD.
 
-# Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris.
+## Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris.
 
 This study, led by Mads Malm Svenningsson, was published in the International Journal of Cardiology. Check it out here: 
 
 - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/32389762)
 - [Full text](https://www.internationaljournalofcardiology.com/article/S0167-5273(20)30694-X/pdf)
 
-## Abstract
+### Abstract
 
 > **Background/aim:** Plasma total homocysteine (tHcy) is elevated in patients with persistent vs. paroxysmal atrial fibrillation (AF), and has been related to increased risk of new-onset AF. Homocysteine is degraded to cystathionine (Cysta) and cysteine (Cys). All three metabolites have been linked to potential proarrhythmic traits such as inflammation and atrial fibrosis. We evaluated the prospective association between these metabolites and new-onset AF among patients with suspected stable angina pectoris.
 >
@@ -60,14 +60,14 @@ This study, led by Mads Malm Svenningsson, was published in the International Jo
 > **Conclusion:** Plasma tHcy and tCys, but not Cysta, were associated with, and improved risk classification of, new-onset AF among patients with stable angina pectoris. Our results motivate further studies to explore the relationship between homocysteine metabolism and cardiac arrhythmias.
 
 
-# Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin. 
+## Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin. 
 
 Indu Dhar led this work, which was published in Heart. Check it out here:
 
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/32398245/)
 - [Full text](https://heart.bmj.com/content/early/2020/05/12/heartjnl-2019-316165)
 
-## Abstract
+### Abstract
 
 > **Objectives:** Oxidised cholesterol metabolites are linked to increased production of the active vitamin A (Vit-A) form and monocyte/macrophage activation, which may be reflected by neopterin, a marker of both interferon-γ-mediated immune activation and coronary artery disease risk. We examined the influence of serum lipid parameters and Vit-A on the risk association between neopterin and incident acute myocardial infarction (AMI).
 >

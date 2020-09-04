@@ -19,7 +19,7 @@ library(tibble)
 ```
 
 # Professional summary
-I'm a clinical dietitian, currently working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. I'm an editorial board member in the Norwegian Journal of Nutrition, and in 2019 I led the organizing committee for the annual conference of the Norwegian Association of Clinical Dietitians.  
+I'm a clinical dietitian, currently working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. I'm a Review Editor in Frontiers in Nutrition, and an editorial board member in the Norwegian Journal of Nutrition. In 2019 I led the organizing committee for the annual conference of the Norwegian Association of Clinical Dietitians.  
 
 # Education
 ```{r education}
@@ -68,7 +68,7 @@ tribble(
 1. Saeed S, Smith J, Grigoryan K, **Lysne V**, Rajani R, Chambers JB. The tricuspid annular plane systolic excursion to systolic pulmonary artery pressure index: Association with all-cause mortality in patients with moderate or severe tricuspid regurgitation. Int J Cardiol 2020 [PMID: 32512064](https://pubmed.ncbi.nlm.nih.gov/32512064/)
 1. Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort. BMJ Open, 2020 [PMID: 32444431](https://pubmed.ncbi.nlm.nih.gov/32444431)
 1. Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris. Int J Cardiol, 2020. [PMID: 32389762](https://www.ncbi.nlm.nih.gov/pubmed/32389762)
-1. Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin. Heart, 2020. [PMID:]()
+1. Dhar I, Siddique S, Pedersen ER, Svingen GFT, **Lysne V**, Olsen T, Nilsen DW, Nordrehaug JE, Midttun Ø, Ueland PM, Tell GS and Nygård O. Lipid parameters and vitamin A modify cardiovascular risk prediction by plasma neopterin. Heart, 2020. [PMID: 32398245](https://pubmed.ncbi.nlm.nih.gov/32398245/)
 1. **Lysne V**, Bjørndal B, Grinna ML, Midttun Ø, Ueland PM, Berge RK, Dierkes J, Nygård O and Strand E. Short-term treatment with a peroxisome proliferator-activated receptor α agonist influences plasma one-carbon metabolites and B-vitamin status in rats. PLoS One, 2019. [PMID: 31805132](https://www.ncbi.nlm.nih.gov/pubmed/31805132)
 1. Parys AV, **Lysne V**, Svingen GFT, Ueland PM, Dhar I, Øyen J, Dierkes J and Nygård O. Dietary choline is related to increased risk of acute myocardial infarction in patients with stable angina pectoris. Biochimie, 2019. [PMID: 31707100](https://www.ncbi.nlm.nih.gov/pubmed/31707100)
 1. Olsen T, Vinknes KJ, Blomhoff R, **Lysne V**, Midttun Ø, Dhar I, Ueland PM, Svingen GFT, Pedersen ER, Drevon CA, Refsum H, Nygård O. Creatinine, total cysteine and uric acid are associated with serum retinol in patients with cardiovascular disease. Eur J Nutr, 2019. [PMID: 31502058](https://www.ncbi.nlm.nih.gov/pubmed/31502058)
@@ -184,6 +184,7 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Role, 
+   "2020-", "Review Editor, Frontiers in Nutrition", 
    "2019", "Leader of the Organizing comittee of the annual conference of The Norwegian Association of Dietitians",
    "2018-", "Member of the editorial board, Norwegian Journal of Nutrition (NTFE)",
    "2015-2018", "Member of the academic policy board, The Norwegian Association of Dietitians affilliated with The Norwegian Association of Researchers") %>% 
@@ -207,7 +208,8 @@ tribble(
 ```
 
 # References 
-```{r}
+On request
+```{r eval = F, include = F}
 tribble(
   ~ Name, ~ Contact, ~ Position, 
   "Jutta Dierkes", "Email: jutta.dierkes@uib.no, Tel: (+47) 95448279", "Professor, Centre for Nutrition, University of Bergen",
