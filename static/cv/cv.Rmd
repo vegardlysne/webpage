@@ -63,8 +63,9 @@ tribble(
 ```
 
 \newpage
-# Publications in international peer-reviewed scientific journals
+# Publications in international peer-reviewed journals
 
+1. Haugsgjerd TR, Egeland GM, Nygård OK, Igland J, Sulo G, **Lysne V**, Vinknes KJ, Bjornevik K, Tell GS. Intake of carbohydrates and SFA and risk of CHD in middle-age adults: the Hordaland Health Study (HUSK). Public Health Nutr 2020 [PMID: 32907659](https://pubmed.ncbi.nlm.nih.gov/32907659/)
 1. Saeed S, Smith J, Grigoryan K, **Lysne V**, Rajani R, Chambers JB. The tricuspid annular plane systolic excursion to systolic pulmonary artery pressure index: Association with all-cause mortality in patients with moderate or severe tricuspid regurgitation. Int J Cardiol 2020 [PMID: 32512064](https://pubmed.ncbi.nlm.nih.gov/32512064/)
 1. Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort. BMJ Open, 2020 [PMID: 32444431](https://pubmed.ncbi.nlm.nih.gov/32444431)
 1. Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris. Int J Cardiol, 2020. [PMID: 32389762](https://www.ncbi.nlm.nih.gov/pubmed/32389762)
@@ -102,6 +103,7 @@ tribble(
 1.	Olsen T, **Lysne V**. Ta faget tilbake. Norsk Tidsskrift for Ernæring, 2015(3).
 1.	Kverneland M, Christensen JJ, **Lysne V**. Lavkarbodietter har kommet for å bli, men hører hjemme i klinikken. Norsk Tidsskrift for Ernæring, 2015(2).
 
+\newpage
 # Conference attendance
 ```{r}
 tribble(
@@ -131,7 +133,6 @@ tribble(
   brief_entries(when = Year, what = Conference, with = Presentation)
 ```
 
-\newpage
 # Teaching experience
 I have taught at every semester of the bachelor and masters program in clinical nutrition at University of Bergen. I've held lectures on topics such as methods in nutrition research, nutritional biochemistry, food science, micronutrient metabolism, genetic disorders in nutrient metabolism and general nutrition in health and disease.
 
@@ -139,8 +140,8 @@ I have taught at every semester of the bachelor and masters program in clinical 
 ```{r}
 tribble(
    ~ Year, ~ Student, ~ Role,
-   2020, "Åslaug O Matre", "Main Supervisor",
-   2020, "Anthea Van Parys", "Main supervisor"
+   "2020-", "Åslaug O Matre", "Main Supervisor",
+   "2020-", "Anthea Van Parys", "Main supervisor"
 ) %>% 
   arrange(desc(Year), Student) %>% 
   brief_entries(when = Year, what = Student, with = Role)
