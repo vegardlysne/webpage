@@ -12,7 +12,9 @@ tags: []
 
 ## Journal publications {#Journal}
 
-1. `2020` Saeed S, Smith J, Grigoryan K, **Lysne V**, Rajani R, Chambers JB. <br> **The tricuspid annular plane systolic excursion to systolic pulmonary artery pressure index: Association with all-cause mortality in patients with moderate or severe tricuspid regurgitation.** Int J Cardiol <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32512064/) [Full Text](https://www.sciencedirect.com/science/article/pii/S0167527320310305)
+1. `2020` Haugsgjerd TR, Egeland GM, Nygård OK, Igland J, Sulo G, **Lysne V**, Vinknes KJ, Bjornevik K, Tell GS. <br> **Intake of carbohydrates and SFA and risk of CHD in middle-age adults: the Hordaland Health Study (HUSK).** Public Health Nutr <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32907659/), [Full Text](https://www.cambridge.org/core/journals/public-health-nutrition/article/intake-of-carbohydrates-and-sfa-and-risk-of-chd-in-middleage-adults-the-hordaland-health-study-husk/7739244CD6380545DAC7687B66063A2C/core-reader)
+
+1. `2020` Saeed S, Smith J, Grigoryan K, **Lysne V**, Rajani R, Chambers JB. <br> **The tricuspid annular plane systolic excursion to systolic pulmonary artery pressure index: Association with all-cause mortality in patients with moderate or severe tricuspid regurgitation.** Int J Cardiol <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32512064/),  [Full Text](https://www.sciencedirect.com/science/article/pii/S0167527320310305)
 
 1. `2020` Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. <br> **Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort.** BMJ Open <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32444431), [Full text](https://bmjopen.bmj.com/content/10/5/e035953.long)
 
