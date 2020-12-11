@@ -16,6 +16,9 @@ tags: []
 
 1. `2020` Saeed S, Smith J, Grigoryan K, **Lysne V**, Rajani R, Chambers JB. <br> **The tricuspid annular plane systolic excursion to systolic pulmonary artery pressure index: Association with all-cause mortality in patients with moderate or severe tricuspid regurgitation.** Int J Cardiol <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32512064/),  [Full Text](https://www.sciencedirect.com/science/article/pii/S0167527320310305)
 
+1. `2020` Parys AV, **Lysne V**, Øyen J, Dierkes J, Nygård O. 
+**No effect of plasma trimethylamine N-Oxide (TMAO) and plasma trimethyllysine (TML) on the association between choline intake and acute myocardial infarction risk in patients with stable angina pectoris** Human Nutrition & Metabolism <br> [Full text](https://www.sciencedirect.com/science/article/pii/S2666149720300025)
+
 1. `2020` Haugsgjerd TR, Egeland GM, Nygård OK, Vinknes KJ, Sulo G, **Lysne V**, Igland J and Tell GS. <br> **Association of Dietary Vitamin K and Risk of Coronary Heart Disease in Middle-Age Adults: The Hordaland Health Study Cohort.** BMJ Open <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32444431), [Full text](https://bmjopen.bmj.com/content/10/5/e035953.long)
 
 1. `2020` Svenningsson MM, Svingen GFT, **Lysne V**, Ueland PM, Tell GS, Pedersen ER, Dhar I, Nilsen DW and Nygård O. <br> **Transsulfuration metabolites and the association with incident atrial fibrillation - An observational cohort study among Norwegian patients with stable angina pectoris.** Int J Cardiol. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/32389762),  [Full text](https://www.internationaljournalofcardiology.com/article/S0167-5273(20)30694-X/pdf)
@@ -38,9 +41,9 @@ tags: []
 
 1. `2018` Dhar I, Svingen GFT, Ueland PM, **Lysne V**, Svenningsson MM, Tell GS, Nygård OK. <br> **Plasma Cystathionine and Risk of Incident Stroke in Patients With Suspected Stable Angina Pectoris.** J Am Heart Assoc. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30371177), [Full text](https://www.ahajournals.org/doi/full/10.1161/JAHA.118.008824)
 
-1. `2018` Bjørndal B, Bruheim I, Lysne V, Ramsvik MS, Ueland PM, Nordrehaug JE, Nygård OK, Berge RK. <br> **Plasma choline, homocysteine and vitamin status in healthy adults supplemented with krill oil: a pilot study.** Scand J Clin Lab Invest. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30261756), [Full text](https://www.tandfonline.com/doi/full/10.1080/00365513.2018.1512716)
+1. `2018` Bjørndal B, Bruheim I, **Lysne V**, Ramsvik MS, Ueland PM, Nordrehaug JE, Nygård OK, Berge RK. <br> **Plasma choline, homocysteine and vitamin status in healthy adults supplemented with krill oil: a pilot study.** Scand J Clin Lab Invest. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30261756), [Full text](https://www.tandfonline.com/doi/full/10.1080/00365513.2018.1512716)
 
-1. `2018` Dhar I, Lysne V, Seifert R, Svingen GFT, Ueland PM, Nygård OK. <br> **Plasma methionine and risk of acute myocardial infarction: Effect modification by established risk factors.** Atherosclerosis. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29621698)
+1. `2018` Dhar I, **Lysne V**, Seifert R, Svingen GFT, Ueland PM, Nygård OK. <br> **Plasma methionine and risk of acute myocardial infarction: Effect modification by established risk factors.** Atherosclerosis. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29621698)
 
 1. `2018` Strauss P, Marti HP, Beisland C, Scherer A, **Lysne V**, Leh S, Flatberg A, Koch E, Beisvag V, Landolt L, Skogstrand T, Eikrem ØS. <br> **Expanding the Utilization of Formalin-Fixed, Paraffin-Embedded Archives: Feasibility of miR-Seq for Disease Exploration and Biomarker Development from Biopsies with Clear Cell Renal Cell Carcinoma.** Int J Mol Sci. <br> [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29534467), [Full text](https://www.mdpi.com/1422-0067/19/3/803)
 
@@ -60,7 +63,7 @@ tags: []
 
 ## Other publications {#Other}
 
-1. `2020` Matre ÅO, Dierkes J, **Lysne V**. <br> Ernæringsforskning er ikke som annen forskning. Norsk Tidsskrift for Ernæring, 2020(2)
+1. `2020` Matre ÅO, Dierkes J, **Lysne V**. <br> **Ernæringsforskning er ikke som annen forskning.** Norsk Tidsskrift for Ernæring, 2020(2)
 
 1. `2019` Myklebust-Hansen T, **Lysne, V** <br> **FENS 2019: Malnutrition in an obese world – European perspective.** Norsk Tidsskrift for Ernæring 2019 (4).
 
