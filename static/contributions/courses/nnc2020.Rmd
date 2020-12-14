@@ -14,7 +14,7 @@ Return to [home](/).
 
 ---
 
-# Plenary and review sessions
+# Review sessions
 
 ## R1: A changing society and food-related behavior
 
@@ -109,12 +109,15 @@ Return to [home](/).
 
 ---
 
+# Plenary sessions
+
 ## P1: How to achieve healthy diets for all – a global perspective
 
 *Corinna Hawkes, University of London, UK* 
 
 - All income groups eat too little vegetables, whole-grains and legumes, and too much red meat
 - To improve diet, we need to work step by step to replace foods that offer little nutrition with foods that do
+- Food systems need to be reoriented toward healthier diets, in a coherent way
 
 ## P2: Genes and the prevention of type 2 diabetes, T2D-GENE trial
 
