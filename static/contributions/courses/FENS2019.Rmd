@@ -2,7 +2,6 @@
 title: "FENS 2019"
 output: 
   html_document:
-    anchor_sections: false
     toc: true
     toc_depth: 3
     toc_float: true
