@@ -2,13 +2,13 @@
 title: "FENS 2019"
 output: 
   html_document:
-    theme: darkly
     toc: true
     toc_depth: 3
     toc_float: true
+    theme: darkly
 ---
 
-These are my notes from the 13^th^ European Nutrition Conference, arranged in Dublin, Ireland, October 15-18 2019. 
+These are my notes from the 13^th^ European Nutrition Conference, arranged in Dublin, Ireland, October 15-18 2019.  
 
 Return to [home](/).
 
@@ -526,6 +526,7 @@ Did not attend this session
     - Breakpoint analyses suggest a cutoff for plasma riboflavin of 11 nmol/L
 
 ---
+
 ## COMMERCIAL SESSION Credibility vs. Clickbait: Communicating Nutrition Research to the Public - Eat Well Global
 
 ##### Session abstract

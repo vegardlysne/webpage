@@ -2,32 +2,26 @@
 title: "NNC 2020"
 output: 
   html_document:
-    theme: darkly
     toc: true
-    toc_depth: 3
+    toc_depth: 2
     toc_float: true
+    theme: darkly
 ---
 
 These are my notes from the Nordic Nutrition Conference 2020, arranged online, December 14-16 2020. 
-
-### Drivers across the lifecycle of malnutrition in an obese world - European perspectives {#keynote1}
-Return to [home](/).
-
-# Main take-home messages
-
 
 ---
 
 # Plenary and review sessions
 
-## R1: A changing society and food-related behavior {#R1}
+## R1: A changing society and food-related behavior {#R1} 
 
 
-### 1 .Change and stability in Nordic eating practices – a sociological perspective
+### 1. Change and stability in Nordic eating practices – a sociological perspective
 
 *Lotte Holm, University of Copenhagen, Denmark*
 
-
+- In Denmark and Norway there is an increase in "fast eating"
 
 ### 2. Has the meaning of a meal changed?
 
