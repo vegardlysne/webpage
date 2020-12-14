@@ -216,7 +216,7 @@ On request
 tribble(
   ~ Name, ~ Contact, ~ Position, 
   "Jutta Dierkes", "Email: jutta.dierkes@uib.no, Tel: (+47) 95448279", "Professor, Centre for Nutrition, University of Bergen",
-  "Ottar Nygård", "Email: per.ueland@ikb.uib.no, Tel: (+47) 55973147", "Professor, the heart department, Haukeland University Hospital") %>% 
+  "Ottar Nygård", "Email: ottar.nygard@helse-bergen.no, Tel: (+47) 55973147", "Professor, the heart department, Haukeland University Hospital") %>% 
   detailed_entries(with = Name, why = Contact, what = Position)
 ```
 

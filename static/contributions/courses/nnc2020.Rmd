@@ -1,0 +1,134 @@
+---
+title: "NNC 2020"
+output: 
+  html_document:
+    theme: darkly
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+These are my notes from the Nordic Nutrition Conference 2020, arranged online, December 14-16 2020. 
+
+### Drivers across the lifecycle of malnutrition in an obese world - European perspectives {#keynote1}
+Return to [home](/).
+
+# Main take-home messages
+
+
+---
+
+# Plenary and review sessions
+
+## R1: A changing society and food-related behavior {#R1}
+
+
+### 1 .Change and stability in Nordic eating practices – a sociological perspective
+
+*Lotte Holm, University of Copenhagen, Denmark*
+
+
+
+### 2. Has the meaning of a meal changed?
+
+*Johanna Mäkelä, University of Helsinki, Finland*
+
+### 3. Supporting consumers with individual level dietary change action: sweeteners as an example of a possible solution.
+
+*Monique Raats, University of Surrey, UK*
+
+---
+
+## R2: Modern methods for dietary analysis {#R2}
+
+### 1. Use of loyalty-card data in assessment of food consumption in the population
+
+*Jaakko Nevalainen, Tampere University, Finland*
+
+### 2. Improving the accuracy of dietary intake assessment: From cameras to molecules
+
+*Gary Frost, London Imperial College, UK*
+
+### 3. Challenges of collecting dietary data in low and middle income countries
+
+*Jennifer Coates, Tufts University, USA*
+
+---
+
+## R3: Vitamin D – requirements and public health policies in debate {#R3}
+
+### 1. Does vitamin D have a role in the prevention of non-skeletal diseases?
+
+*Lars Rejnmark, Aarhus University, Denmark*
+
+### 2. Different vitamin D policies in the Nordic countries – effects on vitamin D intake and status
+
+*Suvi Itkonen, University of Helsinki, Finland*
+
+### 3. Ethnic groups and vitamin D: a common challenge in the Nordic countries?
+
+*Ahmed Ali Madar, University of Oslo, Norway*
+
+---
+
+## R4: Quality of fat – beyond cardiovascular benefits {#R4}
+
+### 1. Brown fat – an update
+
+*Kirsi Virtanen, University of Eastern Finland and University of Turku, Finland*
+
+### 2. Diet and liver fat
+
+*Ulf Risérus, Uppsala, Sweden*
+
+### 3. Glucose metabolism and low-grade inflammation
+
+*Maria Lankinen, University of Eastern Finland, Finland*
+
+---
+
+## R5: Prevention of type 2 diabetes: what did we learn from the DPS and PREVIEW projects? {#R5}
+
+### 1. Dietary regulation of glucose metabolism – implication for prevention and treatment of type 2 diabetes
+
+*Michael Lean, University of Glasgow, UK*
+
+### 2. DPS
+
+*Jaana Lindström, Finnish Institute for Health and Welfare, Finland*
+
+### 3. PREVIEW
+
+*Anne Raben, University of Copenhagen, Denmark* 
+
+
+
+---
+
+## P1: How to achieve healthy diets for all – a global perspective {#P1}
+
+*Corinna Hawkes, University of London, UK* 
+
+## P2: Genes and the prevention of type 2 diabetes, T2D-GENE trial {#P2}
+
+*Markku Laakso, University of Eastern Finland, Finland*
+
+
+## P3: {#P3}
+
+---
+
+# Sponsored sessions
+
+## A scientific deep dive into the issues of meat – nutrition, health and sustainability {#S4}
+
+## Dairy in a modern, sustainable diet {#S2}
+
+## Discover the role of the microbiome in host metabolism and health {#S3}
+
+---
+
+# Oral and poster sessions
+
+
+
