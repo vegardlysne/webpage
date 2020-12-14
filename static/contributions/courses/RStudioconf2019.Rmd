@@ -4,6 +4,7 @@ author: "Vegard"
 date: "17-18 januar 2019"
 output: 
   html_document:
+    anchor_sections: false
     toc: true
     toc_depth: 2
     toc_float: true
