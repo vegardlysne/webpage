@@ -10,6 +10,8 @@ output:
 
 These are my notes from the Nordic Nutrition Conference 2020, arranged online, December 14-16 2020. 
 
+[My poster](/contributions/posters/NNC2020.pdf)
+
 Return to [home](/).
 
 ---
@@ -23,9 +25,6 @@ Return to [home](/).
 *Lotte Holm, University of Copenhagen, Denmark*
 
 - In Denmark and Norway there is an increase in "fast eating"
-
-### 2. Has the meaning of a meal changed?
-*Johanna Mäkelä, University of Helsinki, Finland*
 
 ### 3. Supporting consumers with individual level dietary change action: sweeteners as an example of a possible solution.
 *Monique Raats, University of Surrey, UK*
@@ -54,24 +53,33 @@ Return to [home](/).
 - Dietary assessment is notoriously imprecise
 - Camera technology is being developed to recognize and quantify food intake
 
-### 3. Challenges of collecting dietary data in low and middle income countries
-*Jennifer Coates, Tufts University, USA*
-
 ---
 
 ## R3: Vitamin D – requirements and public health policies in debate
 
 ### 1. Does vitamin D have a role in the prevention of non-skeletal diseases?
-
 *Lars Rejnmark, Aarhus University, Denmark*
+
+- Observational studies have consistently reported associations between low plasma 25(OH)D and non-skeletal outcomes
+- Few studies have investigated the effect of increasing plasma 25(OH)D
+- Vitamin D and muscle strength and function
+    - Several RCT's retracted for scientific fraud (Sato et al)
+    - Several studies not placebo controlled
+
+My question: 
+- In many RCT's of vitamin D supplementation, the participants are allowed to supplement outside the study treatment, resulting in considerable vitamin D intakes also in the control group, which of course may dilute any real effect. How did you take this into account when reviewing the literature? Do you think that this (potentially misleading) message of "no effect" from RCT's may convince people who could actually benefit from supplementation to refrain from it?
+    - Vitamin D is very hard to study, because you can take supplements without knowing it, get it from the sun etc. 
 
 ### 2. Different vitamin D policies in the Nordic countries – effects on vitamin D intake and status
 
 *Suvi Itkonen, University of Helsinki, Finland*
 
+
 ### 3. Ethnic groups and vitamin D: a common challenge in the Nordic countries?
 
 *Ahmed Ali Madar, University of Oslo, Norway*
+
+- Cultural habits such as wearing a veil, as well as darker skin, contribute to low vitamin D status among some ethnic groups in the Nordic countries
 
 ---
 
@@ -91,7 +99,22 @@ Return to [home](/).
 
 ---
 
-## R5: Prevention of type 2 diabetes: what did we learn from the DPS and PREVIEW projects? 
+## R5: Gut in the perspective
+
+### 1. IBS – what is the best treatment?
+*Magnus Simrén, University of Gothenburg, Sweden*
+
+- Reassure the patients and give a confident diagnosis, we do not cure IBS
+
+
+### 2. Gluten sensitivity
+*Juha Taavela, Tampere University, Finland*
+
+
+
+---
+
+## R6: Prevention of type 2 diabetes: what did we learn from the DPS and PREVIEW projects? 
 
 ### 1. Dietary regulation of glucose metabolism – implication for prevention and treatment of type 2 diabetes
 
@@ -105,7 +128,36 @@ Return to [home](/).
 
 *Anne Raben, University of Copenhagen, Denmark* 
 
+---
 
+## R9: New Nordic Nutrition Recommendations – towards 2022
+
+### 1. Introduction to NNR
+*Inge Tetens, University of Copenhagen, Denmark (5 min)*
+
+### 2. The NNR 2022 project status
+*Rune Blomhoff, University of Oslo, Norway (35 min)* 
+
+### 3. Integration of sustainability into NNR
+*Helle Margrete Meltzer, University of Oslo, Norway, and Ellen Trolle, DTU, Denmark (20 min)*
+
+### 4. Discussion and feedback 
+
+
+---
+
+R12
+Chairs: Mikael Fogelholm, Kirsi Laitinen
+Diet and the UN Sustainability development Goals
+
+1. Food and environmental sustainability – challenges in impact assessment
+Hanna Tuomisto, University of Helsinki, Finland 
+
+2. Sustainable future and global policies for food and diet
+Marco Springmann, University of Oxford, UK 
+
+3. Equity and diet: women, men or other risk groups?
+Gun Roos, National Institute for Consumer Research, Norway 
 
 ---
 
@@ -132,6 +184,21 @@ Return to [home](/).
 
 ## A scientific deep dive into the issues of meat – nutrition, health and sustainability
 
+*Arne Astrup*
+- Large effects in nutrition is implausible (ref Ioannidis)
+- Hill's criteria, small effects are not relevant
+
+My questions
+- What is the rationale to claim that only large relative risk estimates (>2.0) are important? This is entirely depending on which contrast you compare. The same underlying association can easily be expressed as a small or large relative effect by changing what is considered one "unit increase" (e.g. reporting per 100g increase vs per 50g increase would double the observed relative risk).
+- When talking about PURE, it is really not surprising that observed associations differ from what is observed in western populations. In western populations, higher meat intake is associated with lower socioeconomic status, while i the majority of countries included in PURE, higher meat intake is associated with higher socioeconomic status. We know that socioeconomic status is an important predictor of health outcomes. So, when considering dietary guidelines in western societies, what is the relevance of PURE?
+    - **Answer:** Studies in different populations where meat is differently associated with socioeconomic status suggests that there is a considerable confounding effect of socioeconomic status that is hard to disentangle
+
+*Francisco Zagmutt*
+
+My questions:
+- There are many key differences between nutrition and drug studies, not limited to: 1) Lack of unexposed group, 2) Continuous exposure, meaning we need to compare varying degrees of exposure rather than exposed vs non-exposed, 3) non-differential measurement error in the in the exposure, which is expected to attenuate observed associations, 
+4) all food containing energy, meaning that whenever we eat something we do not eat something else, so we are really talking about substitution effects, 5) Studies are mainly done in the context of prevention among healthy, not treatment of the sick, also contributing to smaller effect sizes. Q: With these things in mind, do you really think it is rational to judge nutritional research on the same criteria as we do with drug research, as e.g. applying the GRADE criteria which is specifically developed for situations where high-quality RCTs are feasible? Is this really about lowering the bar, or is it about interpreting the evidence in a relevant context and not set unrealistic expectations?
+
 ## Dairy in a modern, sustainable diet
 
 ## Discover the role of the microbiome in host metabolism and health
@@ -143,38 +210,21 @@ Return to [home](/).
 ## 290: Discourses on successful weight maintenance
 *Anu Joki, University of Helsinki, Finland*
 
-> Abstract
-> Introduction: Public health strategies encourage people to maintain a stable weight, and medicalizing
-obesity promotes the universal desirability of weight control. Today’s society widely reports and describes
-dieting, weight concerns and body dissatisfaction as normative. As discourses guide the ways in which
-people see the world and act within it, it is essential to study what kind of discourses successful weight
-maintainers use when they give meaning to and explain their weight management.
->
-> Aim: This study explores successful weight management using qualitative methods. We aim to determine
-the characteristic ways of understanding and describing weight management among those who have
-succeeded in weight management and those who continue to struggle with it. Of particular interest is how
-successful weight maintainers explain their success and how they talk about weight-related issues.
->
-> Methods: By exploring these discourses, we can access different versions of reality, which enables us to
-obtain a deeper understanding of weight management. Data were collected through thematic interviews
-of both lifelong (39 normal-weight individuals) and weight-loss weight maintainers (20 former PREVIEW
-intervention study participants). Our analysis compared their discourses.
->
->Results: Weight-loss weight maintainers’ discourses were built around various dichotomies, such as
-past/present, normal/abnormal, pleasure/rationality, which they used to explain (un)successful weight
-management. In contrast, lifelong weight maintainers more holistically constructed weight management as
-an adopted lifestyle, and explained their success by emphasizing flexibility, a permissive mindset, and
-internalized habits.
->
->Discussion: By shedding light on the alternative discourse that weight maintainers use to construct weight
-management positively as an achievable issue, we aim to challenge dominant weight
-management discourses and inspire people to stop dieting.
-
 - Lifelong weight maintainers focus more on lifestyle factors, while weight-loss weight maintainers focus more on control and external causes. 
     - External causes are mostly used to explain weight gain or lack of weight loss. 
     - Control is mostly used to explain successful weight loss/management. 
     - Life-long weight maintainers experience their weight management as a natural part of their lifestyle (being physically active etc)
 
+## 125 Association between milk consumption and mortality in a Swedish cohort
+*Emily Sonested, Lund University, Sweden*
 
+- Higher intakes of nonfermented milk was associated with higher mortality risk, while inverse associations were observed with fermented milk. 
+- Participants with genes indicating lactose intolerance (and subsequent lower milk intakes), had lower mortality risk.
 
+## 168: High cholesterol levels in young adults in Norway
+*Lena Leder, Mills, Norway*
+
+- A high proportion in the young age groups have elevated plasma cholesterol
+- Elevated cholesterol is asymptomatic, and is therefore not necessarily found
+- There is a need for testing before the currently recommendations of testing at ages > 40 years
 
