@@ -6,6 +6,7 @@ output:
     toc_depth: 2
     toc_float: true
     theme: darkly
+    
 ---
 
 These are my notes from the Nordic Nutrition Conference 2020, arranged online, December 14-16 2020. 
@@ -67,6 +68,7 @@ Return to [home](/).
     - Several studies not placebo controlled
 
 My question: 
+
 - In many RCT's of vitamin D supplementation, the participants are allowed to supplement outside the study treatment, resulting in considerable vitamin D intakes also in the control group, which of course may dilute any real effect. How did you take this into account when reviewing the literature? Do you think that this (potentially misleading) message of "no effect" from RCT's may convince people who could actually benefit from supplementation to refrain from it?
     - Vitamin D is very hard to study, because you can take supplements without knowing it, get it from the sun etc. 
 
@@ -132,32 +134,56 @@ My question:
 
 ## R9: New Nordic Nutrition Recommendations – towards 2022
 
-### 1. Introduction to NNR
-*Inge Tetens, University of Copenhagen, Denmark (5 min)*
-
-### 2. The NNR 2022 project status
-*Rune Blomhoff, University of Oslo, Norway (35 min)* 
-
 ### 3. Integration of sustainability into NNR
 *Helle Margrete Meltzer, University of Oslo, Norway, and Ellen Trolle, DTU, Denmark (20 min)*
+
+- Operationalization of diet sustainability, 4 domains
+    - Health and nutrition (nutrient content, diet quality)
+    - Environment: protective of the environment (greenhouse gas emission etc)
+    - Culture: culturally acceptible, considering common diet and willingness to change
+    - Economy: accessible and affordable (food budget, fair price for producers, etc)
+- It should be clear what part of the recommendations are based on health, environmental sustainability, or other indicators
 
 ### 4. Discussion and feedback 
 
 
 ---
 
-R12
-Chairs: Mikael Fogelholm, Kirsi Laitinen
-Diet and the UN Sustainability development Goals
+## R12: Diet and the UN Sustainability development Goals
 
-1. Food and environmental sustainability – challenges in impact assessment
-Hanna Tuomisto, University of Helsinki, Finland 
+### 1. Food and environmental sustainability – challenges in impact assessment
+*Hanna Tuomisto, University of Helsinki, Finland* 
 
-2. Sustainable future and global policies for food and diet
-Marco Springmann, University of Oxford, UK 
+- Carbon footprint is depending on several different domains
+    - Land use
+    - Transport
+    - Processing
+    - Livestock
+- Unit of analysis impact the conclusions
+    - Per kg
+    - Per protein
+    - Per kcal
+    - Per unit of specific nutrients
+- Life-cycle assessments cannot be compared directly unless the methodologies align
 
-3. Equity and diet: women, men or other risk groups?
-Gun Roos, National Institute for Consumer Research, Norway 
+### 2. Sustainable future and global policies for food and diet
+*Marco Springmann, University of Oxford, UK* 
+
+- When we eat above what can be considered sustainable globally, we offload the responsibility to others to eat less. 
+- Previously, when people had less money, they ate less. Now, with a large supply of cheap, energy dense foods, those with less money eat less. 
+
+
+### 3. Equity and diet: women, men or other risk groups?
+*Gun Roos, National Institute for Consumer Research, Norway* 
+
+- Gender
+    - Men report more meat and potatoes. 
+    - Women report more fruits and berries, vegetables, pulses, nuts and seeds
+- Socioeconomic background
+    - Those with higher education report eating more vegetable, fruit, whole-grains
+    - Lower education associated with higher intakes of soft drinks
+- Ethnic groups
+    - The population is becoming more diverse
 
 ---
 
@@ -171,12 +197,12 @@ Gun Roos, National Institute for Consumer Research, Norway
 - To improve diet, we need to work step by step to replace foods that offer little nutrition with foods that do
 - Food systems need to be reoriented toward healthier diets, in a coherent way
 
-## P2: Genes and the prevention of type 2 diabetes, T2D-GENE trial
+## P3: Public Health Nutrition – scientific insight and solutions for the next 20 years
 
-*Markku Laakso, University of Eastern Finland, Finland*
+*Adam Drewnowski, University of Washington, USA*
 
-
-## P3:
+- A hybrid mode combining in-person and remote teaching will probably remain
+- Education has a bigger impact on what we eat than income
 
 ---
 
@@ -185,10 +211,12 @@ Gun Roos, National Institute for Consumer Research, Norway
 ## A scientific deep dive into the issues of meat – nutrition, health and sustainability
 
 *Arne Astrup*
+
 - Large effects in nutrition is implausible (ref Ioannidis)
 - Hill's criteria, small effects are not relevant
 
 My questions
+
 - What is the rationale to claim that only large relative risk estimates (>2.0) are important? This is entirely depending on which contrast you compare. The same underlying association can easily be expressed as a small or large relative effect by changing what is considered one "unit increase" (e.g. reporting per 100g increase vs per 50g increase would double the observed relative risk).
 - When talking about PURE, it is really not surprising that observed associations differ from what is observed in western populations. In western populations, higher meat intake is associated with lower socioeconomic status, while i the majority of countries included in PURE, higher meat intake is associated with higher socioeconomic status. We know that socioeconomic status is an important predictor of health outcomes. So, when considering dietary guidelines in western societies, what is the relevance of PURE?
     - **Answer:** Studies in different populations where meat is differently associated with socioeconomic status suggests that there is a considerable confounding effect of socioeconomic status that is hard to disentangle
@@ -196,30 +224,60 @@ My questions
 *Francisco Zagmutt*
 
 My questions:
+
 - There are many key differences between nutrition and drug studies, not limited to: 1) Lack of unexposed group, 2) Continuous exposure, meaning we need to compare varying degrees of exposure rather than exposed vs non-exposed, 3) non-differential measurement error in the in the exposure, which is expected to attenuate observed associations, 
 4) all food containing energy, meaning that whenever we eat something we do not eat something else, so we are really talking about substitution effects, 5) Studies are mainly done in the context of prevention among healthy, not treatment of the sick, also contributing to smaller effect sizes. Q: With these things in mind, do you really think it is rational to judge nutritional research on the same criteria as we do with drug research, as e.g. applying the GRADE criteria which is specifically developed for situations where high-quality RCTs are feasible? Is this really about lowering the bar, or is it about interpreting the evidence in a relevant context and not set unrealistic expectations?
 
 ## Dairy in a modern, sustainable diet
 
-## Discover the role of the microbiome in host metabolism and health
+*Ida Berg Hauge*
+
+- All nordic countries recommend low-fat dairy
+    - Sweden: emphasize enriched with vitamin D
+    - Denmark and Finland: emphasize low-fat cheese
+- 50% of nordic teenagers have knowledge about the recommendation, 87% think they are trustworthy, but 20% think the recommendations are outdated/old-fashioned. 
+- In teenagers, 60% understands "plant-based" as eating a vegan diet, 27% understand it as vegetarian/flexitarian. 
+    - If we want to convince people to eat more plants, but not necessarily exclusively, the term plant-based may be problematic. 
+    
+*Stephan Peters*
+
+- The effect of replacing/removing meat and dairy on nutrients (estimated from dutch dietary intakes)
+    - Less protein, SFA, calcium, zinc, vitamin A, thiamin, B12
+    - More Fibre, Iron (non-heme) and vitamin D
+- Optimeal 
+    - calculates which food groups must increase to compensate for the nutrients lost when reducing e.g. meat. 
+    - Calculate the effect on carbon footprint, and price
+    - https://www.optimeal.nl/licences/demo/
+    
+*Adam Drewnowski*
+
+- When estimating price of foods, should it be based on price per g, or price per kcal?
+    - Depend on the political goal 
+    - If you want healthy foods to appear cheaper, base the estimation on g
+    - If you want healthy foods to appear more expensive, base the estimation on kcal
+- Weight is not a good metric of nutrition
+    - Comparing foods based on weight does not make sense, because 1 kg of food X is something entirely different than 1 kg of food y with regard to energy, protein, etc. 
+
 
 ---
 
 # Oral and poster presentations
 
-## 290: Discourses on successful weight maintenance
-*Anu Joki, University of Helsinki, Finland*
-
-- Lifelong weight maintainers focus more on lifestyle factors, while weight-loss weight maintainers focus more on control and external causes. 
-    - External causes are mostly used to explain weight gain or lack of weight loss. 
-    - Control is mostly used to explain successful weight loss/management. 
-    - Life-long weight maintainers experience their weight management as a natural part of their lifestyle (being physically active etc)
-
 ## 125 Association between milk consumption and mortality in a Swedish cohort
 *Emily Sonested, Lund University, Sweden*
 
-- Higher intakes of nonfermented milk was associated with higher mortality risk, while inverse associations were observed with fermented milk. 
+- Higher intakes of non-fermented milk was associated with higher mortality risk, while inverse associations were observed with fermented milk. 
 - Participants with genes indicating lactose intolerance (and subsequent lower milk intakes), had lower mortality risk.
+
+## 149: Effects of Dietary Carbohydrates on Plasma Saturated Fatty Acids: a Randomized Controlled Feeding Study
+*Mohammed Bajahzer, Uppsala University, Sweden*
+
+- Carbohydrate quantity and quality may influence plasma lipids originating from de novo lipogenesis
+- Lowcarbohydrate vs high carbohydrate/high fibre vs high carbohydrate/high sugar
+    - No major effect on circulating palmitate
+    - Higher myristate with high sugar
+    - Lower palmitoleate after low-carb
+
 
 ## 168: High cholesterol levels in young adults in Norway
 *Lena Leder, Mills, Norway*
@@ -228,3 +286,10 @@ My questions:
 - Elevated cholesterol is asymptomatic, and is therefore not necessarily found
 - There is a need for testing before the currently recommendations of testing at ages > 40 years
 
+## 290: Discourses on successful weight maintenance
+*Anu Joki, University of Helsinki, Finland*
+
+- Lifelong weight maintainers focus more on lifestyle factors, while weight-loss weight maintainers focus more on control and external causes. 
+    - External causes are mostly used to explain weight gain or lack of weight loss. 
+    - Control is mostly used to explain successful weight loss/management. 
+    - Life-long weight maintainers experience their weight management as a natural part of their lifestyle (being physically active etc)
