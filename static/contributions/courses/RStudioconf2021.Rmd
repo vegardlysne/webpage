@@ -1,0 +1,324 @@
+---
+title: "RStudio::conf2021 notes"
+author: "Vegard"
+date: "21 january 2021"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: darkly
+---
+
+```{r eval=F, echo=F}
+# Take-homes and other information not knitted
+
+# - Join Mailing list for tidyverse updates
+
+```
+
+These are my personal notes from RStudio::conf2021. 
+
+Return to [home](/).
+
+# Keynotes
+
+---
+
+## Maintaining the house the tidyverse built
+
+### **Hadley Wickham**, *RStudio*
+
+#### Abstract
+> Hadley will talk about how the tidyverse has evolved since its creation (just five years ago!). You'll learn about our greatest successes, learn from our biggest failures, and get some hints of what's coming down the pipeline for the future.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40521)
+
+#### Notes
+
+- Your code that worked perfectly before, may no longer work at a later point, although it hasn't changed
+- Updating packages
+    - If you use code from a package, it may change when you update the package
+    - Any update may break code
+- Tidyverse functions: 
+    - Experimental
+        - "Out of warranty"
+        - New functions
+    - Deprecated
+        - "Out of warranty"
+        - Was a bad idea, stop use this function
+        - It still works, and does what it used to do
+        - Will be removed in the future
+    - Stable
+        - "In warranty"
+        - Most functions are in this category
+    - Superseded
+        - "In warranty"
+        - It works, but better alternatives have been developed
+        - Will not be removed, but also not updated
+        - When updating old projects, only update superseded functions if needed. If not, the code will still work as it did. 
+- Breaking changes
+    - Removing functions
+    - Remove argument
+    - Restrict allowed inputs
+    - Changing the output
+- Non-breaking changes
+    - Adding functions
+    - adding arguments
+    - expanding allowed inputs
+- "Off-label" use of functions
+    - The original author have no way of anticipating your way of using the function, which increases the risk of code breaking
+    - Are you using the function because it does what you want (intended or unintended side effect?), or because it does what it says it does
+
+---
+
+## Reporting on and visualising the pandemic
+
+### **John Burn-Murdoch**, *Financial Times*
+
+#### Abstract
+> John will discuss the lessons he's learned reporting on and visualising the pandemic, including the world of difference between making charts for a technical audience and making charts for a mass audience. You'll learn from his experience navigating the highly personal and political context within which people consume and evaluate graphics and data, and how that can help us better design and communicate with visualisations down the pipeline for the future.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40615)
+- Data viz 
+
+#### Notes
+
+- To be able to make effective visualizations, you need to understand how people consume charts
+- [Eye tracking experiment](https://ieeexplore.ieee.org/document/7192646)
+    - Peoples eyes are first drawn to the title of the chart
+    - You can have everything else right, but still have an ineffective plot if the title is not good 
+- When presenting a plot, there's lots of assumed knowledge (what information does the type of graph convey etc)
+- Including an active title, text and annotation, telling the main message of the plot, helps non-plot people to understand what's going on
+- If people are confused by your chart, that's on you, not them
+- Visualization of information is personal and political, which we need to keep in mind to minimize the risk of bad reactions
+- Animations can be really effective to tell a story, compared to static charts
+- Focus on getting the core message across, as easy as possible to understand. Making the plot as close to the truth as possible doesn't matter as much as we think it does
+- Make graphics not just for graphics editors and chart-people, but for everyone. 
+
+---
+
+## Your Public Garden
+
+### **Vicky Boykis**, *Automattic*
+
+#### Abstract
+> Vicky will discuss how that as people who can write code and analyze data, we have a lot of input and power over what our digital and work worlds looks like, and therefore can act as agents of change and repair.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40643)
+
+#### Notes
+
+- 
+
+---
+
+# Talks
+
+---
+
+## Always look on the bright side of plots
+
+### **Kara Woo**, *Sage Bionetworks*
+
+#### Abstract
+> Everyone who creates visualizations in R is bound to make mistakes that prevent their plots from looking as they should. Sometimes, these mistakes create beautiful "accidental aRt", though other times they're just plain frustrating. Either way, however, there's something to be learned. This talk will draw on years of watching both the ggplot2 issue tracker and the @accidental__aRt twitter account to highlight some common plot foibles and explain what they can teach us about how ggplot2 works.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40618)
+
+#### Notes
+- ggplot2 is a data first approach to building visualizations
+- **Mapping mishaps**
+    - aesthetics map visual elements to variables in the data
+    - when adding text with `geom_text()`, x, y and label should only be mapped with aesthetics if they are corresponding to variables. If you add a specific text element by hand, mapping it with `aes()` repeat the text element `nrow(data)` times, making the plot slow and text pixelated. 
+    - `annotate()` is built to add single text elements to the plot. 
+- **Scale snafus**
+    - Setting limits to the scale vs the coordinate systems.
+    - When setting scale limits, data outside the limits are set to `NA`, and not included in summaries. 
+    - Setting the limits on the coordinate systems only zooms in on the plot
+- **Theme threats**
+    - The most specific theme element wins. Example: `axis.text.y.right` overrides `axis.text.y`, which overrides `axis.text`
+    - If a more specific theme element is specified in the theme, for example `axis.text.y.right`, then setting `axis.text.y` will not affect the right y-axis text, which in that case need to be set specifically. 
+
+---
+
+## A New Paradigm for Multifigure, Coordinate-Based Plotting in R
+
+### **Nicole Kramer**, *University of North Carolina at Chapel Hill*
+
+#### Abstract
+> R is unparalleled in its ability to transform raw data into a wide array of beautiful graphics, all within the same environment. However, when it comes to complex, multi-paneled plots, users rely on 3rd party graphic design software to arrange plots. Here I present the new world of programmatic, coordinate-based multi-figure plotting in R. Employing grid Graphics and drawing from the paradigms of base plotting and ggplot2, I am developing a package that will revolutionize the way plots are laid out in R. Not only will individual plots be aesthetically customizable and tailored for speed, users will also be offered exquisite control over all aspects of page layout, plot placement, and arrangements. Come join me in changing how we plot in R!
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40633)
+- Package: [BentoBox](https://rdrr.io/github/PhanstielLab/BentoBox/)
+
+#### Notes
+
+- Specifically made to plot large genomic data
+- Other tools like `patchwork` or `cowplot` are not equally specific 
+- `bb_makePage()` creates a bentobox page
+- Hopefully extended to all other kinds of data in the future
+
+---
+
+## Art Lessons: One Year as RStudio’s Artist-in-Residence
+
+### **Allison Horst**, *RStudio*
+
+#### Abstract
+> Art can be a welcoming bridge for learners and users to engage with and learn tools and skills in R. As RStudio's first Artist-in-Residence, my goal has been to make the R landscape more welcoming for a broader community of users through engaging, didactic artwork. In this R, art, and heart-filled talk, I'll share the motivation behind my R artwork and some lessons learned over the past year as Artist-in-Residence, including:
+> 
+> - Learning to embrace cute and credible artwork
+> - Art to help students engage with, learn and remember R skills
+> - Art for community building and support
+> 
+> I hope this talk inspires viewers to use, create and share more artwork, so that together we can make the R landscape feel even brighter.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40597)
+
+#### Notes
+
+- Art can help learners remember new functions
+
+---
+
+## Aesthetically automated figure production
+
+### **Megan Beckett**, *Exegetic Analytics*
+
+#### Abstract
+> Automation, reproducibility, data driven. These are not normally concepts one would associate with the traditional publishing industry, where designers normally manually produce every artefact in proprietary software. And, when you have 1000s of figures to produce and update for a single textbook, this becomes an insurmountable task, meaning our textbooks quickly become outdated, especially in our rapidly advancing world.
+> 
+> With R and the tidyverse in our back pocket, we rose to the challenge to revolutionize this workflow. I will explain how we  collaborated with a publishing group to develop a system to aesthetically automate the production of figures for a textbook  including translations into several languages.
+> 
+> I think you all find this talk interesting as it shows how we applied tools that are familiar to us, but in an unconventional > way to fundamentally transform a conventional process.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40627)
+
+---
+
+## What's new in tidymodels?
+
+### **Max Kuhn**, *RStudio*
+
+#### Abstract
+> Tidymodels is a collection of packages for modeling using a tidy interface. In the last year there have been numerous improvements and extensions. This talk gives an overview of additional tuning methods, new extension packages for models and recipes, and other features.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40625)
+[Model definitions and code](https://rstd.io/global2021/maxkuhn)
+
+---
+
+## Using R to Up Your Experimentation Game
+
+### **Shirbi Ish-Shalom**, *AFFILIATION*
+
+#### Abstract
+> Have you ever cut an A/B test short? Maybe because of traffic constraints, your antsy boss, or early successful results. In reality, cutting your test short can be catastrophic, making your business decision no better than a coin flip. Learn some R-driven tips & tricks to get meaningful results quickly with a statistically rigorous methodology called sequential testing, an A/B testing enhancement my team employs at Intuit.
+> 
+> Key Takeaways.
+> 
+> 1. What is sequential testing and how to use it.
+> 2. How to learn (and fail!) quickly by taking big metric swings
+> 3. How I used R to share my learnings & make them useful for anyone (even non-data scientists!) at my company.
+
+#### Resources
+
+---
+
+## Fairness and Data Science: Failures, Factors, and Futures
+
+### **Grant Fleming**, *Elder research*
+
+#### Abstract
+> In recent years, numerous highly publicized failures in data science have made evident that biases or issues of fairness in training data can sneak into, and be magnified by, our models, leading to harmful, incorrect predictions being made once the models are deployed into the real world. But what actually constitutes an unfair or biased model, and how can we diagnose and address these issues within our own work? In this talk, I will present a framework for better understanding how issues of fairness overlap with data science as well as how we can improve our modeling pipelines to make them more interpretable, reproducible, and fair to the groups that they are intended to serve. We will explore this new framework together through an analysis of ProPublica's COMPAS recidivism dataset using the tidymodels, drake, and iml packages.
+
+#### Resources
+
+-[Video](https://global.rstudio.com/student/page/40610)
+
+---
+
+## tidymodels/stacks, Or, In Preparation for Pesto: A Grammar for Stacked Ensemble Modeling
+
+### **Simon Couch**, *Reed College*
+
+#### Abstract
+> Through a community survey conducted over the summer, the RStudio tidymodels team learned that users felt the #1 priority for future development in the tidymodels package ecosystem should be ensembling, a statistical modeling technique involving the synthesis of multiple learning algorithms to improve predictive performance. This December, we were delighted to announce the initial release of stacks, a package for tidymodels-aligned ensembling. A particularly statistically-involved pesto recipe will help us get a sense for how the package works and how it advances the tidymodels package ecosystem as a whole.
+
+#### Resources
+
+-[Video](https://global.rstudio.com/student/page/40641)
+
+---
+
+## Using Guided Simulation Exercises to Teach Data Science with R
+
+### **Chelsea Parlett-Pelleriti**, *Chapman University*
+
+#### Abstract
+> With more learning occurring virtually or in hybrid mode, hands-on ways to remotely teach DS are invaluable. Guided simulation exercises in R allow learners to explore concepts deeply, on their own time, and with others. They can also experiment with the simulations, try out edge cases, and challenge their assumptions, leading to more fruitful discussions. The comparison between coefficient estimates in regular, LASSO, and RIDGE regression, or how PCA performs when data are related are great examples of concepts where guided simulations can encourage learners to build intuitive knowledge. This talk explores how to use simulation exercises in R to help learners explore DS concepts and provides examples.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40602)
+
+---
+
+## How I became a Data Composer – examples of simulated datasets that bring value to a data-driven company
+
+### **Richard Vogg**
+
+#### Abstract
+> How can I get the buy-in from business partners to use more advanced techniques? What can I do to make a data project involving several teams more efficient? And how can I train analysts who do not (yet) have access to sensitive data?
+> A good data composer is skilled at creating suitable data quickly and efficiently. R has many functions and packages that help with simulating independent variables and composing those in a meaningful way.
+> In this talk, I will share how I started creating data and how this skill helped me with solving some of the issues described above. Showing a few examples of small, medium-sized, and large data composition, I want to encourage attendees to simulate data and enrich their data skillset.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40635)
+- [Blog](http://r-vogg-blog.netlify.app)
+#### Notes
+
+- Started by combining simple simulated varables into small datasets
+- You don't only want independent variables, but variables that makes sense together
+- Being able to simulate realistic data allows for:
+    - Explaining concepts without having to rely on sensitive real data
+    - Starting to work on the data before it is collected, as analyses can be built on simulated data mimicking the expected data
+- Composing data
+    - distribution functions
+    - correlate simulated data
+    - Full packages: wakefield, rcorpora, charlatan, fabricatr...
+
+---
+
+## Categorical Embeddings: New Ways to Simplify Complex Data
+
+### **Alan Feder**, *Invesco*
+
+#### Abstract
+> When building a predictive model in R, many of the functions (such as lm(), glm(), randomForest, xgboost, or neural networks in keras) require that all input variables are numeric. If your data has categorical variables, you may have to choose between ignoring some of your data and too many new columns.
+>
+> Categorical embeddings are a relative new method, utilizing methods popularized in Natural Language Processing that help models solve this problem and can help you understand more about the categories themselves.
+>
+>While there are a number of online tutorials on how to use Keras (usually in Python) to create these embeddings, this talk will use embed::step_embed(), an extension of the recipes package, to create the embeddings.
+
+#### Resources
+
+- [Video](https://global.rstudio.com/student/page/40595)

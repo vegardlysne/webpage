@@ -19,7 +19,7 @@ library(tibble)
 ```
 
 # Professional summary
-I'm a clinical dietitian, currently working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. I'm a Review Editor in Frontiers in Nutrition, and an editorial board member in the Norwegian Journal of Nutrition. In 2019 I led the organizing committee for the annual conference of the Norwegian Association of Clinical Dietitians.  
+I'm a clinical dietitian (PhD), working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. Currently I hold positions as editorial board member of the Norwegian Journal of Nutrition, review editor in Frontiers in Nutrition, and chapter expert on riboflavin, niacin and vitamin B12 in the Nordic Nutrition Recommendations 2022. In 2019 I led the  organizing committee for the annual conference of the Norwegian Association of Clinical Dietitians.  
 
 # Education
 ```{r education}
@@ -138,7 +138,7 @@ tribble(
 ```
 
 # Teaching experience
-I have taught at every semester of the bachelor and masters program in clinical nutrition at University of Bergen. I've held lectures on topics such as methods in nutrition research, nutritional biochemistry, food science, micronutrient metabolism, genetic disorders in nutrient metabolism and general nutrition in health and disease.
+In the period 2015-current, I have taught courses at every semester of the bachelor and masters program in clinical nutrition at University of Bergen. I've held lectures on topics such as methods in nutrition research, nutritional biochemistry, food science, micronutrient metabolism, genetic disorders in nutrient metabolism and general nutrition in health and disease.
 
 # PhD candidate supervision
 ```{r}
@@ -157,13 +157,19 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Student, ~ Degree,
-   2020, "Åslaug O Matre", "MSc thesis",
-   2020, "Rosemarie Aaby and Ann Helen Børseth", "BSc theses",
-   2018, "Åslaug O Matre and Henriette Holm", "BSc theses", 
-   2018, "Ingvild Marienborg", "MSc thesis",
-   2017, "Jostein Sæle, Marcela Palma and Kristine S. Samuelsen", "MSc theses",
-   2016, "Turid Bjørnsen Iversen", "BSc thesis",
-   2015, "Jostein Sæle, Helene Dahl, Caroline K Jacobsen and Silje S Vabø", "BSc theses"
+   "2021-", "Christina Osland Johannesen", "MSc",
+   "2021-", "Vilde Haugen Myklebust", "MSc",
+   "2020-", "Marie Kulseth", "MSc",
+   "2020-", "Marianne Braatveit", "MSc",
+   "2019-20", "Åslaug O Matre", "MSc",
+   "2020", "Rosemarie Aaby and Ann Helen Børseth", "BSc",
+   "2018", "Åslaug O Matre and Henriette Holm", "BSc", 
+   "2017-18", "Ingvild Marienborg", "MSc",
+   "2016-17", "Jostein Sæle", "MSc",
+   "2016-17", "Marcela Palma", "MSc",
+   "2016-17", "Kristine S. Samuelsen", "MSc",
+   "2016", "Turid Bjørnsen Iversen", "BSc",
+   "2015", "Jostein Sæle, Helene Dahl, Caroline K Jacobsen and Silje S Vabø", "BSc"
 ) %>% 
   arrange(desc(Year), desc(Degree), Student) %>% 
   brief_entries(when = Year, what = Student, with = Degree)
@@ -189,6 +195,9 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Role, 
+   "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Cobalamin",
+   "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Niacin",
+   "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Riboflavin",
    "2020-", "Review Editor, Frontiers in Nutrition", 
    "2019", "Leader of the Organizing comittee of the annual conference of The Norwegian Association of Dietitians",
    "2018-", "Member of the editorial board, Norwegian Journal of Nutrition (NTFE)",
