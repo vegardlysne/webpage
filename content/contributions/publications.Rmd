@@ -2,7 +2,7 @@
 title: Publications
 author: 
 date: 2019-09-04
-lastmod: 2019-12-06
+lastmod: 2021-03-15
 summary: ''
 slug: publications
 categories: 
@@ -11,6 +11,10 @@ tags: []
 [Go to other publications](#Other)
 
 ## Journal publications {#Journal}
+
+1. `2021` Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. <br> The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris. Front Nutr 2021 [Full Text](https://www.frontiersin.org/articles/10.3389/fnut.2021.642612/full)
+
+1. `2021` Dhar I, Svingen GFT, Olsen T, **Lysne V**, Bjørnestad EØ, Ueland, PM, Nygård, O. <br> **β-blocker use and risk of all-cause mortality in patients with coronary heart disease: effect modification by serum vitamin A.** Eur J Prev Cardiol <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/33709106/)
 
 1. `2020` Haugsgjerd TR, Egeland GM, Nygård OK, Igland J, Sulo G, **Lysne V**, Vinknes KJ, Bjornevik K, Tell GS. <br> **Intake of carbohydrates and SFA and risk of CHD in middle-age adults: the Hordaland Health Study (HUSK).** Public Health Nutr <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/32907659/), [Full Text](https://www.cambridge.org/core/journals/public-health-nutrition/article/intake-of-carbohydrates-and-sfa-and-risk-of-chd-in-middleage-adults-the-hordaland-health-study-husk/7739244CD6380545DAC7687B66063A2C/core-reader)
 
