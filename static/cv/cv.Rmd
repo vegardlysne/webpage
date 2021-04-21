@@ -7,6 +7,7 @@ email: "vegard.lysne@gmail.com"
 profilepic: ../img/Avatar.jpg
 www: www.vegardlysne.no
 twitter: VegardLysne
+linkedin: vegard-lysne
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
    vitae::awesomecv
@@ -48,6 +49,7 @@ tribble(
 ```{r}
 tribble(
    ~ Course, ~ Year, ~ Institution,
+   "ENLP Essentials", "2021", "European Nutrition Leadership Platform", 
    "Building Tidy Tools, RStudio::conf workshop", "2019", "RStudio::conf workshop",
    "Data Science in the Tidyverse, RStudio::conf workshop", "2018", "RStudio::conf workshop",
    "Competing Risks, Introduction to Flexible Parametric Survival Analysis and Cancer Screening, EPINOR annual meeting", "2017", "EPINOR annual meeting",
