@@ -68,7 +68,8 @@ tribble(
 
 # Publications in international peer-reviewed journals
 
-1. Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris. Front Nutr 2021 [doi: fnut.2021.642612](https://www.frontiersin.org/articles/10.3389/fnut.2021.642612/full)
+1. Saeed S, Vamvakidou A, Zidros S, Papasozomenos G, **Lysne, V**, Khattar RS, Senior R. Sex differences in transaortic flow rate and association with all-cause mortality in patients with severe aortic stenosis. Eur Heart J Cardiovask Imaging 2021 [PMID: 33734325](https://pubmed.ncbi.nlm.nih.gov/33734325/)
+1. Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris. Front Nutr 2021 [PMID: 33748176](https://pubmed.ncbi.nlm.nih.gov/33748176/)
 1. Dhar I, Svingen GFT, Olsen T, **Lysne V**, Bjørnestad EØ, Ueland, PM, Nygård, O. β-blocker use and risk of all-cause mortality in patients with coronary heart disease: effect modification by serum vitamin A. Eur J Prev Cardiol 2021 [PMID: 33709106](https://pubmed.ncbi.nlm.nih.gov/33709106/)
 1. Haugsgjerd TR, Egeland GM, Nygård OK, Igland J, Sulo G, **Lysne V**, Vinknes KJ, Bjornevik K, Tell GS. Intake of carbohydrates and SFA and risk of CHD in middle-age adults: the Hordaland Health Study (HUSK). Public Health Nutr 2020 [PMID: 32907659](https://pubmed.ncbi.nlm.nih.gov/32907659/)
 1. Saeed S, Smith J, Grigoryan K, **Lysne V**, Rajani R, Chambers JB. The tricuspid annular plane systolic excursion to systolic pulmonary artery pressure index: Association with all-cause mortality in patients with moderate or severe tricuspid regurgitation. Int J Cardiol 2020 [PMID: 32512064](https://pubmed.ncbi.nlm.nih.gov/32512064/)

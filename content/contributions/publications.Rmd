@@ -12,7 +12,9 @@ tags: []
 
 ## Journal publications {#Journal}
 
-1. `2021` Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. <br> The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris. Front Nutr 2021 [Full Text](https://www.frontiersin.org/articles/10.3389/fnut.2021.642612/full)
+1. `2021` Saeed S, Vamvakidou A, Zidros S, Papasozomenos G, **Lysne, V**, Khattar RS, Senior R. <br> Sex differences in transaortic flow rate and association with all-cause mortality in patients with severe aortic stenosis. Eur Heart J Cardiovask Imaging 2021 <br> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33734325/), [Full Text](https://academic.oup.com/ehjcimaging/advance-article-abstract/doi/10.1093/ehjci/jeab045/6177455)
+
+1. `2021` Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. <br> The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris. Front Nutr 2021 <br> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33748176/), [Full Text](https://www.frontiersin.org/articles/10.3389/fnut.2021.642612/full)
 
 1. `2021` Dhar I, Svingen GFT, Olsen T, **Lysne V**, Bjørnestad EØ, Ueland, PM, Nygård, O. <br> **β-blocker use and risk of all-cause mortality in patients with coronary heart disease: effect modification by serum vitamin A.** Eur J Prev Cardiol <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/33709106/)
 
