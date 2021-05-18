@@ -386,7 +386,8 @@ Did not attend this session
 
 ##### Notes
 - Almost everything you eat have a statistically significant effect on the microbiome
-- Geographical location is 10 times more important than anything else with regard to microbiome
+- Geographical location is 10 times more important than anything else with regard to microbiome. 
+    - [He 2018](https://www.nature.com/articles/s41591-018-0164-x)
     - Dietary effects on microbiome is hard to replicate 
 - The estimate that we have 10 times more bacteria than cells is wrong, but has never been questioned. It is traced back to a publication from 1972. [Sender 2016](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533)
 - We excrete 60-80g of bacteria daily, requiring 200-250 kcal to be replaced, which is more than the amount of energy the bacteria provides to the host. 
