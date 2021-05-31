@@ -18,6 +18,9 @@ image:
 ---
 This is a list of articles and chronicles I've written together with various colleagues.
 
+## 2021
+- [Nei, det er ikke lettbrus som gjør deg tjukk](https://forskersonen.no/kronikk-mat-og-helse-meninger/nei-det-er-ikke-lettbrus-som-gjor-deg-tjukk/1864932), **Forskersonen**, with Thomas Olsen and Martin Norum.
+
 ## 2019
 - [Norske kostråd anbefaler ikke «vestlig kosthold»](https://www.dagensmedisin.no/artikler/2019/08/23/norske-kostrad-anbefaler-ikke-vestlig-kosthold/) - **Dagens Medisin**, with Hanna Dale. 
 
