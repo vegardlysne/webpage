@@ -200,6 +200,7 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Role, 
+   "2021-", "Member of the Norwegian Scientific Committee for Food and Environment (VKM), the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy",
    "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Cobalamin",
    "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Niacin",
    "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Riboflavin",
