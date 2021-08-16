@@ -20,7 +20,7 @@ library(tibble)
 ```
 
 # Professional summary
-I'm a clinical dietitian (PhD), working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. Currently I hold positions as editorial board member of the Norwegian Journal of Nutrition, review editor in Frontiers in Nutrition, and chapter expert on riboflavin, niacin and vitamin B12 in the Nordic Nutrition Recommendations 2022. In 2019 I led the  organizing committee for the annual conference of the Norwegian Association of Clinical Dietitians.  
+I'm a clinical dietitian (PhD), working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. Currently I hold positions as editorial board member of the Norwegian Journal of Nutrition, review editor in Frontiers in Nutrition, member of the Norwegian Scientific Committee for Food and Environment (VKM), the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy, and chapter expert on riboflavin, niacin and vitamin B12 in the Nordic Nutrition Recommendations 2022. In 2019 I led the  organizing committee for the annual conference of the Norwegian Association of Clinical Dietitians.  
 
 # Education
 ```{r education}
@@ -68,7 +68,9 @@ tribble(
 
 # Publications in international peer-reviewed journals
 
-1. Saeed S, Vamvakidou A, Zidros S, Papasozomenos G, **Lysne, V**, Khattar RS, Senior R. Sex differences in transaortic flow rate and association with all-cause mortality in patients with severe aortic stenosis. Eur Heart J Cardiovask Imaging 2021 [PMID: 33734325](https://pubmed.ncbi.nlm.nih.gov/33734325/)
+1. Hilvo M, Dhar I, Lääperi M, **Lysne V**, Sulo G, Tell GS, Jousilahti P, Nygård OK, Brenner H, Schöttker B, Laaksonen R. Primary cardiovascular risk prediction by LDL-cholesterol in Caucasian middle-aged and older adults: a joint analysis of three cohorts. Eur J Prev Cardiol, 2021. [PMID: 34060615](https://pubmed.ncbi.nlm.nih.gov/34060615/)
+1. Van Parys A, Karlsson T, Vinknes KJ, Olsen T, Øyen J, Dierkes J, Nygård O, **Lysne V**. Food Sources Contributing to Intake of Choline and Individual Choline Forms in a Norwegian Cohort of Patients With Stable Angina Pectoris. Front Nutr, 2021. [PMID: 34055860](https://pubmed.ncbi.nlm.nih.gov/34055860/)
+1. Saeed S, Vamvakidou A, Zidros S, Papasozomenos G, **Lysne, V**, Khattar RS, Senior R. Sex differences in transaortic flow rate and association with all-cause mortality in patients with severe aortic stenosis. Eur Heart J Cardiovask Imaging, 2021. [PMID: 33734325](https://pubmed.ncbi.nlm.nih.gov/33734325/)
 1. Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris. Front Nutr, 2021. [PMID: 33748176](https://pubmed.ncbi.nlm.nih.gov/33748176/)
 1. Dhar I, Svingen GFT, Olsen T, **Lysne V**, Bjørnestad EØ, Ueland, PM, Nygård, O. β-blocker use and risk of all-cause mortality in patients with coronary heart disease: effect modification by serum vitamin A. Eur J Prev Cardiol, 2021. [PMID: 33709106](https://pubmed.ncbi.nlm.nih.gov/33709106/)
 1. Haugsgjerd TR, Egeland GM, Nygård OK, Igland J, Sulo G, **Lysne V**, Vinknes KJ, Bjornevik K, Tell GS. Intake of carbohydrates and SFA and risk of CHD in middle-age adults: the Hordaland Health Study (HUSK). Public Health Nutr, 2020. [PMID: 32907659](https://pubmed.ncbi.nlm.nih.gov/32907659/)
@@ -111,11 +113,11 @@ No effect of plasma trimethylamine N-Oxide (TMAO) and plasma trimethyllysine (TM
 1.	Olsen T, **Lysne V**. Ta faget tilbake. Norsk Tidsskrift for Ernæring, 2015(3).
 1.	Kverneland M, Christensen JJ, **Lysne V**. Lavkarbodietter har kommet for å bli, men hører hjemme i klinikken. Norsk Tidsskrift for Ernæring, 2015(2).
 
-\newpage
 # Conference attendance
 ```{r}
 tribble(
    ~ Year, ~ Conference, ~ Presentation,
+   2021, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), virtual meeting", "",
    2020, "Nordic Nutrition Conference 2020 (virtual)", "Poster presentation",
    2020, "Sunn Idrett, Oslo, Norway", "Oral presentation",
    2019, "The European Nutrition Conference (FENS), Dublin, Ireland", "Poster presentation",
@@ -142,6 +144,7 @@ tribble(
   brief_entries(when = Year, what = Conference, with = Presentation)
 ```
 
+\newpage
 # Teaching experience
 In the period 2015-current, I have taught courses at every semester of the bachelor and masters program in clinical nutrition at University of Bergen. I've held lectures on topics such as methods in nutrition research, nutritional biochemistry, food science, micronutrient metabolism, genetic disorders in nutrient metabolism and general nutrition in health and disease.
 

@@ -12,9 +12,14 @@ tags: []
 
 ## Journal publications {#Journal}
 
-1. `2021` Saeed S, Vamvakidou A, Zidros S, Papasozomenos G, **Lysne, V**, Khattar RS, Senior R. <br> Sex differences in transaortic flow rate and association with all-cause mortality in patients with severe aortic stenosis. Eur Heart J Cardiovask Imaging 2021 <br> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33734325/), [Full Text](https://academic.oup.com/ehjcimaging/advance-article-abstract/doi/10.1093/ehjci/jeab045/6177455)
+1. `2021` Hilvo M, Dhar I, Lääperi M, **Lysne V**, Sulo G, Tell GS, Jousilahti P, Nygård OK, Brenner H, Schöttker B, Laaksonen R. <br> **Primary cardiovascular risk prediction by LDL-cholesterol in Caucasian middle-aged and older adults: a joint analysis of three cohorts.** Eur J Prev Cardiol. <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/34060615/), [Full text](https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwab075/6290659)
 
-1. `2021` Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. <br> The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris. Front Nutr 2021 <br> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33748176/), [Full Text](https://www.frontiersin.org/articles/10.3389/fnut.2021.642612/full)
+1. `2021` Van Parys A, Karlsson T, Vinknes KJ, Olsen T, Øyen J, Dierkes J, Nygård O, **Lysne V**. <br> **Food Sources Contributing to Intake of Choline and Individual Choline Forms in a Norwegian Cohort of Patients With Stable Angina Pectoris.** Front Nutr, 2021. <br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/34055860/), [Full text](https://www.frontiersin.org/articles/10.3389/fnut.2021.676026/full)
+
+1. `2021` Saeed S, Vamvakidou A, Zidros S, Papasozomenos G, **Lysne, V**, Khattar RS, Senior R. <br> **Sex differences in transaortic flow rate and association with all-cause mortality in patients with severe aortic stenosis.** Eur Heart J Cardiovask Imaging <br> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33734325/), [Full Text](https://academic.oup.com/ehjcimaging/advance-article-abstract/doi/10.1093/ehjci/jeab045/6177455)
+
+1. `2021` Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. <br> **The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris.** Front Nutr <br> [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33748176/), [Full Text](https://www.frontiersin.org/articles/10.3389/fnut.2021.642612/full)
 
 1. `2021` Dhar I, Svingen GFT, Olsen T, **Lysne V**, Bjørnestad EØ, Ueland, PM, Nygård, O. <br> **β-blocker use and risk of all-cause mortality in patients with coronary heart disease: effect modification by serum vitamin A.** Eur J Prev Cardiol <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/33709106/)
 
