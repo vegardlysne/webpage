@@ -17,9 +17,20 @@ image:
 projects: []
 ---
 
-This is an overview of my appearances in norwegian media, sorted by year. 
+This is an overview of my appearances in Norwegian media, sorted by year. 
 
 ## 2021
+- [Hansa med ny koffeinbombe: – Alle på skolen kjøper energidrikk!](https://www.ba.no/hansa-med-ny-koffeinbombe-alle-pa-skolen-kjoper-energidrikk/s/5-8-1720067), Bergensavisen
+- [Bare to får toppkarakter i stor test: – Flere av dem ville jeg ikke kalt proteinbarer](https://www.bt.no/sprek/i/XqdABo/bare-to-faar-toppkarakter-i-stor-test-flere-av-dem-ville-jeg-ikke-ka), Bergens Tidende
+- [Stor test av 13 mellombarer: – Like usunn som en sjokolade](https://www.bt.no/sprek/i/Wjkmzd/stor-test-av-13-mellombarer-like-usunn-som-en-sjokolade), Bergens Tidende
+- [Disse produktene styrer ernæringsekspertene unna: - Kan ikke si én eneste positiv ting](https://www.nettavisen.no/mat/ernaring/helse/disse-produktene-styrer-ernaringsekspertene-unna-kan-ikke-si-n-eneste-positiv-ting/f/5-95-297102), Nettavisen
+- [Stor studie avliver myte: Derfor legger du på deg med alderen](https://www.nettavisen.no/vektoppgang/forbrenning/kosthold/stor-studie-avliver-myte-derfor-legger-du-pa-deg-med-alderen/s/5-95-280462), Nettavisen
+- [Ukjent vitamin kan bedre hjertet](https://www.dagbladet.no/tema/ukjent-vitamin-kan-bedre-hjertet/74097446), Dagbladet
+- [Trening etter kroppstype - har det noe for seg?](https://www.kk.no/helse/trening-etter-kroppstype---har-det-noe-for-seg/72481568), KK
+- [4 grunner til at du føler deg mer sliten i høst](https://www.kk.no/helse/4-grunner-til-at-du-foler-deg-mer-sliten-i-host/70307650), KK
+- [Frida har gått ned over 50 kilo: - Noe sa klikk](https://www.nettavisen.no/ned-i-vekt/kosthold/livsstilsendring/frida-har-gatt-ned-over-50-kilo-noe-sa-klikk/f/5-95-256597), Nettavisen
+- [Fungerer koffein så bra som vi tror?](https://www.kk.no/helse/fungerer-koffein-sa-bra-som-vi-tror/74115465), KK
+- [Det Ronaldo gjør her vekker oppsikt. Stjernen reagerte med forakt i stemmen](https://www.nettavisen.no/sport/det-ronaldo-gjor-her-vekker-oppsikt-stjernen-reagerte-med-forakt-i-stemmen/s/12-95-3424142045), Nettavisen
 - [Anne Bente spiste ungenes lørdagsgodt i skjul – en dag innså hun hva som var galt](https://www.klikk.no/helse/kosthold/slank/sukkeravhengig-tegn-pa-at-du-spiser-for-mye-sukker-7025251), Klikk
 - [7 slankekurer: Finn dietten som passer for deg](https://www.klikk.no/helse/kosthold/slank/7-slankekurer-6988355), Klikk
 - [Så lenge må du ligge på sofaen for å forbrenne en sjokolade](https://www.klikk.no/helse/kosthold/hvileforbrenning-gar-ned-i-vekt-av-a-ligge-i-ro-6971985), Klikk
@@ -34,6 +45,7 @@ This is an overview of my appearances in norwegian media, sorted by year.
 - [Da legen bladde i fotoalbum fra 70-tallet, fikk han sjokk](https://www.kk.no/helse/da-legen-bladde-i-fotoalbum-fra-70-tallet-fikk-han-sjokk/72108135), KK
 
 ## 2019
+- [Vogue-dietten fra 1977: egg, vin og kaffe](https://www.nettavisen.no/livsstil/vogue-dietten-fra-1977-egg-vin-og-kaffe/s/12-95-3423858362), Nettavisen
 - [Ekspertenes råd: Slik faster du deg ned i vekt](https://www.vg.no/forbruker/helse/i/K3knAX/ekspertenes-raad-slik-faster-du-deg-ned-i-vekt), VG
 - [Disse 10 diettene googles mest - kun to vurderes som gode](https://www.kk.no/helse/disse-10-diettene-googles-mest---kun-to-vurderes-som-gode/71690391), KK
 - [Så mye sukker skjuler det seg i maten og drikken din](https://www.nettavisen.no/livsstil/sa-mye-sukker-skjuler-det-seg-i-maten-og-drikken-din/3423637124.html), Nettavisen
