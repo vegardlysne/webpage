@@ -19,7 +19,15 @@ projects: []
 
 This is an overview of my appearances in Norwegian media, sorted by year. 
 
+## 2022
+- [Alt tyder på at periodisk faste er bra for helsa](https://www.nrk.no/trondelag/periodisk-faste_intermittent-fasting_-ny-studie-tyder-pa-at-5_2-dietten-og-annen-faste-funker-1.15806964), NRK
+
 ## 2021
+- [Avliver myte om julematen – mange går litt opp høytid etter høytid](https://www.nettavisen.no/avliver-myte-om-julematen-mange-gar-litt-opp-hoytid-etter-hoytid/s/5-95-360913), Nettavisen
+- [Derfor fungerer ikke slankekuren – gjør dette i stedet](https://www.nettavisen.no/helse/vektnedgang/ned-i-vekt/derfor-fungerer-ikke-slankekuren-gjor-dette-i-stedet/s/5-95-318528), Nettavisen
+- [Hva spiser vi for mye og for lite av? Dette overrasker mest i ny, stor rapport.](https://www.aftenposten.no/sport/sprek/i/y4Gmz2/hva-spiser-vi-for-mye-og-for-lite-av-dette-overrasker-mest-i-ny-stor), Aftenposten
+- [Stor test av 15 brød: – Fire av dem skiller seg ut](https://www.bt.no/sprek/i/28jpAa/stor-test-av-15-broed-fire-av-dem-skiller-seg-ut), Bergens Tidende
+- [Stor test av 16 mellommåltider: Fem av disse får karakter en eller to](https://www.bt.no/sprek/i/7dBgMB/stor-test-av-16-mellommaaltider-alene-er-de-terningkast-to-sammen-e), Bergens Tidende
 - [Hansa med ny koffeinbombe: – Alle på skolen kjøper energidrikk!](https://www.ba.no/hansa-med-ny-koffeinbombe-alle-pa-skolen-kjoper-energidrikk/s/5-8-1720067), Bergensavisen
 - [Bare to får toppkarakter i stor test: – Flere av dem ville jeg ikke kalt proteinbarer](https://www.bt.no/sprek/i/XqdABo/bare-to-faar-toppkarakter-i-stor-test-flere-av-dem-ville-jeg-ikke-ka), Bergens Tidende
 - [Stor test av 13 mellombarer: – Like usunn som en sjokolade](https://www.bt.no/sprek/i/Wjkmzd/stor-test-av-13-mellombarer-like-usunn-som-en-sjokolade), Bergens Tidende

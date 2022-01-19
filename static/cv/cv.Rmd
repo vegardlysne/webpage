@@ -20,7 +20,7 @@ library(tibble)
 ```
 
 # Professional summary
-I'm a clinical dietitian (PhD), working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language and data reporting and visualization. Currently I'm the primary investigator of the Postprandial Metabolism in Healthy Young Subjects (PoMet) study (ClinicalTrials.gov: NCT04989478). I hold positions as editorial board member of the Norwegian Journal of Nutrition, review editor in Frontiers in Nutrition, member of the Norwegian Scientific Committee for Food and Environment (VKM), the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy, and chapter expert on riboflavin, niacin, and vitamin B12 in the Nordic Nutrition Recommendations 2022. 
+I'm a clinical dietitian (PhD), working as a postdoctoral researcher at Haukeland University Hospital. My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language, data reporting, and visualization. Currently I'm the primary investigator of the Postprandial Metabolism in Healthy Young Subjects (PoMet) study (ClinicalTrials.gov: NCT04989478). I hold positions as editorial board member of the Norwegian Journal of Nutrition, review editor in Frontiers in Nutrition, member of the Norwegian Scientific Committee for Food and Environment (VKM), the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy, and chapter expert on riboflavin, niacin, and vitamin B12 in the Nordic Nutrition Recommendations 2022. Starting in 2022, I'm involved in th organization committee of NUTRINOR, a national research school in nutrition, funded by the Research Council of Norway until 2030. 
 
 # Education
 ```{r education}
@@ -68,6 +68,7 @@ tribble(
 
 # Publications in international peer-reviewed journals
 
+1. **Lysne V**, Anfinsen ÅM, Van Parys A. Should we all adopt the Dietary Approach to Stop Hypertension (DASH) diet? Eur J Prev Cardiol. 2022
 1. Van Parys A, Brække MS, Karlsson T, Vinknes KJ, Tell GS, Haugsgjerd TR, Ueland PM, Øyen J, Dierkes J, Nygård O, **Lysne V**. Assessment of Dietary Choline Intake, Contributing Food Items and Associations with One-carbon and Lipid Metabolites in Middle-aged and Elderly Adults: The Hordaland Health Study. Front Nutr, 2021. [PMID: 34643705](https://pubmed.ncbi.nlm.nih.gov/34643705/)
 1. Hilvo M, Dhar I, Lääperi M, **Lysne V**, Sulo G, Tell GS, Jousilahti P, Nygård OK, Brenner H, Schöttker B, Laaksonen R. Primary cardiovascular risk prediction by LDL-cholesterol in Caucasian middle-aged and older adults: a joint analysis of three cohorts. Eur J Prev Cardiol, 2021. [PMID: 34060615](https://pubmed.ncbi.nlm.nih.gov/34060615/)
 1. Van Parys A, Karlsson T, Vinknes KJ, Olsen T, Øyen J, Dierkes J, Nygård O, **Lysne V**. Food Sources Contributing to Intake of Choline and Individual Choline Forms in a Norwegian Cohort of Patients With Stable Angina Pectoris. Front Nutr, 2021. [PMID: 34055860](https://pubmed.ncbi.nlm.nih.gov/34055860/)
@@ -166,10 +167,13 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Student, ~ Degree,
+   "2021", "Vilde R Strøm", "BSc",
+   "2021-", "Sunniva Grønnslett", "MSc",
+   "2021-", "Mia Mårteig", "MSc",
    "2021-", "Christina Osland Johannesen", "MSc",
    "2021-", "Vilde Haugen Myklebust", "MSc",
-   "2020-", "Marie Kulseth", "MSc",
-   "2020-", "Marianne Braatveit", "MSc",
+   "2020-21", "Marie Kulseth", "MSc",
+   "2020-21", "Marianne Braatveit", "MSc",
    "2019-20", "Åslaug O Matre", "MSc",
    "2020", "Rosemarie Aaby and Ann Helen Børseth", "BSc",
    "2018", "Åslaug O Matre and Henriette Holm", "BSc", 
@@ -188,14 +192,16 @@ tribble(
 ```{r}
 tribble(
    ~ Year, ~ Student, ~ Degree,
-   2020, "Maren T Aase and Andrea H Kalås", "MSc theses",
+   2021, "Sol Bjørkevoll, Stella Rasmussen, Eirin S Gjerde", "MSc theses",
+   2021, "Hanna H Danielsen, Kristin L Nilsen", "BSc theses",
+   2020, "Maren T Aase,Andrea H Kalås", "MSc theses",
    2020, "Elise Frederich", "BSc thesis",
-   2018, "Eirin S Gjerde and Emilie H Markhus", "BSc theses",
-   2017, "Trine Larsen, Helene Søiland and Miriam H Brandt", "MSc theses", 
-   2016, "Tonje N Hustoft and Anita E Smette", "MSc theses",
-   2017, "Amalie Moxness, Maria-Anna F Holmefjort and Benedicte Wirkola", "BSc theses",
-   2016, "Synnøve Næss, Ingrid Revheim, Charlotte Z Tøssebro and Renate D Laumann", "BSc theses",
-   2015, "Anette Hetlevik and Maria B Songve", "BSc theses") %>% 
+   2018, "Eirin S Gjerde, Emilie H Markhus", "BSc theses",
+   2017, "Trine Larsen, Helene Søiland, Miriam H Brandt", "MSc theses", 
+   2016, "Tonje N Hustoft, Anita E Smette", "MSc theses",
+   2017, "Amalie Moxness, Maria-Anna F Holmefjord, Benedicte Wirkola", "BSc theses",
+   2016, "Synnøve Næss, Ingrid Revheim, Charlotte Z Tøssebro, Renate D Laumann", "BSc theses",
+   2015, "Anette Hetlevik, Maria B Songve", "BSc theses") %>% 
   arrange(desc(Year), desc(Degree), Student) %>% 
   brief_entries(when = Year, what = Student, with = Degree)
 ```
