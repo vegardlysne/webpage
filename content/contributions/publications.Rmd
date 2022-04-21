@@ -12,6 +12,8 @@ tags: []
 
 ## Journal publications {#Journal}
 
+test
+
 1. `2022` Van Parys A, Brække MS, Karlsson T, Vinknes KJ, Tell GS, Haugsgjerd TR, Ueland PM, Øyen J, Dierkes J, Nygård O, **Lysne V**. <br> **Assessment of Dietary Choline Intake, Contributing Food Items and Associations with One-carbon and Lipid Metabolites in Middle-aged and Elderly Adults: The Hordaland Health Study**. J Nutr. <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/34643705/), [Full text](https://academic.oup.com/jn/article-lookup/doi/10.1093/jn/nxab367)
 
 1. `2022` Hilvo M, Dhar I, Lääperi M, **Lysne V**, Sulo G, Tell GS, Jousilahti P, Nygård OK, Brenner H, Schöttker B, Laaksonen R. <br> **Primary cardiovascular risk prediction by LDL-cholesterol in Caucasian middle-aged and older adults: a joint analysis of three cohorts.** Eur J Prev Cardiol. <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/34060615/), [Full text](https://academic.oup.com/eurjpc/advance-article/doi/10.1093/eurjpc/zwab075/6290659)
