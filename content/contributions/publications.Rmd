@@ -2,7 +2,7 @@
 title: Publications
 author: 
 date: 2019-09-04
-lastmod: 2021-03-15
+lastmod: 2022-04-21
 summary: ''
 slug: publications
 categories: 
@@ -11,8 +11,6 @@ tags: []
 [Go to other publications](#Other)
 
 ## Journal publications {#Journal}
-
-test
 
 1. `2022` Van Parys A, Brække MS, Karlsson T, Vinknes KJ, Tell GS, Haugsgjerd TR, Ueland PM, Øyen J, Dierkes J, Nygård O, **Lysne V**. <br> **Assessment of Dietary Choline Intake, Contributing Food Items and Associations with One-carbon and Lipid Metabolites in Middle-aged and Elderly Adults: The Hordaland Health Study**. J Nutr. <br> [PubMed](https://pubmed.ncbi.nlm.nih.gov/34643705/), [Full text](https://academic.oup.com/jn/article-lookup/doi/10.1093/jn/nxab367)
 
