@@ -68,9 +68,9 @@ tribble(
 
 # Publications in international peer-reviewed journals
 
-1. **Lysne V**, Anfinsen ÅM, Van Parys A. Should we all adopt the Dietary Approach to Stop Hypertension (DASH) diet? Eur J Prev Cardiol. 2022
-1. Van Parys A, Brække MS, Karlsson T, Vinknes KJ, Tell GS, Haugsgjerd TR, Ueland PM, Øyen J, Dierkes J, Nygård O, **Lysne V**. Assessment of Dietary Choline Intake, Contributing Food Items and Associations with One-carbon and Lipid Metabolites in Middle-aged and Elderly Adults: The Hordaland Health Study. Front Nutr, 2021. [PMID: 34643705](https://pubmed.ncbi.nlm.nih.gov/34643705/)
-1. Hilvo M, Dhar I, Lääperi M, **Lysne V**, Sulo G, Tell GS, Jousilahti P, Nygård OK, Brenner H, Schöttker B, Laaksonen R. Primary cardiovascular risk prediction by LDL-cholesterol in Caucasian middle-aged and older adults: a joint analysis of three cohorts. Eur J Prev Cardiol, 2021. [PMID: 34060615](https://pubmed.ncbi.nlm.nih.gov/34060615/)
+1. **Lysne V**, Anfinsen ÅM, Van Parys A. Should we all adopt the DASH diet? Eur J Prev Cardiol. 2022
+1. Van Parys A, Brække MS, Karlsson T, Vinknes KJ, Tell GS, Haugsgjerd TR, Ueland PM, Øyen J, Dierkes J, Nygård O, **Lysne V**. Assessment of Dietary Choline Intake, Contributing Food Items and Associations with One-carbon and Lipid Metabolites in Middle-aged and Elderly Adults: The Hordaland Health Study. J Nutr, 2022. [PMID: 34643705](https://pubmed.ncbi.nlm.nih.gov/34643705/)
+1. Hilvo M, Dhar I, Lääperi M, **Lysne V**, Sulo G, Tell GS, Jousilahti P, Nygård OK, Brenner H, Schöttker B, Laaksonen R. Primary cardiovascular risk prediction by LDL-cholesterol in Caucasian middle-aged and older adults: a joint analysis of three cohorts. Eur J Prev Cardiol, 2022. [PMID: 34060615](https://pubmed.ncbi.nlm.nih.gov/34060615/)
 1. Van Parys A, Karlsson T, Vinknes KJ, Olsen T, Øyen J, Dierkes J, Nygård O, **Lysne V**. Food Sources Contributing to Intake of Choline and Individual Choline Forms in a Norwegian Cohort of Patients With Stable Angina Pectoris. Front Nutr, 2021. [PMID: 34055860](https://pubmed.ncbi.nlm.nih.gov/34055860/)
 1. Saeed S, Vamvakidou A, Zidros S, Papasozomenos G, **Lysne, V**, Khattar RS, Senior R. Sex differences in transaortic flow rate and association with all-cause mortality in patients with severe aortic stenosis. Eur Heart J Cardiovask Imaging, 2021. [PMID: 33734325](https://pubmed.ncbi.nlm.nih.gov/33734325/)
 1. Matre ÅO, Parys AV, Olsen T, Haugsgjerd TR, Baravelli CM, Nygård O, Dierkes J, **Lysne V**. The Association of Meat Intake With All-Cause Mortality and Acute Myocardial Infarction Is Age-Dependent in Patients With Stable Angina Pectoris. Front Nutr, 2021. [PMID: 33748176](https://pubmed.ncbi.nlm.nih.gov/33748176/)
@@ -102,6 +102,7 @@ No effect of plasma trimethylamine N-Oxide (TMAO) and plasma trimethyllysine (TM
 
 # Other publications
 
+1. **Lysne V**, Olsen T, Habumugisha T, Engebretsen IMS, Dierkes J. Food choices and life expectancy: is it just beans? OSF Prepr. 2022; doi: 10.31219/OSF.IO/5WDFP
 1. Matre ÅO, Dierkes J, **Lysne V**. Ernæringsforskning er ikke som annen forskning. Norsk Tidsskrift for Ernæring, 2020(2)
 1. Myklebust-Hansen T, **Lysne V**. FENS 2019: Malnutrition in an obese world - European perspective. Norsk Tidsskrift for Ernæring, 2019(4)
 1. Matre ÅO, **Lysne V**. B12-tilskudd uten B12-mangel. Norsk Tidsskrift for Ernæring, 2019(3). 
