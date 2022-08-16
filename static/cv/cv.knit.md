@@ -1,71 +1,62 @@
 ---
 name: Vegard
 surname: Lysne
-position: "Clinical Dietitian, PhD"
+position: Clinical Dietitian, PhD
 phone: +47 41 66 82 18
-email: "vegard.lysne@gmail.com"
+email: vegard.lysne@gmail.com
 profilepic: ../img/Avatar.jpg
 www: www.vegardlysne.no
 twitter: VegardLysne
 linkedin: vegard-lysne
-date: "`r format(Sys.time(), '%B %Y')`"
-output: 
-   vitae::awesomecv
+date: august 2022
+output: vitae::awesomecv
+nocite: '@'
+csl: C:/Users/vly005/AppData/Local/R/win-library/4.2/vitae/vitae.csl
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
-library(vitae)
-library(tibble)
-```
+
 
 # Professional summary
 Clinical Dietitian (RD) from Norway, currently working as a Senior Advisor at the Norwegian Institue of Public Health (www.fhi.no). I also hold positions as editorial board member at The Norwegian Journal of Nutrition (www.ntfe.no), member of the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy at the Norwegian Scientific Committee for Food and Environment (www.vkm.no), and chapter expert on riboflavin, niacin, and vitamin B12 in the Nordic Nutrition Recmmendations 2022. I'm the primary investigator of the Postprandial Metabolism in Healthy Young Subjects (PoMet) study (ClinicalTrials.gov: NCT04989478). My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language, data reporting, and visualization.
 
 
 # Education
-```{r education}
-tribble(
-  ~ Degree, ~ Year, ~ Thesis, ~ Department, ~ Country, 
-  "PhD", "2015-2019 ", "Thesis title: Biomarkers of one-carbon metabolism and B-vitamin status - Targeted metabolomics in rats and humans exploring the effects of PPAR alpha-activation and dietary composition", "Department of Clinical Science, University of Bergen", "Norway", 
-  "MSc, Clinical Nutrition", "2012-2014", "Thesis title: Treatment with a Peroxisome Proliferator-Activated Receptor agonist influences one-carbon metabolism and markers of B-vitamin status in rats", "University of Bergen, Faculty of Medicine", "Norway", 
-  "BSc, Human Nutriton", "2009-2012", NA_character_, "University of Bergen, Faculty of Medicine", "Norway") %>% 
-  detailed_entries(with = Degree, when = Year, why = Thesis, what = Department, where = Country)
-```
+\begin{cventries}
+	\cventry{Department of Clinical Science, University of Bergen}{PhD}{Norway}{2015-2019 }{\begin{cvitems}
+\item Thesis title: Biomarkers of one-carbon metabolism and B-vitamin status - Targeted metabolomics in rats and humans exploring the effects of PPAR alpha-activation and dietary composition
+\end{cvitems}}
+	\cventry{University of Bergen, Faculty of Medicine}{MSc, Clinical Nutrition}{Norway}{2012-2014}{\begin{cvitems}
+\item Thesis title: Treatment with a Peroxisome Proliferator-Activated Receptor agonist influences one-carbon metabolism and markers of B-vitamin status in rats
+\end{cvitems}}
+	\cventry{University of Bergen, Faculty of Medicine}{BSc, Human Nutriton}{Norway}{2009-2012}{}\vspace{-4.0mm}
+\end{cventries}
 
 # Work experience
-```{r}
-tribble(
-  ~ Position, ~ Year, ~ Institution, 
-  "Senior Advisor", "2022-", "Department of Health and Inequality, Norwegian Institute of Public Health",
-  "Postdoctoral researcher", "2020-2022", "Department of Heart Disease, Haukeland University Hospital, Bergen, Norway",
-  "Researcher", "2019-2019", "Department of Clinical Science, University of Bergen, Bergen, Norway",
-  "PhD candidate", "2015-2019", "Department of Clinical Science, University of Bergen, Bergen, Norway",
-  "Research assistant", "2014-2015 ", "Department of Heart Disease, Haukeland University Hospital, Bergen, Norway" 
-) %>% 
-  detailed_entries(what = Institution, when = Year, with = Position)
-```
+\begin{cventries}
+	\cventry{Department of Health and Inequality, Norwegian Institute of Public Health}{Senior Advisor}{}{2022-}{}\vspace{-4.0mm}
+	\cventry{Department of Heart Disease, Haukeland University Hospital, Bergen, Norway}{Postdoctoral researcher}{}{2020-2022}{}\vspace{-4.0mm}
+	\cventry{Department of Clinical Science, University of Bergen, Bergen, Norway}{Researcher}{}{2019-2019}{}\vspace{-4.0mm}
+	\cventry{Department of Clinical Science, University of Bergen, Bergen, Norway}{PhD candidate}{}{2015-2019}{}\vspace{-4.0mm}
+	\cventry{Department of Heart Disease, Haukeland University Hospital, Bergen, Norway}{Research assistant}{}{2014-2015 }{}\vspace{-4.0mm}
+\end{cventries}
 
 \newpage
 # Courses attended
-```{r}
-tribble(
-   ~ Course, ~ Year, ~ Institution,
-   "ENLP Essentials", "2021", "European Nutrition Leadership Platform", 
-   "Building Tidy Tools, RStudio::conf workshop", "2019", "RStudio::conf workshop",
-   "Data Science in the Tidyverse, RStudio::conf workshop", "2018", "RStudio::conf workshop",
-   "Competing Risks, Introduction to Flexible Parametric Survival Analysis and Cancer Screening, EPINOR annual meeting", "2017", "EPINOR annual meeting",
-   "New statistical methods for causal inference, University of Oslo", "2017", "University of Oslo",
-   "Logistic regression, survival analysis and Cox-regression, University of Oslo", "2017", "University of Oslo", 
-   "The Art of Scientific Investigation, EPINOR summer school", "2017", "EPINOR summer school",
-   "University pedagogy for PhD candidates, University of Bergen", "2017",  "University of Bergen",
-   "Epidemiology - beyond the basics, University of Oslo", "2017", "University of Oslo",
-   "6th International course in Nutritional Epidemiology, Imperial College, London", "2016", "Imperial College, London",
-   "Experimental Design and Statistical Analysis, FRAME training school", "2016", "FRAME training school",
-   "Basic course in Medical and Health Related Research, University of Bergen", "2016", "University of Bergen"
-) %>% 
-  brief_entries(what = Course, when = Year)
-```
+\begin{cvhonors}
+	\cvhonor{}{ENLP Essentials}{}{2021}
+	\cvhonor{}{Building Tidy Tools, RStudio::conf workshop}{}{2019}
+	\cvhonor{}{Data Science in the Tidyverse, RStudio::conf workshop}{}{2018}
+	\cvhonor{}{Competing Risks, Introduction to Flexible Parametric Survival Analysis and Cancer Screening, EPINOR annual meeting}{}{2017}
+	\cvhonor{}{New statistical methods for causal inference, University of Oslo}{}{2017}
+	\cvhonor{}{Logistic regression, survival analysis and Cox-regression, University of Oslo}{}{2017}
+	\cvhonor{}{The Art of Scientific Investigation, EPINOR summer school}{}{2017}
+	\cvhonor{}{University pedagogy for PhD candidates, University of Bergen}{}{2017}
+	\cvhonor{}{Epidemiology - beyond the basics, University of Oslo}{}{2017}
+	\cvhonor{}{6th International course in Nutritional Epidemiology, Imperial College, London}{}{2016}
+	\cvhonor{}{Experimental Design and Statistical Analysis, FRAME training school}{}{2016}
+	\cvhonor{}{Basic course in Medical and Health Related Research, University of Bergen}{}{2016}
+\end{cvhonors}
 
 
 # Publications in international peer-reviewed journals
@@ -119,134 +110,102 @@ No effect of plasma trimethylamine N-Oxide (TMAO) and plasma trimethyllysine (TM
 1.	Kverneland M, Christensen JJ, **Lysne V**. Lavkarbodietter har kommet for å bli, men hører hjemme i klinikken. Norsk Tidsskrift for Ernæring, 2015(2).
 
 # Conference attendance
-```{r}
-tribble(
-   ~ Year, ~ Conference, ~ Presentation,
-   2021, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), virtual meeting", "",
-   2020, "Nordic Nutrition Conference 2020 (virtual)", "Poster presentation",
-   2020, "Sunn Idrett, Oslo, Norway", "Oral presentation",
-   2019, "The European Nutrition Conference (FENS), Dublin, Ireland", "Poster presentation",
-   2016, "Nordic Nutrition Conference, Gotenburg, Sweden", "",
-   2018, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Halifax, Nova Scotia, Canada", "Poster presentation",
-   2016, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA", "Oral presentation",
-   2014, "FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA", "Poster presentation",
-   2019, "12th International Conference on homocysteine and one-carbon metabolism, Tarragona, Spain", "Poster presentation",
-   2017, "11th International Conference on homocysteine and one-carbon metabolism, Aarhus, Denmark", "Poster presentation",
-   2015, "10th International Conference on homocysteine and one-carbon metabolism, Nancy, France", "Oral presentation",
-   2013, "9th International Conference on homocysteine and one-carbon metabolism, Dublin, Ireland", "Poster presentation",
-   2017, "Norwegian Society for Epidemiology conference, Tromsø, Norway", "",
-   2019, "RStudio::conf2019, Austin, TX, USA", "",
-   2018, "RStudio::conf, San Diego, CA, USA", "",
-   2014, "Nordic Congress for Dietitians, Bergen, Norway", "",
-   2019, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Bergen, Norway", "",
-   2018, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Kristiansand, Norway", "",
-   2017, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "Oral presentation",
-   2015, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
-   2013, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
-   2012, "The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway", "",
-) %>% 
-  arrange(desc(Year)) %>% 
-  brief_entries(when = Year, what = Conference, with = Presentation)
-```
+\begin{cvhonors}
+	\cvhonor{}{The conference of the Norwegian Association of Clinical Dietitians (KEFF), virtual meeting}{}{2021}
+	\cvhonor{}{Nordic Nutrition Conference 2020 (virtual)}{Poster presentation}{2020}
+	\cvhonor{}{Sunn Idrett, Oslo, Norway}{Oral presentation}{2020}
+	\cvhonor{}{The European Nutrition Conference (FENS), Dublin, Ireland}{Poster presentation}{2019}
+	\cvhonor{}{12th International Conference on homocysteine and one-carbon metabolism, Tarragona, Spain}{Poster presentation}{2019}
+	\cvhonor{}{RStudio::conf2019, Austin, TX, USA}{}{2019}
+	\cvhonor{}{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Bergen, Norway}{}{2019}
+	\cvhonor{}{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Halifax, Nova Scotia, Canada}{Poster presentation}{2018}
+	\cvhonor{}{RStudio::conf, San Diego, CA, USA}{}{2018}
+	\cvhonor{}{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Kristiansand, Norway}{}{2018}
+	\cvhonor{}{11th International Conference on homocysteine and one-carbon metabolism, Aarhus, Denmark}{Poster presentation}{2017}
+	\cvhonor{}{Norwegian Society for Epidemiology conference, Tromsø, Norway}{}{2017}
+	\cvhonor{}{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{Oral presentation}{2017}
+	\cvhonor{}{Nordic Nutrition Conference, Gotenburg, Sweden}{}{2016}
+	\cvhonor{}{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA}{Oral presentation}{2016}
+	\cvhonor{}{10th International Conference on homocysteine and one-carbon metabolism, Nancy, France}{Oral presentation}{2015}
+	\cvhonor{}{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{}{2015}
+	\cvhonor{}{FASEB Science research conference: Folic Acid, Vitamin B12 and One Carbon Metabolism, Steamboat Springs, CO, USA}{Poster presentation}{2014}
+	\cvhonor{}{Nordic Congress for Dietitians, Bergen, Norway}{}{2014}
+	\cvhonor{}{9th International Conference on homocysteine and one-carbon metabolism, Dublin, Ireland}{Poster presentation}{2013}
+	\cvhonor{}{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{}{2013}
+	\cvhonor{}{The conference of the Norwegian Association of Clinical Dietitians (KEFF), Oslo, Norway}{}{2012}
+\end{cvhonors}
 
 \newpage
 # Teaching experience
 In the period 2015-current, I have taught courses at every semester of the bachelor and masters program in clinical nutrition at University of Bergen. I've held lectures on topics such as methods in nutrition research, nutritional biochemistry, food science, micronutrient metabolism, genetic disorders in nutrient metabolism and general nutrition in health and disease.
 
 # PhD candidate supervision
-```{r}
-tribble(
-   ~ Year, ~ Student, ~ Role,
-   "2020-", "Åslaug O Matre", "Main Supervisor",
-   "2020-", "Anthea Van Parys", "Main supervisor"
-) %>% 
-  arrange(desc(Year), Student) %>% 
-  brief_entries(when = Year, what = Student, with = Role)
-   
-```
+\begin{cvhonors}
+	\cvhonor{}{Anthea Van Parys}{Main supervisor}{2020-}
+	\cvhonor{}{Åslaug O Matre}{Main Supervisor}{2020-}
+\end{cvhonors}
 
 # Student supervision
 
-```{r}
-tribble(
-   ~ Year, ~ Student, ~ Degree,
-   "2021", "Vilde R Strøm", "BSc",
-   "2021-", "Sunniva Grønnslett", "MSc",
-   "2021-", "Mia Mårteig", "MSc",
-   "2021-", "Christina Osland Johannesen", "MSc",
-   "2021-", "Vilde Haugen Myklebust", "MSc",
-   "2020-21", "Marie Kulseth", "MSc",
-   "2020-21", "Marianne Braatveit", "MSc",
-   "2019-20", "Åslaug O Matre", "MSc",
-   "2020", "Rosemarie Aaby and Ann Helen Børseth", "BSc",
-   "2018", "Åslaug O Matre and Henriette Holm", "BSc", 
-   "2017-18", "Ingvild Marienborg", "MSc",
-   "2016-17", "Jostein Sæle", "MSc",
-   "2016-17", "Marcela Palma", "MSc",
-   "2016-17", "Kristine S. Samuelsen", "MSc",
-   "2016", "Turid Bjørnsen Iversen", "BSc",
-   "2015", "Jostein Sæle, Helene Dahl, Caroline K Jacobsen and Silje S Vabø", "BSc"
-) %>% 
-  arrange(desc(Year), desc(Degree), Student) %>% 
-  brief_entries(when = Year, what = Student, with = Degree)
-```
+\begin{cvhonors}
+	\cvhonor{}{Christina Osland Johannesen}{MSc}{2021-}
+	\cvhonor{}{Mia Mårteig}{MSc}{2021-}
+	\cvhonor{}{Sunniva Grønnslett}{MSc}{2021-}
+	\cvhonor{}{Vilde Haugen Myklebust}{MSc}{2021-}
+	\cvhonor{}{Vilde R Strøm}{BSc}{2021}
+	\cvhonor{}{Marianne Braatveit}{MSc}{2020-21}
+	\cvhonor{}{Marie Kulseth}{MSc}{2020-21}
+	\cvhonor{}{Rosemarie Aaby and Ann Helen Børseth}{BSc}{2020}
+	\cvhonor{}{Åslaug O Matre}{MSc}{2019-20}
+	\cvhonor{}{Åslaug O Matre and Henriette Holm}{BSc}{2018}
+	\cvhonor{}{Ingvild Marienborg}{MSc}{2017-18}
+	\cvhonor{}{Jostein Sæle}{MSc}{2016-17}
+	\cvhonor{}{Kristine S. Samuelsen}{MSc}{2016-17}
+	\cvhonor{}{Marcela Palma}{MSc}{2016-17}
+	\cvhonor{}{Turid Bjørnsen Iversen}{BSc}{2016}
+	\cvhonor{}{Jostein Sæle, Helene Dahl, Caroline K Jacobsen and Silje S Vabø}{BSc}{2015}
+\end{cvhonors}
 
 # Thesis comittees
-```{r}
-tribble(
-   ~ Year, ~ Student, ~ Degree,
-   2021, "Sol Bjørkevoll, Stella Rasmussen, Eirin S Gjerde", "MSc theses",
-   2021, "Hanna H Danielsen, Kristin L Nilsen", "BSc theses",
-   2020, "Maren T Aase,Andrea H Kalås", "MSc theses",
-   2020, "Elise Frederich", "BSc thesis",
-   2018, "Eirin S Gjerde, Emilie H Markhus", "BSc theses",
-   2017, "Trine Larsen, Helene Søiland, Miriam H Brandt", "MSc theses", 
-   2016, "Tonje N Hustoft, Anita E Smette", "MSc theses",
-   2017, "Amalie Moxness, Maria-Anna F Holmefjord, Benedicte Wirkola", "BSc theses",
-   2016, "Synnøve Næss, Ingrid Revheim, Charlotte Z Tøssebro, Renate D Laumann", "BSc theses",
-   2015, "Anette Hetlevik, Maria B Songve", "BSc theses") %>% 
-  arrange(desc(Year), desc(Degree), Student) %>% 
-  brief_entries(when = Year, what = Student, with = Degree)
-```
+\begin{cvhonors}
+	\cvhonor{}{Sol Bjørkevoll, Stella Rasmussen, Eirin S Gjerde}{MSc theses}{2021}
+	\cvhonor{}{Hanna H Danielsen, Kristin L Nilsen}{BSc theses}{2021}
+	\cvhonor{}{Maren T Aase,Andrea H Kalås}{MSc theses}{2020}
+	\cvhonor{}{Elise Frederich}{BSc thesis}{2020}
+	\cvhonor{}{Eirin S Gjerde, Emilie H Markhus}{BSc theses}{2018}
+	\cvhonor{}{Trine Larsen, Helene Søiland, Miriam H Brandt}{MSc theses}{2017}
+	\cvhonor{}{Amalie Moxness, Maria-Anna F Holmefjord, Benedicte Wirkola}{BSc theses}{2017}
+	\cvhonor{}{Tonje N Hustoft, Anita E Smette}{MSc theses}{2016}
+	\cvhonor{}{Synnøve Næss, Ingrid Revheim, Charlotte Z Tøssebro, Renate D Laumann}{BSc theses}{2016}
+	\cvhonor{}{Anette Hetlevik, Maria B Songve}{BSc theses}{2015}
+\end{cvhonors}
 
 # Organizations and comittees
-```{r}
-tribble(
-   ~ Year, ~ Role, 
-   "2021-", "Member of the Norwegian Scientific Committee for Food and Environment (VKM), the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy",
-   "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Cobalamin",
-   "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Niacin",
-   "2020-", "Nordic Nutrition Recommendations 2022, Chapter author, Riboflavin",
-   "2020-", "Review Editor, Frontiers in Nutrition", 
-   "2019", "Leader of the Organizing comittee of the annual conference of The Norwegian Association of Dietitians",
-   "2018-", "Member of the editorial board, Norwegian Journal of Nutrition (NTFE)",
-   "2015-2018", "Member of the academic policy board, The Norwegian Association of Dietitians affilliated with The Norwegian Association of Researchers") %>% 
-  brief_entries(what = Role, when = Year)
-```
+\begin{cvhonors}
+	\cvhonor{}{Member of the Norwegian Scientific Committee for Food and Environment (VKM), the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy}{}{2021-}
+	\cvhonor{}{Nordic Nutrition Recommendations 2022, Chapter author, Cobalamin}{}{2020-}
+	\cvhonor{}{Nordic Nutrition Recommendations 2022, Chapter author, Niacin}{}{2020-}
+	\cvhonor{}{Nordic Nutrition Recommendations 2022, Chapter author, Riboflavin}{}{2020-}
+	\cvhonor{}{Review Editor, Frontiers in Nutrition}{}{2020-}
+	\cvhonor{}{Leader of the Organizing comittee of the annual conference of The Norwegian Association of Dietitians}{}{2019}
+	\cvhonor{}{Member of the editorial board, Norwegian Journal of Nutrition (NTFE)}{}{2018-}
+	\cvhonor{}{Member of the academic policy board, The Norwegian Association of Dietitians affilliated with The Norwegian Association of Researchers}{}{2015-2018}
+\end{cvhonors}
 
 # Skills and languages
 
-```{r}
-tribble(
-   ~ Skill, ~ Level,
-   "R/Rstudio: Statistical programming, data handling and visualization", "Experienced",
-   "SPSS: Statistical software", "Experienced",
-   "STATA: Statistical software", "Basic knowledge",
-   "Microsoft Office: Word, Excel, Powerpoint, Outlook", "Experienced",
-   "Inkscape: Vector graphics", "Intermediate",
-   "Git/GitHub: Version control", "Basic",
-   "Norwegian, Written and oral", "First language",
-   "English, Written and oral", "Fluent") %>% 
-  brief_entries(what = Skill, with = Level)
-```
+\begin{cvhonors}
+	\cvhonor{}{R/Rstudio: Statistical programming, data handling and visualization}{Experienced}{}
+	\cvhonor{}{SPSS: Statistical software}{Experienced}{}
+	\cvhonor{}{STATA: Statistical software}{Basic knowledge}{}
+	\cvhonor{}{Microsoft Office: Word, Excel, Powerpoint, Outlook}{Experienced}{}
+	\cvhonor{}{Inkscape: Vector graphics}{Intermediate}{}
+	\cvhonor{}{Git/GitHub: Version control}{Basic}{}
+	\cvhonor{}{Norwegian, Written and oral}{First language}{}
+	\cvhonor{}{English, Written and oral}{Fluent}{}
+\end{cvhonors}
 
 # References 
 On request
-```{r eval = F, include = F}
-tribble(
-  ~ Name, ~ Contact, ~ Position, 
-  "Jutta Dierkes", "Email: jutta.dierkes@uib.no, Tel: (+47) 95448279", "Professor, Centre for Nutrition, University of Bergen",
-  "Ottar Nygård", "Email: ottar.nygard@helse-bergen.no, Tel: (+47) 55973147", "Professor, the heart department, Haukeland University Hospital") %>% 
-  detailed_entries(with = Name, why = Contact, what = Position)
-```
+
 
