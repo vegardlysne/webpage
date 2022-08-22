@@ -63,7 +63,7 @@ social:
   
 - icon: github
   icon_pack: fab
-  link: https://github.com/VegardLysne
+  link: https://github.com/vegardlysne
 superuser: true
 ---
 
