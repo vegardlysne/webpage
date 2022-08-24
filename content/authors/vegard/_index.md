@@ -67,7 +67,7 @@ social:
 superuser: true
 ---
 
-Clinical Dietitian (RD), PhD, from Norway, currently working as a Senior Advisor at the [Norwegian Institue of Public Health](www.fhi.no). I also hold positions as editorial board member at [The Norwegian Journal of Nutrition](www.ntfe.no), member of the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy at the [Norwegian Scientific Committee for Food and Environment (VKM)](www.vkm.no), and chapter expert in [Nordic Nutrition Recmmendations 2022](https://www.helsedirektoratet.no/english/nordic-nutrition-recommendations-2022). 
+Clinical Dietitian (RD), PhD, from Norway, currently working as a Senior Advisor at the [Norwegian Institute of Public Health](www.fhi.no). I also hold positions as editorial board member at [The Norwegian Journal of Nutrition](www.ntfe.no), member of the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy at the [Norwegian Scientific Committee for Food and Environment (VKM)](www.vkm.no), and chapter expert in [Nordic Nutrition Recmmendations 2022](https://www.helsedirektoratet.no/english/nordic-nutrition-recommendations-2022). 
 
 I earned my PhD in nutrition from the [University of Bergen](https://www.uib.no). In my project I used data from animal studies and epidemiological data to explore the effects of PPAR&alpha;-activation and dietary macronutrient composition on one-carbon metabolism and B-vitamin status. During my postdoc at [Haukeland University Hospital](https://helse-bergen.no/), I was the primary investigator for the [PoMet (Postprandial metabolism in Healthy Young Subjects) study](https://clinicaltrials.gov/ct2/show/NCT04989478).
 

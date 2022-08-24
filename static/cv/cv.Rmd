@@ -8,6 +8,7 @@ profilepic: ../img/Avatar.jpg
 www: www.vegardlysne.no
 twitter: VegardLysne
 linkedin: vegard-lysne
+github: vegardlysne
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
    vitae::awesomecv
@@ -20,7 +21,7 @@ library(tibble)
 ```
 
 # Professional summary
-Clinical Dietitian (RD) from Norway, currently working as a Senior Advisor at the Norwegian Institue of Public Health (www.fhi.no). I also hold positions as editorial board member at The Norwegian Journal of Nutrition (www.ntfe.no), member of the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy at the Norwegian Scientific Committee for Food and Environment (www.vkm.no), and chapter expert on riboflavin, niacin, and vitamin B12 in the Nordic Nutrition Recmmendations 2022. I'm the primary investigator of the Postprandial Metabolism in Healthy Young Subjects (PoMet) study (ClinicalTrials.gov: NCT04989478). My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language, data reporting, and visualization.
+Clinical Dietitian (RD) from Norway, currently working as a Senior Advisor at the Norwegian Institute of Public Health (www.fhi.no). I also hold positions as editorial board member at The Norwegian Journal of Nutrition (www.ntfe.no), member of the Scientific Panel on Nutrition, Dietetic Products, Novel Food and Allergy at the Norwegian Scientific Committee for Food and Environment (www.vkm.no), and chapter expert on riboflavin, niacin, and vitamin B12 in the Nordic Nutrition Recmmendations 2022. I'm the primary investigator of the Postprandial Metabolism in Healthy Young Subjects (PoMet) study (ClinicalTrials.gov: NCT04989478). My main professional interests are methods in nutritional epidemiology and statistics, including programming in the R language, data reporting, and visualization.
 
 
 # Education
@@ -70,7 +71,8 @@ tribble(
 
 # Publications in international peer-reviewed journals
 
-1. **Lysne V**, Anfinsen ÅM, Van Parys A. Should we all adopt the DASH diet? Eur J Prev Cardiol. 2022
+1. Hjorth T, Schadow A, Revheim I, Spielau U, Thomassen LM, Meyer M, Piotrowski K, Rosendahl-Riise H, Rieder A, Varela P, **Lysne V**, Ballance S, Koerner A, Landberg R, Buyken A, Dierkes J. Sixteen-week multicentre randomised controlled trial to study the effect of the consumption of an oat beta-glucan-enriched bread versus a whole-grain wheat bread on glycaemic control among persons with pre-diabetes: a study protocol of the CarbHealth study. BMJ Open 2022. [PMID: 35998955](https://pubmed.ncbi.nlm.nih.gov/35998955/)
+1. **Lysne V**, Anfinsen ÅM, Van Parys A. Should we all adopt the DASH diet? Eur J Prev Cardiol, 2022. [PMID: 35043936](https://pubmed.ncbi.nlm.nih.gov/35043936/)
 1. Van Parys A, Brække MS, Karlsson T, Vinknes KJ, Tell GS, Haugsgjerd TR, Ueland PM, Øyen J, Dierkes J, Nygård O, **Lysne V**. Assessment of Dietary Choline Intake, Contributing Food Items and Associations with One-carbon and Lipid Metabolites in Middle-aged and Elderly Adults: The Hordaland Health Study. J Nutr, 2022. [PMID: 34643705](https://pubmed.ncbi.nlm.nih.gov/34643705/)
 1. Hilvo M, Dhar I, Lääperi M, **Lysne V**, Sulo G, Tell GS, Jousilahti P, Nygård OK, Brenner H, Schöttker B, Laaksonen R. Primary cardiovascular risk prediction by LDL-cholesterol in Caucasian middle-aged and older adults: a joint analysis of three cohorts. Eur J Prev Cardiol, 2022. [PMID: 34060615](https://pubmed.ncbi.nlm.nih.gov/34060615/)
 1. Van Parys A, Karlsson T, Vinknes KJ, Olsen T, Øyen J, Dierkes J, Nygård O, **Lysne V**. Food Sources Contributing to Intake of Choline and Individual Choline Forms in a Norwegian Cohort of Patients With Stable Angina Pectoris. Front Nutr, 2021. [PMID: 34055860](https://pubmed.ncbi.nlm.nih.gov/34055860/)
